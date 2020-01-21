@@ -1,0 +1,126 @@
+{% extends 'gsecWorkStatus/base1.html' %}
+{% block info_agenda %}
+    <style>
+        .hidden{
+            display: none;
+        }
+    </style>
+    <script>
+
+        function verify(id) {
+
+
+            $.ajax({
+                type: "POST",
+                url: "/gsec/verified/"+id+"/",
+
+
+                data: {
+                    id: id,
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                success: function () {
+
+
+                    {#var bid ="#thank"+id;#}
+                    var cid ="#agenda"+id;
+
+                    $(cid).css("display","none");
+
+                 },
+
+            });
+            console.log("end");
+        }
+        function dissaprove(id) {
+
+            $.ajax({
+                type: "POST",
+                url: "/gsec/disapprove/"+id+"/",
+
+
+                data: {
+                    id: id,
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                success: function () {
+
+
+                    {#var bid ="#thank"+id;#}
+                    var cid ="#agenda"+id;
+
+                    $(cid).css("display","none");
+
+                 },
+
+            });
+            console.log("end");
+        }
+
+    </script>
+
+<h3 align="center" style="font-family: 'Tibetan Machine Uni';">Approve Agenda</h3>
+
+<i style="color: red">If you approve any agenda then its Status comment and Agenda Category will be set as per below</i>
+<br><br>        <div class="row ">
+
+        {% for agenda in all_agenda  %}
+
+            {% if agenda.StatusCategory != "" %}
+
+                <div class="col-lg-6 container-fluid " id="agenda{{ agenda.pk }}">
+                <div class="card bg-light mb-3" style="   max-width: 50rem; padding: 20px;background-color: #EEEEEE; " >
+
+                    <div class="card-header "  ><span style="text-align: right;border: solid 1px;padding: 1px ;margin:5px;" class="expand"> +  </span><strong style="font-weight: bold;">{{ agenda.title }}</strong></div>
+{#                        <div class="col-md-2" align="right">+</div>#}
+
+                <div style="display:none;background-color: whitesmoke;padding: 10px;" class="card-body boxcontent">
+                <h5 class="card-title">{{ agenda.user.last_name }}</h5>
+                <p class="card-text"><b>Comment:</b> {{ agenda.unapprovedComment }}</p>
+                <p class="card-text"><b>Status:</b> {{ agenda.unapprovedStatus }}</p>
+                    <p class="card-text"><b>Agenda Category :</b> {{ agenda.StatusCategory }} </p>
+                    <p class="card-text"><b>Description : </b>{{ agenda.description }}</p>
+                    <div class="row">
+                        <div  class="col-lg-6">
+				                    <button type="submit" value="approve" id="{{ agenda.pk }}" class="btn btn-primary" onclick="dissaprove({{ agenda.pk }})" style="background-color: #081D40;;">Disapprove</button>
+
+		    {#  </form> #}</div>
+                        <div align="right" class="col-lg-6">
+{#                    <form action="{% url 'candidate:verified' agenda.pk %}" method="post">#}
+{#                {% csrf_token %}#}
+                    <button type="submit" value="approve" id="{{ agenda.pk }}" class="btn btn-primary" style="background-color: #081D40;" onclick="verify({{ agenda.pk }})">Approve</button>
+
+{#                </form>#}
+                        </div></div>
+
+                </div>
+                </div>
+              </div>
+{#                <h1>{{ agenda.user }}</h1>#}
+{#                <h2>{{ agenda.title }}</h2>#}
+{#                {{ agenda.id }}#}
+{#                <li>comment  :   {{ agenda.unapprovedComment }}</li><br>#}
+{#                 <li>status  :   {{ agenda.unapprovedStatus }}</li>#}
+{#                    <li> status Category : {{ agenda.StatusCategory }}</li>#}
+{#                <form action="{% url 'candidate:verified' agenda.pk %}" method="post">#}
+{#                {% csrf_token %}#}
+{#                <input type="submit" value="approve">#}
+{#                </form>#}
+
+            {% endif %}
+
+        {% endfor %}
+        </div>
+ <script>
+      $(document).ready(function(){
+
+        $("footer").addClass("fixed-bottom");
+        $(".expand").click(function(){
+        $(".boxcontent").eq($('.expand').index(this)).toggle();
+        });
+
+
+    });
+
+    </script>
+{%endblock%}

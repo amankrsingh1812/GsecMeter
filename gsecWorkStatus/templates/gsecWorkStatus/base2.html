@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width = device-width, initial-scale = 1.0, maximum-scale = 1.0 user-scalable = no" />
+    <meta name="keywords" content="CIS, SWC, iit, guwahati, insight, iitb, vox populi, bsp, watch out, fifth estate, scholars avenue, media, news, reesearch, gymkhana, campus, iitian"/>
+    <title>G-Sec Meter | CIS, SWC - IIT Guwahati</title>
+    <meta name="author" content="CIS, SWC - IIT Guwahati">
+    <meta property="og:site_name" content="G-Sec Meter | CIS, SWC- IIT Guwahati" />
+	<meta property="og:description" content="The mission of CIS, SWC is to report and analyze events that affect the campus, and to present the information in structured and easily accessible manner to IIT Guwahati student community.">
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://www.viisaus.org/gsmeter" />
+	<meta property="og:title" content="G-Sec Meter | CIS, SWC - IIT Guwahati" />
+	<meta property="og:image" content="http://iitg.ernet.in/freshers/res/images/ico/logo.png" />
+	<meta property="article:section" content="Education" />
+	<!-- <meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="http://iitg.ernet.in/freshers/res/images/ico/logo.png">
+	<meta name="twitter:title" content="G-Sec Meter | CIS, SWC - IIT Guwahati">
+	<meta name="twitter:url" content="https://www.viisaus.org/gsmeter">
+	<meta name="twitter:domain" content="viisaus.org"> -->
+	<meta name="google-site-verification" content="9hHVQMxGol89-RssIvrMH0x225d9IvItUX6jFKYHYsg" />
+	<meta name="description" content="The mission of CIS, SWC is to report and analyze events that affect the campus, and to present the information in structured and easily accessible manner to IIT Guwahati student community." />
+
+      <!--Load the path to static Files-->
+      {% load staticfiles %}
+      {% load static %}
+
+
+    <script type="text/javascript" src="{% static 'gsecWorkStatus/js/jquery.js' %}"></script>
+    <!--[if lte IE 8]><script language="javascript" type="text/javascript" src="{% static 'gsecWorkStatus/js/excanvas.min.js' %}"></script><![endif]-->
+    <script src="{% static 'gsecWorkStatus/js/jquery.flot.js' %}"></script>
+    <script src="{% static 'gsecWorkStatus/js/jquery.flot.time.js' %}"></script>
+    <script src="{% static 'gsecWorkStatus/js/jquery.flot.pie.js' %}"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+    </style>
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+        google.load("visualization", "1", {packages:["corechart"]});
+    </script>
+
+      <!-- Fav Icon -->
+      <link rel="icon" href="{% static 'gsecWorkStatus/images/IIT_Guwahati_Logo.svg' %}">
+      <!-- Apple Touch Icon -->
+      <link rel="apple-touch-icon" href="{% static 'gsecWorkStatus/images/IIT_Guwahati_Logo.svg' %}">
+      <!-- Google Font -->
+      <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+      <!-- Google Material Icon -->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!-- Font Awesome Icon -->
+      <link href=" {% static 'gsecWorkStatus/font-awesome.min.css' %}" rel="stylesheet">
+      <!-- IonIcons Icon -->
+      <link href=" {% static 'gsecWorkStatus/ionicons.min.css' %}" rel="stylesheet">
+      <!-- Animation -->
+      <link href=" {% static 'gsecWorkStatus/animate.css' %}" rel="stylesheet">
+      <link href=" {% static 'gsecWorkStatus/view.css' %}" rel="stylesheet">
+      <!-- Animation On Scroll -->
+      <link href=" {% static 'gsecWorkStatus/aos.min.css' %}" rel="stylesheet">
+      <!-- Bootstrap -->
+      <link href=" {% static 'gsecWorkStatus/bootstrap.css' %}" rel="stylesheet">
+      <!-- Materialize -->
+      <link href=" {% static 'gsecWorkStatus/materialize.css' %}" rel="stylesheet">
+      <!-- Swiper Slider -->
+      <link href=" {% static 'gsecWorkStatus/swiper.css' %}" rel="stylesheet">
+      <!-- Custom Style -->
+      <link href=" {% static 'gsecWorkStatus/style-purple.css' %}" rel="stylesheet">
+	  <!-- Circle Style -->
+	  <link rel="stylesheet" href=" {% static 'gsecWorkStatus/circle.css' %}">
+        <!-- youtube Icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
+
+
+
+    <!--for pie chart-->
+
+
+
+
+	<script type="text/javascript" src="{% static 'gsecWorkStatus/javascript/loader.js' %}"></script>
+</head>
+<body>
+
+        <!-- FB comment javascipt-->
+        <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<!--==========================================
+         PAGE LOADER
+         ===========================================-->
+      <div id="page-loader">
+         <div class="animated bounceInDown">
+            <div class="spinner"></div>
+         </div>
+         <div class="text-div text-center animated zoomIn">
+            <p class="text-uppercase">G-Sec Meter</p>
+            <!-- Name Only -->
+            <h6 class="text-uppercase">Students' Gymkhana Council 2017-18</h6>
+         </div>
+      </div>
+  <!--==========================================
+        HEADER
+ ===========================================-->
+      <div id="header" class="shadow">
+         <!-- Navigation -->
+         <nav>
+            <div class="nav nav-wrapper navbar-fixed-top">
+               <div class="container-fluid">
+                  <!-- Menu Option -->
+                  <ul class="nav-justified ">
+
+                      <li><a href="{% url 'candidate:vp' %}" {%block vp_selected%} {%endblock%}>Vice-President</a></li>
+                     <li><a href="{% url 'candidate:cultural' %}" {%block cultural_selected%} {%endblock%}>Cultural</a></li>
+                     <li><a href="{% url 'candidate:sports' %}"{%block sports_selected%} {%endblock%}>Sports</a></li>
+					 <li style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/en/1/12/IIT_Guwahati_Logo.svg" style="width:25%"></li>
+                      <li><a href="{% url 'candidate:hab' %}"{%block hab_selected%} {%endblock%}>HAB</a></li>
+
+                     <li><a href="{% url 'candidate:technical' %}"{%block technical_selected%} {%endblock%}>Technical</a></li>
+                      <li><a href="{% url 'candidate:technical' %}"{%block senator1_selected %} {%endblock%}>Senator1</a></li>
+                     <li><a href="{% url 'candidate:welfare' %}"{%block welfare_selected%} {%endblock%}>Welfare</a></li>
+
+                  </ul>
+                  <a href="#0" data-activates="nav-mobile" id="nav-btn" class="button-collapse nav-icon">
+                  <i class="ion-navicon"></i></a>
+
+
+                  <!-- Side Nav -->
+                  <div id="side-nav">
+
+                     <div id="nav-link-wrapper">
+                        <!-- Side Menu Option -->
+                        <ul>
+                           <li><a class="nav-link" href="{% url 'candidate:vp' %}">Vice-President</a></li>
+                           <li><a class="nav-link" href="{% url 'candidate:cultural' %}">Cultural</a></li>
+                           <li><a class="nav-link" href="{% url 'candidate:sports' %}">Sports</a></li>
+                           <li><a class="nav-link" href="{% url 'candidate:technical' %}">Technical</a></li>
+                            <li><a class="nav-link" href="{% url 'candidate:senator1' %}">Senator1</a></li>
+                           <li><a class="nav-link" href="{% url 'candidate:welfare' %}">Welfare</a></li>
+                           <li><a class="nav-link" href="{% url 'candidate:hab' %}">HAB</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <!-- ./Side Nav -->
+                  <!-- Side Nav Mask -->
+                  <div id="side-nav-mask"></div>
+               </div>
+            </div>
+         </nav>
+
+          <!-- Name and Status -->
+         <div id="intro" class="container">
+         </div>
+      </div>
+
+
+
+
+
+	<script type="text/javascript" src="{% static 'gsecWorkStatus/javascript/loader.js' %}"></script>
+<div style="margin-top: 100px;">
+
+    {%block authority %} {%endblock%}
+
+</div>
+    <!--==========================================
+                 CONTACT
+        ===========================================-->
+      <section id="contact" class="section" style="display:none">
+         <h4 class="text-uppercase text-center">Contact Us</h4>
+         <div class="container">
+            <!-- Location MAP -->
+            <div class="row">
+               <div class="col col-md-12 col-sm-12 col-xs-12">
+                  <div id="google-map" data-aos="zoom-in" data-aos-delay="0" data-aos-offset="0">
+                     <div id="map-container"></div>
+                     <div id="cd-zoom-in" class="custom-btn"><i class="material-icons text-center">add</i></div>
+                     <div id="cd-zoom-out" class="custom-btn"><i class="material-icons text-center">remove</i></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+      <!--==========================================
+                 FOOTER
+      ===========================================-->
+      <footer>
+         <div class="container">
+            <p class="text-center">
+               © CIS(Campus Information System) | Designed by
+               <a href="#">
+                   <strong><a href="https://www.fb.com/swciitg" target="_blank">SWC, IIT Guwahati</a></strong>
+               </a>
+            </p>
+         </div>
+      </footer>
+      <!-- Back To Top Button -->
+      <a href="#header" id="btp" class="back-to-top btn-floating waves-effect waves-light btn-large custom-btn">
+      <i class="fa fa-angle-double-up"></i>
+      </a>
+
+
+          <!-- ================== SCRIPTS ================== -->
+      <script src="{% static 'gsecWorkStatus/javascript/jquery-2.1.3.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/aos.min.js' %}"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCO3E4rPKVUYhCVRaKgLFbtCca2AF-za04"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/custom-map.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/bootstrap.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/materialize.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/retina.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/jquery.filterizr.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/swiper.jquery.min.js' %}"></script>
+      <script src="{% static 'gsecWorkStatus/javascript/custom-script.js' %}"></script>
+
+</body>
+</html>

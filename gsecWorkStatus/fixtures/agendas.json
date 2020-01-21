@@ -1,0 +1,223 @@
+[
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 1,
+    "fields": {
+        "user": 3,
+        "title": "mess ka paisa ",
+        "agendaCategory": "jan heet ghanta",
+        "description": "janta ki maang nahi karunga poori",
+        "status": "ONGOING-SHORT-TERM",
+        "representativeComments": "no comments",
+        "currentStatus": "as always",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "shivam kumar"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "title": "abc",
+        "agendaCategory": "abc",
+        "description": "abcdef",
+        "status": "Completed",
+        "representativeComments": "krta hun bai",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "abcdef"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 3,
+    "fields": {
+        "user": 7,
+        "title": "abc",
+        "agendaCategory": "abc",
+        "description": "abcdef",
+        "status": "Broken",
+        "representativeComments": "please approve my proposal",
+        "currentStatus": "nahi karunga bc",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "Broken"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 4,
+    "fields": {
+        "user": 7,
+        "title": "agenda1",
+        "agendaCategory": "welfare",
+        "description": "description",
+        "status": "Not-Evaluated-Subjective",
+        "representativeComments": "rc",
+        "currentStatus": "cs",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "Not-Evaluated-Subjective"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 5,
+    "fields": {
+        "user": 7,
+        "title": "agenda2",
+        "agendaCategory": "cultural",
+        "description": "no desc",
+        "status": "Completed",
+        "representativeComments": "madsmdka",
+        "currentStatus": "dmak",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "Onging-Long-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 6,
+    "fields": {
+        "user": 8,
+        "title": "24 hr net",
+        "agendaCategory": "AC",
+        "description": "DESCP",
+        "status": "Completed",
+        "representativeComments": "rc",
+        "currentStatus": "cs",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "Completed"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 7,
+    "fields": {
+        "user": 8,
+        "title": "agendasen",
+        "agendaCategory": "lsjdf",
+        "description": "ljds",
+        "status": "Ongoing-Short-term",
+        "representativeComments": "dskm",
+        "currentStatus": "ljjj",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "0",
+        "StatusCategory": "Ongoing-Short-term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 8,
+    "fields": {
+        "user": 8,
+        "title": "abc",
+        "agendaCategory": "welfare",
+        "description": "description",
+        "status": "Onging-Long-Term",
+        "representativeComments": "please approve",
+        "currentStatus": "sfff",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": "Onging-Long-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 9,
+    "fields": {
+        "user": 7,
+        "title": "ticket booking",
+        "agendaCategory": "transport",
+        "description": "description",
+        "status": "Not-Started",
+        "representativeComments": "krdodsad",
+        "currentStatus": "mlmsamd",
+        "unapprovedComment": "krdodsad",
+        "unapprovedStatus": "mlmsamd",
+        "approvedBy": "",
+        "StatusCategory": "Ongoing-Short-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 10,
+    "fields": {
+        "user": 7,
+        "title": "Internet from 12 noon - 2 pm",
+        "agendaCategory": "Campus Junta",
+        "description": "A centralised laundry system for each hostel, so that much of a student\u2019s time which is wasted standing in the line/waiting for a washing machine, can be utilised for better purposes. It can also be implemented as a single system for the whole campus.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "Ongoing-Short-term\tNot looking likely as a pan institute trial exercise in short-term",
+        "currentStatus": "Trial to be started in April.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": "Ongoing-Short-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 11,
+    "fields": {
+        "user": 9,
+        "title": "manthan",
+        "agendaCategory": "college",
+        "description": "party all night with drama and action",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "fund granted",
+        "currentStatus": "after mid sem",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 12,
+    "fields": {
+        "user": 10,
+        "title": "mess refund",
+        "agendaCategory": "askjdkjlk",
+        "description": "jljlljdsjsd sdlnfj mdsfc",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "no ",
+        "currentStatus": "yes",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": "Ongoing-Short-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 13,
+    "fields": {
+        "user": 11,
+        "title": "ticket booking",
+        "agendaCategory": "dajk",
+        "description": "snddlnslfn lfnsdlkn",
+        "status": "Completed",
+        "representativeComments": "dslnfnsnln",
+        "currentStatus": "dsmkfm",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+}
+]

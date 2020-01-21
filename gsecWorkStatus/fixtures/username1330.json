@@ -1,0 +1,524 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$oP9lN3OsKkXo$rH4UGdhGfCP04THJR6jMbHkNYKyylC7g5EPQS5ONsUE=",
+        "last_login": "2018-06-20T19:44:16.289Z",
+        "is_superuser": true,
+        "username": "shivam",
+        "first_name": "CIS",
+        "last_name": "baap",
+        "email": "shivamkr143@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-05-30T07:19:26Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$Uolo7lTb513H$ChH/J4l2TgY4gh1P15HwfBnmjnUPVCb/rEMha0vaaEI=",
+        "last_login": "2018-06-19T10:15:59.810Z",
+        "is_superuser": false,
+        "username": "Nikhil_nagraj",
+        "first_name": "GS",
+        "last_name": "Nikhil Nagraj",
+        "email": "vp@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-05T12:30:41Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$Dy75dLwGHcAX$NZz4VvuPXuM3Gp1zOwMp63tr1oNPZ//BnupgBJPwLao=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "technical",
+        "first_name": "GS",
+        "last_name": "Vamshi Krishna Reddy",
+        "email": "ani.reddy@iitg.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-19T11:03:26Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$wi0VyXAI1fGZ$gr0QI9nE6ncJ0TNhyYSJftF+RJ8lKfBNbaI653qCEL4=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "vp",
+        "first_name": "GS",
+        "last_name": "N. Sarath Chandra",
+        "email": "n.sarath@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-19T21:00:11.401Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$oltVlr6ldqv2$jUuuZoYgEtArIuWZ/xBJvWCPA14W+dXQxUyBPceeflM=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_kaila",
+        "first_name": "GS",
+        "last_name": "Kaila Harsha Vardhan Reddy",
+        "email": "harsha_99@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-19T21:04:17Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 16,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$zXKzfcQ8CbOI$+S+XQhVO3c8/FPgVF5WQoudnI0vAym0nYzOaVeUPGH8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_krishan",
+        "first_name": "GS",
+        "last_name": "KRISHAN KUMAR",
+        "email": "krishan.kumar@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-19T21:06:26.519Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 17,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$sydigOFdNIaC$qXFgSp4Wc3DKjwj72HXC61SQtNMYY2ht5x6I4+wIklA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_anirban",
+        "first_name": "GS",
+        "last_name": "Anirban Bhowal",
+        "email": "a.bhowal@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-19T21:10:09.384Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 18,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$0U8Kd3rXuoDg$cG2+/DqU5xSoOsbDO7wugxejxVwZzzuaDtO9qfj0t7U=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_himanshu",
+        "first_name": "GS",
+        "last_name": "Himanshu Raturi",
+        "email": "himan174107043@iitg.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:09:36.062Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 19,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$NG2zT0AvOLCt$iRXkNOzZ7/44EAaTuH46ym9oIcpch2DYW0Wel9TYV1o=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "girlsenator_jigyasa",
+        "first_name": "GS",
+        "last_name": "Jigyasa",
+        "email": "jigyasa@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:13:54.400Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 20,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$ZqcTYPbJ7aXq$sJG+uDh23McdXdfJBl5RiyKq4cFI5gy2rk2vegQeYUc=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_mayank",
+        "first_name": "GS",
+        "last_name": "Mayank Kumar",
+        "email": "mayank333@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:19:39Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 21,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$TCKpmyATyqFy$76Nl+vqq9UoaTB1TppWF1AfRQ8S97KnxCSrv7pIPXMU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "sail",
+        "first_name": "GS",
+        "last_name": "Mehul Bhatia",
+        "email": "mehulbhatia54@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:22:31.044Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 22,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$3Ogeb05wTaJd$bgF0Fm1pg2Q06B5KuHvEiGl6kxV7mH3/NSETFt3mfc8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_namrata",
+        "first_name": "GS",
+        "last_name": "Namrata Gupta",
+        "email": "namrata.gupta@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:24:05.865Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 23,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$1f2cCjNwx5tg$+5IE7zKGEP/1VbV2Bu0AqtY7SRenI9NCC/vmQ4A2ydI=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_nikhil",
+        "first_name": "GS",
+        "last_name": "Nikhil Panse",
+        "email": "nikhil.panse98@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:25:20.941Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 24,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$vkxuqeS7gSLF$RdVVq0fHZfSV7JsoCTV3gl3XGpRjoWUarSFSB6XkmlY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "sports",
+        "first_name": "GS",
+        "last_name": "Nikunj Mittal",
+        "email": "nikunj.mittal@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:27:09Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 25,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$qdJBto6zPY8q$DtQH6Z3TnCsmtGk4Stg+3XpF2swT81PHC60h00ywHIc=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "welfare",
+        "first_name": "GS",
+        "last_name": "Nishant Bharti",
+        "email": "nishant.bharti@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:29:35.888Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 26,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$vJD5fYw2QIq5$ZFyIGfbsFi0/T/VIXOYcVHoG61EC9/lW/TVjAfZ7N2E=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "girlsenator_parul",
+        "first_name": "GS",
+        "last_name": "Parul Bansal",
+        "email": "parulbansal98@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:32:11.047Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 27,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$hXmM0bsl8rlM$8ceTs1LKjioAIXEd+ct+i3+UMAMNeYYTanWKO18jn3s=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_prashanth",
+        "first_name": "GS",
+        "last_name": "Prashant Singh",
+        "email": "prashant9oct@iitg.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:35:57Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 28,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$pQWH9eXunMwY$ynLujgncrRtzJbvP6/z2xut7dMStbSChscLIfGBX99g=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "girlsenator_pushya",
+        "first_name": "GS",
+        "last_name": "Pushya Bansal",
+        "email": "pushyabansal@iitg.ernet.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:37:59.810Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 29,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$Rk3Ah0N148Sa$sHSp/ZMWs8xYKYutzr0hYxQiZdj3vMdI0GAhIv7RJRw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "hab",
+        "first_name": "GS",
+        "last_name": "Sahil Sareen",
+        "email": "sahil172123037@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:39:53.056Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 30,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$HSiz576iiQ3A$YX6d+jl3nqlZWKyvCv7lpYonra99789P3mUxTUVFdAU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_shivani",
+        "first_name": "GS",
+        "last_name": "Shivani Gupta",
+        "email": "shivanicl16@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:41:36.521Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 31,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$oDMvJGb1S75e$NizValewa3SAxrQ0e8xW9/8K2K2qgjCgEFXnhsbMbaY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "cultural",
+        "first_name": "GS",
+        "last_name": "Shivank Shridhar",
+        "email": "shivankshridhar@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:43:10.342Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 32,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$dHiCdkHniKT0$uUZHUjZkDSoQwL4yU1jF3Mr3xNtRTN4MP5Va0oMaVS0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ugsenator_samarth",
+        "first_name": "GS",
+        "last_name": "Samarth Chauhan",
+        "email": "samarthchauhan79@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:44:41.761Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 33,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$XoMKCo2RXz32$AZbF22k347ewBaJ+EObp4qjXFhfx3DXerh/PnhsTOYk=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "swc",
+        "first_name": "GS",
+        "last_name": "Tushar Yadav",
+        "email": "tusharyadav@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:45:59.772Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 34,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$MKHDQD4ImPaR$ACkXlZ3zGe3SyL0lTaOqW6yNwM9CdpiWpHFMuDdwQ6I=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_upasana",
+        "first_name": "GS",
+        "last_name": "Upasana Mahanta",
+        "email": "upasana@iitg.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T05:47:33.783Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 35,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$5IdFLZPeJO5p$U23PykUjDpkTyjMmTIreTJ4+Gdc7/bupoG/hx2C2fPU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_das",
+        "first_name": "GS",
+        "last_name": "ANIRBAN DAS",
+        "email": "anirb174104052@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T06:38:45.536Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 36,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$Vp6DdWlMt9GY$rz+N6SOegHsmoMd66uShz8RpBjEqEwY62ixdaVUglBQ=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pgsenator_navneet",
+        "first_name": "GS",
+        "last_name": "Navneet Redhu",
+        "email": "notavailable@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T06:52:28Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 37,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$0KYkajfL34WC$9/0kUSIokMedzq95GnyvXBMQ1pOy2ZLB4YYxkVla6Tc=",
+        "last_login": "2018-06-20T19:37:18.614Z",
+        "is_superuser": false,
+        "username": "ugsenator_anmol",
+        "first_name": "GS",
+        "last_name": "Anmol Deep",
+        "email": "adeep@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T14:18:40.096Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 38,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$XPrtrImuoNRo$53E/9cr87zSTUfwqQKszH69uXpDooW7+DMfjHFjsBo4=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "swc123",
+        "first_name": "GS",
+        "last_name": "Student Web Commitee",
+        "email": "swc@iitg.ernet.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-20T20:49:27.374Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 39,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$MEJGBdYjCLCo$/Gu8+fJQd2wEegzNqMtNPiS3hpzCrsTVeTqYc+K6vDw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "register",
+        "first_name": "GS",
+        "last_name": "sdn ljgl",
+        "email": "register@h.dfd",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-06-21T08:04:29.599Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

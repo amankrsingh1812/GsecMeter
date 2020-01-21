@@ -1,0 +1,206 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 415,
+    "fields": {
+      "user": 22.0,
+      "title": " 24 hours availability of food items in academic complex area via vending machines. ",
+      "agendaCategory": " FOOD ",
+      "description": " The canteens in the academic complex and library close by 6:00 pm while the library remains open till 2:00 am on regular days, and hence some sort of food supply is necessary in that area. The problem becomes extreme during mid and end semester examinations, when even the library becomes functional for 24 hours Hence, a 24 hours source of food is required. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 416,
+    "fields": {
+      "user": 22.0,
+      "title": " Separate representative for hospital related issues. ",
+      "agendaCategory": "Welfare ",
+      "description": "Many issues related to hospital have been surfacing over a long period of time like the quality of treatment, efficacy of medicines, competency of doctors, etc. The present medium of complaint is inefficient and inadequate. Therefore establishing a communication link between the hospital authorities and the students is essential. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 417,
+    "fields": {
+      "user": 22.0,
+      "title": "Online book re-issuing. ",
+      "agendaCategory": " Library",
+      "description": "It becomes a tedious task for students to carry books for reissuing them. The Laxminath Bezbaroa library section on intranet can include a portal for online reissuing.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 418,
+    "fields": {
+      "user": 22.0,
+      "title": " Making CC available 24 hours during examinations.",
+      "agendaCategory": "CC",
+      "description": " Many of the students do not have laptops in the campus especially during the first and second semesters. Also, it becomes very cumbersome for the ones who have it, to carry them. Majority of the course material is online. Therefore, the availability of CC for 24 hours especially, during the examination time is necessary.  ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 419,
+    "fields": {
+      "user": 22.0,
+      "title": "Improving the quality of core canteens and stationeries. ",
+      "agendaCategory": "Food And Stationeries ",
+      "description": "There is no provision for the assessment of the quality of food and stationery shops in the academic complex and library. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 420,
+    "fields": {
+      "user": 22.0,
+      "title": "Setting up water coolers in SAC, Food Court and Conference Centre. ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 421,
+    "fields": {
+      "user": 22.0,
+      "title": "Making the application and payment of the transcript online. ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 422,
+    "fields": {
+      "user": 22.0,
+      "title": "A 24 hours printing facility in the campus ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 423,
+    "fields": {
+      "user": 22.0,
+      "title": "Organising more cultural events in the campus like Food Festival (started this year) ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 424,
+    "fields": {
+      "user": 22.0,
+      "title": " Improving the system of E-rickshaws in the campus ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 425,
+    "fields": {
+      "user": 22.0,
+      "title": "Organising live Q&A rounds, in collaboration with CBS, in which junta can ask anything regarding the working of senate. ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 426,
+    "fields": {
+      "user": 22.0,
+      "title": "Extending timings of the indoor courts. ",
+      "agendaCategory": "Miscellaneous",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

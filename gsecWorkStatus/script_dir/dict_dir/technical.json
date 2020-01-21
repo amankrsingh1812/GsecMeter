@@ -1,0 +1,119 @@
+{
+  "Ongoing-Short-term": {
+    "Minor Changes in New SAC Club Rooms": {
+      "category": "INFRASTRUCTURAL IMPROVEMENTS",
+      "description": "Separate partition within club rooms, to ensure the security of the costly components that we will get in near future .These partition will be having limited access which will be controlled by secretaries of clubs.",
+      "current_status": "Changed plan to safe boxes, costly equipment kept under lock and key.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Official Board Repository page": {
+      "category": "DOCUMENTATION AND VISIBILITY",
+      "description": "Introduction of official club wise repository page which includes documentation of various tutorials and Project Documentations.\n",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Tech-Board Blog": {
+      "category": "DOCUMENTATION AND VISIBILITY",
+      "description": "Releasing the blogs sharing various learning experience of the active members of the Technical Board Club, titled \u201cHumans of Technical Board\u201d.",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Development of 4I Labs": {
+      "category": "4I LABS ",
+      "description": "To develop the inventory and infrastructure of 4i labs.",
+      "current_status": "3D printer, digital screens, oscilloscope, function generator etc. already bought.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    }
+  },
+  "Ongoing-Long-term": {
+    "Room Allocation in SAC": {
+      "category": "INFRASTRUCTURAL IMPROVEMENTS",
+      "description": "Collaborate with other Boards to complete the second floor of New SAC,to facilitate various other clubs and activities. This will also help to facilitate dedicated space for 4i labs.",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "TEDx": {
+      "category": "EVENTS ORGANIZATION",
+      "description": "Re-initiation of TEDx-IIT Guwahati to express the ideas of the north-east to the world.",
+      "current_status": "A separate team working on licensing issues right now.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Collaboration With Industry": {
+      "category": "4I LABS ",
+      "description": "Collaboration with industry to understand real problems which can be solved with technology.",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    }
+  },
+  "Not-Evaluated": {
+    "Techniche - National Events": {
+      "category": "EVENTS ORGANIZATION",
+      "description": "To make Club teams to work along with the Techniche team in the designing of problem statements of technical events of techniche to enhance the quality of problem statements.",
+      "current_status": "Standard point for 3 years running. No definitive marker to judge.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "4i lab Coordinators & Team": {
+      "category": "INTRODUCTION OF NEW POSITIONS",
+      "description": "An overall Co-ordinator with a core team to dedicatedly work on the vision of the 4i labs.",
+      "current_status": "Current coordinators Naveen and Manu Tej working with me for a proper structural set up.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Cybersecurity": {
+      "category": "Others",
+      "description": "Collaboration with Computer Centre to improve the cybersecurity of the campus network.",
+      "current_status": "",
+      "representative_comment": "\"Bug bounty program coordinated by Sai Krishna for\nimprovements and incouraging developers.\u201d",
+      "verifier_comment": ""
+    }
+  },
+  "Broken": {
+    "Talks by Research Scholars": {
+      "category": "EVENTS ORGANIZATION",
+      "description": "Research talks by the PhD students and faculties from various department labs of the campus to enhance research culture in Btech Students.",
+      "current_status": "",
+      "representative_comment": "\"Restructured to Alumni and Industrial talks.\u201d",
+      "verifier_comment": ""
+    },
+    "Inter-Hostel Activities": {
+      "category": "EVENTS ORGANIZATION",
+      "description": "Conducting workshop and activities in individual hostels with help of technical secretaries, in order to encourage participation.",
+      "current_status": "",
+      "representative_comment": "\"Tech Secys of hostels not able to come to a unified point-of- action.\"",
+      "verifier_comment": ""
+    },
+    "Scaling of Techevince": {
+      "category": "EVENTS ORGANIZATION",
+      "description": "Techevince(being a platform to showcase the performance of all clubs) is mostly getting oriented towards Robotics, Electronics, Aeromodelling and Automobile clubs, I plan to extend the Techevince to the weeklong event(Tech-Week) with various talks and events from all clubs after the class hours followed by project showcase on the Sunday. Talks by research scholars might also be organized during this week.",
+      "current_status": "",
+      "representative_comment": "\"Core of Techevince revolves around projects, which\nare being improved every time. Scaling up to include visiting schools and conducting\nprofessional talks\u201d",
+      "verifier_comment": ""
+    }
+  },
+  "Completed": {
+    "Appointment of Mentors": {
+      "category": "4I LABS ",
+      "description": "Involvement of the professors and graduate students as mentors.",
+      "current_status": "",
+      "representative_comment": "\"Projects in working stage.\"",
+      "verifier_comment": ""
+    }
+  },
+  "Not-Started": {
+    "Department Coordinator": {
+      "category": "INTRODUCTION OF NEW POSITIONS",
+      "description": "Collaboration with department student bodies to organize various lectures and workshops together this will reduce redundancy and improve the participation. Followed by introducing a position for inter-Department Co-Ordinator under technical board who can coordinate with all the Department Student Bodies(Cepstrum, MESA, ACE, CSEA, Reflux etc... ) to further Organize various technical Workshops and Lectures .",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    }
+  }
+}

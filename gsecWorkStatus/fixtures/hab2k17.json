@@ -1,0 +1,325 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 267,
+    "fields": {
+      "user": 42.0,
+      "title": "Un-subscription option from mess",
+      "agendaCategory": "Mess",
+      "description": "",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Proposed to 20th SAC. Summer+Winter pay and eat going on to evaluate.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 268,
+    "fields": {
+      "user": 42.0,
+      "title": "Hostel Mess Menu Changes",
+      "agendaCategory": "Mess",
+      "description": "A student run mess option to be evaluated on experimental basis.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "\"Lacked participation from student volunteers. Discarded by student member of tender writing committee.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 269,
+    "fields": {
+      "user": 42.0,
+      "title": "Painting of all Hostels",
+      "agendaCategory": "Maintenance",
+      "description": "On trial basis, one of the hostel messes will be supervised by MMC and HMC; there will a catering assistant post who will manage the mess and documentation work. HAB will issue tender for commodities and raw materials. HMC and MMC can decide the menu based on the choices of boarders, there will be no restriction of basic menu.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "\"Can be done on room to room basis through complaint portal.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 270,
+    "fields": {
+      "user": 42.0,
+      "title": "Online complaint booking portal",
+      "agendaCategory": "Maintenance",
+      "description": "Individual login credentials for hostel general secretary.",
+      "status": "Completed",
+      "representativeComments": "Passed in 19th HAB. Gen Sec can collect login credentials from hostel office.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 271,
+    "fields": {
+      "user": 42.0,
+      "title": "Insecticide and pest control in hostels",
+      "agendaCategory": "Maintenance",
+      "description": "",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Passed in 18th HAB meeting. Tendering remains.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 272,
+    "fields": {
+      "user": 42.0,
+      "title": "Medicine supply for First Aid Box",
+      "agendaCategory": "Maintenance",
+      "description": "",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "\"Will be pushed by MUG with two new student representatives.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 273,
+    "fields": {
+      "user": 42.0,
+      "title": "Mosquito nets",
+      "agendaCategory": "General",
+      "description": "Mosquito nets on all ground floor rooms, toilets, mess and common areas will be provided.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Proposed and partially accepted in 20th SAC meeting.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 274,
+    "fields": {
+      "user": 42.0,
+      "title": "Veg mess",
+      "agendaCategory": "General",
+      "description": "",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 275,
+    "fields": {
+      "user": 42.0,
+      "title": "Veg canteen",
+      "agendaCategory": "",
+      "description": "",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 276,
+    "fields": {
+      "user": 42.0,
+      "title": "Cycles Stand",
+      "agendaCategory": "General",
+      "description": "Cycle stands for Lohit ,Brahmputra, Kapili ,Subansiri",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Brahmaputra and Lohit - Proposed and passed. Kapili - No site. Subansiri - Not initiated.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 277,
+    "fields": {
+      "user": 42.0,
+      "title": "HMC Fund",
+      "agendaCategory": "For Married Scholar Hostel",
+      "description": "",
+      "status": "Completed",
+      "representativeComments": "Not synchronised in principle with rest of the hostel funds",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 278,
+    "fields": {
+      "user": 42.0,
+      "title": "Full time caretaker",
+      "agendaCategory": "For Married Scholar Hostel",
+      "description": "",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 279,
+    "fields": {
+      "user": 42.0,
+      "title": "Caretaker office",
+      "agendaCategory": "For Married Scholar Hostel",
+      "description": "",
+      "status": "Broken",
+      "representativeComments": "No space",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 280,
+    "fields": {
+      "user": 42.0,
+      "title": "Cleaning of room in 15 days",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "\"Will be innitiated in first week of April\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 281,
+    "fields": {
+      "user": 42.0,
+      "title": "Light for sports ground in Hostels",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "\"Being pursued by individual hostels like Barak\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 282,
+    "fields": {
+      "user": 42.0,
+      "title": "AC Common rooms",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "\"HMC's can execute with their welfare fund.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 283,
+    "fields": {
+      "user": 42.0,
+      "title": "Pantry rooms",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "\"10 out of 12 done. Tender done for remaininf two.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 284,
+    "fields": {
+      "user": 42.0,
+      "title": "Live counters",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "\"10 out of 12 done.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 285,
+    "fields": {
+      "user": 42.0,
+      "title": "Gardening of Hostel Area by Horticulture",
+      "agendaCategory": "Follow up",
+      "description": "",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{% extends 'gsecWorkStatus/base1.html' %}
+{%block gsec%}
+
+    <h2> {{ user.username }}</h2>
+
+
+{#    {% user.username == form.user%}#}
+    <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <h3>{{ form.as_p }}</h3>
+        <input type="submit" value="Register"></form>
+{% endblock %}

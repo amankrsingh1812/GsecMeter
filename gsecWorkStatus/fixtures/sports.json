@@ -1,0 +1,291 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 57,
+    "fields": {
+      "user": 24.0,
+      "title": "Learn to play camps",
+      "agendaCategory": "Sports for all",
+      "description": "The initiative aims to make sports facilities accessible to junta in a way that anyone who wishes to\nlearn any sport can learn it during their stay on campus.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 58,
+    "fields": {
+      "user": 24.0,
+      "title": "Reviving Sports Consumables Budget for hostels",
+      "agendaCategory": "Availability of Sports Goods for Junta",
+      "description": "To develop the sports culture of the institute it is necessary for consumables to be available to the\njunta at the hostel level.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 59,
+    "fields": {
+      "user": 24.0,
+      "title": "Sports Alumni Fund",
+      "agendaCategory": "Alumni Funding/Budge",
+      "description": "Alumni funding is one of the most undeveloped part of IIT Guwahati and with the growing costs of\nvarious facilities it has become extremely important.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 60,
+    "fields": {
+      "user": 24.0,
+      "title": "Extension of slots for all sports",
+      "agendaCategory": "Sports for all",
+      "description": "A lot of students miss out on playing because time slots for junta are over by the time the get free\nfrom their academic responsibilities especially PHD scholars",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 61,
+    "fields": {
+      "user": 24.0,
+      "title": "Organizing of workshops on Fitness Activities like Zumba from professionals for Junta",
+      "agendaCategory": "Stress busting through Sports",
+      "description": "Sports can act as a great stress buster for the junta, for this purpose I would like to organize\nworkshops on fitness activities like Zumba, aerobics.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 62,
+    "fields": {
+      "user": 24.0,
+      "title": "Sports Equipment Inventory for Junta",
+      "agendaCategory": "Availability of Sports Goods for Junta",
+      "description": "Quality Equipment are necessary for every sport and to best utilize our sports Infrastructure.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 63,
+    "fields": {
+      "user": 24.0,
+      "title": "Hall of Fame",
+      "agendaCategory": "Ambience and Motivation",
+      "description": "Installation of Hall of Fame for all sports in the Old Sac",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 64,
+    "fields": {
+      "user": 24.0,
+      "title": "Formation of InterIIT Student\u2019s Organizing Committee",
+      "agendaCategory": "Hosting of InterIIT Sports Meet",
+      "description": "InterIIT Sports meet is a huge event and on the occasion of Institute\u2019s 25th Anniversary its successful\nand grand organization is a matter of pride for the institute.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 65,
+    "fields": {
+      "user": 24.0,
+      "title": "Marketing of InterIIT Sports Meet",
+      "agendaCategory": "Budget/InterIIT Organizing",
+      "description": "A lot of money from the Institute Budget would be hosting of InterIIT which could be used directly for\nbetterment of Junta",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 66,
+    "fields": {
+      "user": 24.0,
+      "title": "Construction of new Squash Courts",
+      "agendaCategory": "Infrastructure",
+      "description": "Presently Institute has only one squash court therefore it becomes extremely difficult to incorporate\nboth InterIIT sessions, NSO and other players.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 67,
+    "fields": {
+      "user": 24.0,
+      "title": "Construction of Indoor Basketball and Volleyball Courts:\n",
+      "agendaCategory": "Infrastructure",
+      "description": "Basketball and Volleyball courts are severely affected by rains, this affects the InterIIT sessions and\nalso the other players in general",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 68,
+    "fields": {
+      "user": 24.0,
+      "title": "Sports Goods Stock Website",
+      "agendaCategory": "Transparency/Digital Support",
+      "description": "Availability of sports goods is one of the major concerns for budding sports enthusiasts also sports\nboard purchases a lot of sports equipment each year and it is the right of junta to know where that equipment\nbeing used.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 69,
+    "fields": {
+      "user": 24.0,
+      "title": "Conduction of Inter-Department Leagues",
+      "agendaCategory": "Events for Junta",
+      "description": " Inter-Departmental Leagues to be conducted to increase the involvement of PG students in sports\nand also increase student faculty Interaction on campus.\nPlan of Action: Coordinating with department through department wise associations, approval for necessary\nbudget for referees and refreshment for participants.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 70,
+    "fields": {
+      "user": 24.0,
+      "title": "Appointment of Coaches for IITG Contingent",
+      "agendaCategory": "Performance of IITG Contingent",
+      "description": "Winning in InterIIT matches is important to everyone to ensure this it is necessary that IITG\ncontingent get the best training, which many teams lack presently.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 71,
+    "fields": {
+      "user": 24.0,
+      "title": "Special Diet for IITG Contingent After Spirit",
+      "agendaCategory": "Performance of IITG Contingent",
+      "description": "Proper nutrition of players is necessary for improvement of performance of institute in InterIITs.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 72,
+    "fields": {
+      "user": 24.0,
+      "title": "Organizing of Practice Matches for IITG Contingent",
+      "agendaCategory": "Performance of IITG Contingent",
+      "description": "Experience of playing competitive matches by teams is necessary for improvement of performance of\ninstitute in InterIITs.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 73,
+    "fields": {
+      "user": 24.0,
+      "title": "IIT Guwahati Contingent Website",
+      "agendaCategory": "Motivation and Appreciation on IITG Contingent",
+      "description": "Performance of IITG Contingent is a matter of pride to everyone, but there is still need to increase\nenthusiasm among students to become a part of IITG Contingent\nPossible Solution: Building of a website to showcase the InterIIT Contingents of IIT Guwahati.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

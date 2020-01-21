@@ -1,0 +1,478 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 348,
+    "fields": {
+      "user": 13.0,
+      "title": "Establish a dedicated hostel server which will serve the following purposes ",
+      "agendaCategory": "Technical Initiatives within Campus",
+      "description": "\uf0a7 Centralised Network for Printing Services to enable printing at odd timings. \uf0a7 Notifications to the residents on receiving couriers. \uf0a7 Tracking the Hostel Equipment (like Sports Equipment and Tools) and notifications to residents in case of overdue.  \uf0a7 A repository of all the paperwork of HMC and photos of important occasions. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 349,
+    "fields": {
+      "user": 13.0,
+      "title": "Automation to easen out the issuing of a job order and bring out transparency in its status ",
+      "agendaCategory": "",
+      "description": "Job orders related to 3D Printers and CNC in the Mechanical Workshop move through a slow process currently and needs attention.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 350,
+    "fields": {
+      "user": 13.0,
+      "title": " RFID has a lot of potential applications and can be extended to automate certain aspects",
+      "agendaCategory": "",
+      "description": "Entry to open the club rooms, issue equipment at clubs & hostels etc. will be automated. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 351,
+    "fields": {
+      "user": 13.0,
+      "title": "Several projects like those related to IoT require public servers which are not currently available ",
+      "agendaCategory": "",
+      "description": "Port-forwarding permission by the Computer Center will solve this issue. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 352,
+    "fields": {
+      "user": 13.0,
+      "title": "The supercomputer Param-Ishaan is frequently used for Computationally expensive purposes ",
+      "agendaCategory": "",
+      "description": "Packages like Tensorflow and Keras which are regularly used will be installed in the supercomputer",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 353,
+    "fields": {
+      "user": 13.0,
+      "title": "A modern workplace for teams to work on different start-ups/for different competitions or hackathons.",
+      "agendaCategory": "Maker\u2019s Space",
+      "description": "\uf0a7 Will construct a number of Cabins within the workspace for multiple teams to work simultaneously. \uf0a7 A conference cabin equipped with a projector for team discussions and presentations will be made. \uf0a7 High end equipment like 3D printer and general equipment present in incubation centers will be made available. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 354,
+    "fields": {
+      "user": 13.0,
+      "title": " This is aimed at creating a corporate culture within campus and also to encourage the start-up culture which can be parented by EDC initially. ",
+      "agendaCategory": "",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 355,
+    "fields": {
+      "user": 13.0,
+      "title": "To improve the efficiency and performance of the Technical clubs, I would introduce the following roles: ",
+      "agendaCategory": "Restructuring the Technical Board: ",
+      "description": "\uf0a7 Associate General Secretary: A pre-final year representative for effective conduction of the events organised by the technical clubs and to help the Secretaries in matters related to Bill settlements, Reimbursement etc.   \uf0a7 Public Relations team, Alumni Representative, Inter-IIT contingent leader and a Competitions manager whose functioning would be explained later in the Agenda. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 356,
+    "fields": {
+      "user": 13.0,
+      "title": "To improve the inter-club activity and resource sharing within clubs, the clubs would be divided virtually into clusters each headed by a mentor. ",
+      "agendaCategory": "",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 357,
+    "fields": {
+      "user": 13.0,
+      "title": "Cybersecurity and Artificial intelligence are gaining a lot of popularity within the campus. A platform for all the like-minded people in these areas would enhance ideation and productivity ",
+      "agendaCategory": "",
+      "description": "Hobby groups for such fields will be created. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 358,
+    "fields": {
+      "user": 13.0,
+      "title": "The projects in 4i labs and the club projects are going on at a full scale. Further Mentorship might enhance their productivity ",
+      "agendaCategory": "4I Labs and Club Projects:",
+      "description": "Relevant Professors and PhD students will be encouraged to act as mentors. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 359,
+    "fields": {
+      "user": 13.0,
+      "title": "There are Alumni willing to contribute to specific clubs/projects ",
+      "agendaCategory": "",
+      "description": "The Alumni Representative will take up the responsibility of finding the interested Alumni and try to obtain mentorship and crowd funding along with SAIL. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 360,
+    "fields": {
+      "user": 13.0,
+      "title": "There are existing projects in the clubs which might be useful at the campus level but are left unattended ",
+      "agendaCategory": "",
+      "description": "Revamping and completion of such projects will be done. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 361,
+    "fields": {
+      "user": 13.0,
+      "title": "Major learning takes place through practical experiences",
+      "agendaCategory": "Campus Events",
+      "description": " Hackathons aimed at beginners will be conducted throughout the year. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 362,
+    "fields": {
+      "user": 13.0,
+      "title": "Inspiration and Motivation is constantly required to boost activity in the campus. ",
+      "agendaCategory": "",
+      "description": " Will help in conducting TedX events, where renowned speakers from different technical spheres will interact with the technical community within the campus. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 363,
+    "fields": {
+      "user": 13.0,
+      "title": "Major Club and 4i Lab Projects can be integrated into existing relevant Start-ups or Research Labs",
+      "agendaCategory": "Opportunity Creation and Industry Collaboration",
+      "description": "\uf0a7 The Public Relations team will look out for the relevant start-ups/labs and help in industry/research association. \uf0a7 The PR team will also bring in inputs about the requirements of different start-ups which might help the clubs in landing internships  ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 364,
+    "fields": {
+      "user": 13.0,
+      "title": "There is a requirement of freelancers for different departmental projects",
+      "agendaCategory": "",
+      "description": "\uf0a7  Professors/Project leads will put up their requirements which will be communicated and taken up by the Junta. \uf0a7 The work done will be recognised and certified by the respective Project Leads (PhDs and Professors). ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 365,
+    "fields": {
+      "user": 13.0,
+      "title": "Special Focus to improve our performance in the Inter-IIT Tech meet ",
+      "agendaCategory": "Technical Competitions and Kriti",
+      "description": "\uf0a7 Early appointment of an Inter-IIT Contingent Leader who will be responsible for forming the contingent and keeping the team on track will be done. \uf0a7 A proper framework with project leaders for resource management and constant project review will be established. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 366,
+    "fields": {
+      "user": 13.0,
+      "title": "Participation of the clubs in different national and international competitions like Robocon, Creative shock can be improved.",
+      "agendaCategory": "",
+      "description": "Competitions Co-ordinator will look out for opportunities for the clubs to participate and excel ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 367,
+    "fields": {
+      "user": 13.0,
+      "title": "The Kriti Problem Statements can be brought in from the industry to have more practical and standard problems ",
+      "agendaCategory": "",
+      "description": "The Public Relations team will take up the responsibility of finding the relevant companies and their problem statements ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 368,
+    "fields": {
+      "user": 13.0,
+      "title": "Achievers in different Technical fields like Inter-IIT winners need to be recognised on a common platform ",
+      "agendaCategory": "Felicitation and Awards",
+      "description": "\uf0a7 Felicitation along with Kriti Award Ceremony for achievers in different Technical fields will be done \uf0a7 A hall of fame will also be established with their names. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 369,
+    "fields": {
+      "user": 13.0,
+      "title": "A competitive environment within clubs has to be maintained for higher productivity ",
+      "agendaCategory": "",
+      "description": "Best Project and Most Active Member awards for every club will be given at the end of the academic year ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 370,
+    "fields": {
+      "user": 13.0,
+      "title": "Techniche under its Social Initiative-Pragathi has taken up different wonderful causes over the years. ",
+      "agendaCategory": "Social Initiatives with Techniche",
+      "description": "\uf0a7 Techniche can collaborate with the Technical clubs (provide mentors) and take up the cause of helping schools make use of the Atal Tinkering Labs initiative. \uf0a7 Techniche can also conduct small scale technical workshops in different backward schools with the help of technical clubs as a part of Pragathi. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 371,
+    "fields": {
+      "user": 13.0,
+      "title": "A platform for all the clubs to showcase their work at one place. ",
+      "agendaCategory": "Newsletter and Documentation",
+      "description": "\uf0a7 A newsletter will be published at the end of every semester highlighting all the major events of the technical board in that semester which will also be sent to the Alumni and the Professors. \uf0a7 The YouTube channel for Technical Board will be made active again o ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 372,
+    "fields": {
+      "user": 13.0,
+      "title": "There are certain standard learning paths followed by most people in the campus ",
+      "agendaCategory": "",
+      "description": " Documentation of the Resources/Tutorials will be made available with the vision of helping enthusiastic people. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 373,
+    "fields": {
+      "user": 13.0,
+      "title": "The club activity and the status of the club and 4i lab projects has to be made transparent for better functioning of the teams ",
+      "agendaCategory": "Transparency in the Technical Board",
+      "description": "Live status of all the projects will be maintained and displayed on a public platform",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 374,
+    "fields": {
+      "user": 13.0,
+      "title": " The status of completion of agendas of all the club secretaries and the General Secretary will be displayed. ",
+      "agendaCategory": "",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 375,
+    "fields": {
+      "user": 13.0,
+      "title": "Guwahati's market isn't known for providing quality technical items and equipment at desirable prices",
+      "agendaCategory": "Purchase of Club Equipment",
+      "description": "\uf0a7 All projects undertaken by the clubs require some common goods in bulk. \uf0a7 Collaboration with various retail services for discounts on mass purchases of such common goods. \uf0a7 Also avail individual hostels to make purchases at these firms through the technical board subject to availability. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

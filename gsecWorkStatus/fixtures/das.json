@@ -1,0 +1,36 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 401,
+    "fields": {
+      "user": 35.0,
+      "title": "Printing facility for students",
+      "agendaCategory": "Academic",
+      "description": "Installation of printing machine for students in every department",
+      "status": "Not-Started",
+      "representativeComments": "This facility is currently in few departments",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 402,
+    "fields": {
+      "user": 35.0,
+      "title": "interaction portal for software learning",
+      "agendaCategory": "Welfare",
+      "description": "Increase knowledge and to achieve course objectives",
+      "status": "Not-Started",
+      "representativeComments": "Need Meetings",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

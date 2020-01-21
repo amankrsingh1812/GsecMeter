@@ -1,0 +1,3147 @@
+[
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 1,
+    "fields": {
+        "user": 14,
+        "title": "Enforcing accountability into the Gymkhana",
+        "agendaCategory": "General Campus",
+        "description": "As of now, there is no visible check on the works of the gymkhana which implies that\nonce elected, the students are oblivious to the work of their elected representatives.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 2,
+    "fields": {
+        "user": 14,
+        "title": "Peer Assisted Learning Program",
+        "agendaCategory": "General Campus",
+        "description": "Having worked with the PAL program from inception, I aim to incorporate this in more\ncourses throughout the campus",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 3,
+    "fields": {
+        "user": 14,
+        "title": "Information for Bus Stands",
+        "agendaCategory": "General Campus",
+        "description": "Internal Bus Timings are not known very well to all the students of the campus. I propose\nto set up boards near pick up locations on the campus which mention the bus timings and frequency.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 4,
+    "fields": {
+        "user": 14,
+        "title": "Students Wellbeing Group",
+        "agendaCategory": "General Campus",
+        "description": "The current gymkhana has worked to conceptualize the Students' Wellbeing group which\nholistically engages all the campus residents. Identifying students who are in need of mental help is a\nmoral responsibility each one of us has.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 5,
+    "fields": {
+        "user": 14,
+        "title": "Explaining rules and regulations to the Incoming Gymkhana",
+        "agendaCategory": "General Campus",
+        "description": "Most of the newly elected representatives do not have a very clear idea about the rules and\nthe exact procedure to get work done, especially those related to paper work.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 6,
+    "fields": {
+        "user": 14,
+        "title": "Convocations on Campus",
+        "agendaCategory": "General Campus",
+        "description": "The current situation of convocations on campus presents many problems.\nProblems are faced by both students and guests (parents of students). Many students,\npost graduate would have not completed their masters' thesis or their PhD. Defence. Waitingfor a long time to get their degree is an actual concern. Also, many guests do not get the\nchance to see their wards graduate due to the lack of seating availability.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 7,
+    "fields": {
+        "user": 14,
+        "title": "Contemporary Classes",
+        "agendaCategory": "General Campus",
+        "description": "The campus junta need to broaden their experiences in eccentric cultural tastes.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 8,
+    "fields": {
+        "user": 14,
+        "title": "Increase and Publicise Funds for B.Tech student attending\nConferences/Competitions.",
+        "agendaCategory": "Academic Initiatives",
+        "description": "The present STAF fund for campus students is not satisfying the applicant to\nacceptance ratio. There is a need to increase in the staff fund",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 9,
+    "fields": {
+        "user": 14,
+        "title": "Career Counselling",
+        "agendaCategory": "Academic Initiatives",
+        "description": "Students at the institute have great aspirations for their careers. But they also have many\nquestions and queries that have to be answered.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 10,
+    "fields": {
+        "user": 14,
+        "title": "Semester Exchange Programs",
+        "agendaCategory": "Academic Initiatives",
+        "description": "To increase semester exchange programs and help students in getting through them.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 11,
+    "fields": {
+        "user": 14,
+        "title": "Discussion Areas",
+        "agendaCategory": "Academic Initiatives",
+        "description": "Currently, there is a need for a place in campus where students can actually meet, discuss,\nideate and collaborate. Although there have been certain attempts at that nothing concrete is in place.\nI propose to create more such discussion areas.In various places across campus starting with one on\nsecond floor of new sac. Ensure that New SAC has a collection of novels and non-academic books or\nkindles so that people who can read, discuss and ideate over a cup of coffee.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 12,
+    "fields": {
+        "user": 14,
+        "title": "Inclusion of Performing Arts for 2 nd year students",
+        "agendaCategory": "Academic Initiatives",
+        "description": "Many students take Performing Arts as a part of their SA course in 1 st year. They should\nbe provided an opportunity to continue what they were learning in 1 st year if they are interested.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 13,
+    "fields": {
+        "user": 14,
+        "title": "Repository of profiles of Research Scholar Students",
+        "agendaCategory": "Academic Initiatives",
+        "description": "I propose to initiate and maintain a repository of the profiles of Research S students in the\nform of web pages, containing their information especially pertaining to research",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 14,
+    "fields": {
+        "user": 14,
+        "title": "Taking up additional credit courses",
+        "agendaCategory": "Academic Initiatives",
+        "description": "Taking up additional credit courses should be an option for all students irrespective of\ntheir current CPI.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 15,
+    "fields": {
+        "user": 14,
+        "title": "Awards during Graduation Ceremony",
+        "agendaCategory": "Academic Initiatives",
+        "description": "Awards or medals should be given to students for the following categories.\n1) Best Undergraduate Research Project Award from each department.\n2) Best Postgraduate Research Project Award from each department.\n3) Best Thesis award for PhD students from each department.\n4) Best Sportsperson of the Year Award.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 16,
+    "fields": {
+        "user": 14,
+        "title": "Storage of Maintenance Equipment within Hostels.",
+        "agendaCategory": "Improving Hostel Life",
+        "description": "It so happens that once our complaint is lodged with the maintenance cell, a representative\ncomes and evaluates the problem. Afterwards, he/she again goes back to get the suitable equipment.\nBut most often the issues which come up are related to lights, fans and the like",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 17,
+    "fields": {
+        "user": 14,
+        "title": "Waste disposal from mess kitchens",
+        "agendaCategory": "Improving Hostel Life",
+        "description": "Dustbin bags should be used for kitchen waste disposal",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 18,
+    "fields": {
+        "user": 14,
+        "title": "Hot Water Provision in Showers.",
+        "agendaCategory": "Improving Hostel Life",
+        "description": "The old hostels do not have hot water connected to the bathrooms. Serious injuries can be\npossible if somebody slips on the floor",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 19,
+    "fields": {
+        "user": 14,
+        "title": "Renovation of Facilities in old hostels",
+        "agendaCategory": "Improving Hostel Life",
+        "description": "It's been more than 10 years since most of the old hostels have been constructed and most\nof the facilities are not in working or unusable condition.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 20,
+    "fields": {
+        "user": 14,
+        "title": "Auctioning of goods of students at hostel level (preferably graduating\nBatch)",
+        "agendaCategory": "Improving Hostel Life",
+        "description": "To gain revenue for hostel fund by auctioning of goods.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 21,
+    "fields": {
+        "user": 14,
+        "title": "Regulating the speed of Vehicles on road",
+        "agendaCategory": "Improving Campus Infrastructure",
+        "description": "Boards displaying speed limits on the road",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 22,
+    "fields": {
+        "user": 14,
+        "title": "Drinking water in Conference Centre, Food Court and SAC",
+        "agendaCategory": "Improving Campus Infrastructure",
+        "description": "Installing Water Purifiers and Coolers",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 23,
+    "fields": {
+        "user": 14,
+        "title": "Sanitary Napkin Dispensing Machines",
+        "agendaCategory": "Improving Campus Infrastructure",
+        "description": "Install sanitary pad dispensers at appropriate places in the campus.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 24,
+    "fields": {
+        "user": 14,
+        "title": "RFID for Club Rooms",
+        "agendaCategory": "Improving Campus Infrastructure",
+        "description": "By using RFID enabled electromagnetic locks for club room access, we can streamline\nand ease the process of utilising the rooms in New SAC.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 25,
+    "fields": {
+        "user": 14,
+        "title": "Multipurpose Complex",
+        "agendaCategory": "Improving Campus Infrastructure",
+        "description": "Setting up major in-demand consumer services closer to the hostels.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 26,
+    "fields": {
+        "user": 14,
+        "title": "Further establishment of Skating Club",
+        "agendaCategory": "Sports Activities",
+        "description": "Providing infrastructure and support to kickstart the establishment of Skating Club in our\nCampu",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 27,
+    "fields": {
+        "user": 14,
+        "title": "Student-Faculty interaction matches",
+        "agendaCategory": "Sports Activities",
+        "description": "To increase interaction and communication between student and faculty communities.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 28,
+    "fields": {
+        "user": 14,
+        "title": "Renovation of Table Tennis Hall",
+        "agendaCategory": "Sports Activities",
+        "description": "Students are currently carrying the TT table to the Badminton court as the TT Hall isdamaged. There is an immediate need for the improvement of such infrastructure.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 29,
+    "fields": {
+        "user": 14,
+        "title": "Campus Innovation and Creativity Center",
+        "agendaCategory": "Technical Facilities",
+        "description": "Ideation Room",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 30,
+    "fields": {
+        "user": 14,
+        "title": "Participation of Girls in Technical Events",
+        "agendaCategory": "Technical Facilities",
+        "description": "Conducting technical workshops",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 31,
+    "fields": {
+        "user": 14,
+        "title": "4I Labs",
+        "agendaCategory": "Technical Facilities",
+        "description": "Room and funding to be given to projects",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 32,
+    "fields": {
+        "user": 14,
+        "title": "Inter IIT Technical Meet",
+        "agendaCategory": "Technical Facilities",
+        "description": "Room and funding to be given to projects",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 33,
+    "fields": {
+        "user": 14,
+        "title": "Improvement of Hospital Facilities",
+        "agendaCategory": "Student Welfare",
+        "description": "Aim to improve the general hospital facilities",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 34,
+    "fields": {
+        "user": 14,
+        "title": "Deforestation and Environmental Issues",
+        "agendaCategory": "Student Welfare",
+        "description": "IIT Guwahati is known as the most beautiful campus in the nation and it is our duty to\nmaintain the same. A holistic proposal for keeping a tab on deforestation activities on campus.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 35,
+    "fields": {
+        "user": 14,
+        "title": "Campus Vicinity",
+        "agendaCategory": "Student Welfare",
+        "description": "As an IIT, it is our moral responsibility to contributing in paying back to the society.\nPropose to initiate and contribute more such activities.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 36,
+    "fields": {
+        "user": 14,
+        "title": "First Aid Kits in Hostel",
+        "agendaCategory": "Student Welfare",
+        "description": "Will Ensure availability of basic medical needs at the hostel security desk throughout the\nSemester.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 37,
+    "fields": {
+        "user": 14,
+        "title": "Earthquake Safety",
+        "agendaCategory": "Student Welfare",
+        "description": "Mock safety drills to be conducted.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 38,
+    "fields": {
+        "user": 14,
+        "title": "Hygeine Concerns with regards to stray animals on campus",
+        "agendaCategory": "Student Welfare",
+        "description": "Rehabilitation of stray animals in a safe manner to maintain the hygiene in the residential\nAreas.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 39,
+    "fields": {
+        "user": 14,
+        "title": "Self Defence Classes for Women on Campus",
+        "agendaCategory": "Student Welfare",
+        "description": "Women Students of IIT Guwahati must be equipped to face a multitude of challenges. Women\nSafety is of prime importance to our campus. I propose to initiate self-defence classes for women on campus\nso that they are prepared.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 40,
+    "fields": {
+        "user": 14,
+        "title": "Provision for students to recycle their used papers",
+        "agendaCategory": "Student Welfare",
+        "description": "Students accumulate used papers and notebooks and they do not where to give them for\nRecycle.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 41,
+    "fields": {
+        "user": 14,
+        "title": "Making campus more accessible for the specially abled persons",
+        "agendaCategory": "Student Welfare",
+        "description": "Infrastructure in our campus is well thought of, there are some important places which are\nnot accessible to physically challenged people like the food court, the auditorium stage and so on. I\nwill try to ensure that maximum of these areas are made accessible to everyone.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 42,
+    "fields": {
+        "user": 14,
+        "title": "Online platform for sharing experience of interns and placements",
+        "agendaCategory": "Career Development",
+        "description": "There is a need for junta to get awareness of the work during internship and after\nPlacements.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 43,
+    "fields": {
+        "user": 14,
+        "title": "Increasing the number of people getting placed from our campus",
+        "agendaCategory": "Career Development",
+        "description": "Establishment of a placement office in another city",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 44,
+    "fields": {
+        "user": 14,
+        "title": "Exchange Students and Cultures",
+        "agendaCategory": "Alumni Affairs",
+        "description": "Teaming up with welfare board, we would let the international exchange students learn more about\ntheir rights and responsibilities in and around the campus. There will be sessions organised for the\ninternational students to share their stories, their food and their culture with the students of IITG and\nvice versa.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 45,
+    "fields": {
+        "user": 14,
+        "title": "Alumni Cards",
+        "agendaCategory": "Alumni Affairs",
+        "description": "The existing design of the alumni cards is such that anyone can print them i.e., there is a\nlack of authenticity in our alumni cards.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 46,
+    "fields": {
+        "user": 14,
+        "title": "Ease of Budget allocation of SAIL",
+        "agendaCategory": "Alumni Affairs",
+        "description": "There is a hindrance to the flow of budget with regard to SAIL.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 47,
+    "fields": {
+        "user": 14,
+        "title": "Feedback on shops in Academic Complex",
+        "agendaCategory": "Follow-Up on Initiatives started by current Gymkhana",
+        "description": "Replacement of loosely functioning outlets in the academic complex.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 48,
+    "fields": {
+        "user": 14,
+        "title": "Spectacles Shop",
+        "agendaCategory": "Follow-Up on Initiatives started by current Gymkhana",
+        "description": "Establishment of a spectacles shop in the market complex.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 49,
+    "fields": {
+        "user": 14,
+        "title": "Open Mic Sessions and Food Festivals",
+        "agendaCategory": "Follow-Up on Initiatives started by current Gymkhana",
+        "description": "The need for conducting more events that inculcate out-of-the-box thinking and creative\nvisualization of junta should be recognized.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 50,
+    "fields": {
+        "user": 14,
+        "title": "IITG Internal Commuting",
+        "agendaCategory": "Follow-Up on Initiatives started by current Gymkhana",
+        "description": "More number of E Rickshaws shall be set up and charging stations shall be constructed.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 51,
+    "fields": {
+        "user": 14,
+        "title": "Souvenir Shop",
+        "agendaCategory": "Follow-Up on Initiatives started by current Gymkhana",
+        "description": "Establishment of a souvenir shop in library.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 52,
+    "fields": {
+        "user": 29,
+        "title": "Removal of ban on senior students on interaction with freshman",
+        "agendaCategory": "welfare",
+        "description": "Currently pertaining to threats related to harassment and security of freshman Photograph(first yearstudents), senior students cannot interact with them in hostel premises for the first three month. Althoughthis protects them, but the interaction is critically important for their growth and to inculcate a bond withtheir seniors.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 53,
+    "fields": {
+        "user": 29,
+        "title": "Use of Heavy Duty Washing Machines/ Centralized Laundry.",
+        "agendaCategory": "welfare",
+        "description": "Current Washing machines cannot withstand the amount of load that is forced ontothem for such a long duration of time and as a result, they easily are damaged.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 54,
+    "fields": {
+        "user": 29,
+        "title": "Imposing strict rules on Canteens and Juice Shops",
+        "agendaCategory": "welfare",
+        "description": "The prices put up on basic commodities such as fruits, eggs, milk etc...are not kept under check and hence the juice centers/canteens sell them at a higherprice. This has to stop. Further, there is no fine imposed on canteen and JuiceShops if the extend their leave without prior informing to the MMC. There is aneed of imposing tighter rules on them for better functionality.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 55,
+    "fields": {
+        "user": 29,
+        "title": "Market Complex/ local food shops in between hostels",
+        "agendaCategory": "welfare",
+        "description": "There is lot of unused spaces between hostels and most of it is inpathetic condition. It is the major reason of breeding of infectious diseases. Theseplaces should be used for creating local food shops or a Market Complex followedby open sitting arrangements. This results in open conversation amongst studentsof different hostels and increases social interaction.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 56,
+    "fields": {
+        "user": 29,
+        "title": "Monthly hostel inspection",
+        "agendaCategory": "welfare",
+        "description": "Food and water are two essential commodities that needs to be providedat the highest quality. Hence, there is need of monthly and surprise check of waterand food.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 57,
+    "fields": {
+        "user": 24,
+        "title": "Learn to play camps",
+        "agendaCategory": "Sports for all",
+        "description": "The initiative aims to make sports facilities accessible to junta in a way that anyone who wishes to\nlearn any sport can learn it during their stay on campus.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 58,
+    "fields": {
+        "user": 24,
+        "title": "Reviving Sports Consumables Budget for hostels",
+        "agendaCategory": "Availability of Sports Goods for Junta",
+        "description": "To develop the sports culture of the institute it is necessary for consumables to be available to the\njunta at the hostel level.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 59,
+    "fields": {
+        "user": 24,
+        "title": "Sports Alumni Fund",
+        "agendaCategory": "Alumni Funding/Budge",
+        "description": "Alumni funding is one of the most undeveloped part of IIT Guwahati and with the growing costs of\nvarious facilities it has become extremely important.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 60,
+    "fields": {
+        "user": 24,
+        "title": "Extension of slots for all sports",
+        "agendaCategory": "Sports for all",
+        "description": "A lot of students miss out on playing because time slots for junta are over by the time the get free\nfrom their academic responsibilities especially PHD scholars",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 61,
+    "fields": {
+        "user": 24,
+        "title": "Organizing of workshops on Fitness Activities like Zumba from professionals for Junta",
+        "agendaCategory": "Stress busting through Sports",
+        "description": "Sports can act as a great stress buster for the junta, for this purpose I would like to organize\nworkshops on fitness activities like Zumba, aerobics.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 62,
+    "fields": {
+        "user": 24,
+        "title": "Sports Equipment Inventory for Junta",
+        "agendaCategory": "Availability of Sports Goods for Junta",
+        "description": "Quality Equipment are necessary for every sport and to best utilize our sports Infrastructure.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 63,
+    "fields": {
+        "user": 24,
+        "title": "Hall of Fame",
+        "agendaCategory": "Ambience and Motivation",
+        "description": "Installation of Hall of Fame for all sports in the Old Sac",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 64,
+    "fields": {
+        "user": 24,
+        "title": "Formation of InterIIT Student\u2019s Organizing Committee",
+        "agendaCategory": "Hosting of InterIIT Sports Meet",
+        "description": "InterIIT Sports meet is a huge event and on the occasion of Institute\u2019s 25th Anniversary its successful\nand grand organization is a matter of pride for the institute.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 65,
+    "fields": {
+        "user": 24,
+        "title": "Marketing of InterIIT Sports Meet",
+        "agendaCategory": "Budget/InterIIT Organizing",
+        "description": "A lot of money from the Institute Budget would be hosting of InterIIT which could be used directly for\nbetterment of Junta",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 66,
+    "fields": {
+        "user": 24,
+        "title": "Construction of new Squash Courts",
+        "agendaCategory": "Infrastructure",
+        "description": "Presently Institute has only one squash court therefore it becomes extremely difficult to incorporate\nboth InterIIT sessions, NSO and other players.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 67,
+    "fields": {
+        "user": 24,
+        "title": "Construction of Indoor Basketball and Volleyball Courts:\n",
+        "agendaCategory": "Infrastructure",
+        "description": "Basketball and Volleyball courts are severely affected by rains, this affects the InterIIT sessions and\nalso the other players in general",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 68,
+    "fields": {
+        "user": 24,
+        "title": "Sports Goods Stock Website",
+        "agendaCategory": "Transparency/Digital Support",
+        "description": "Availability of sports goods is one of the major concerns for budding sports enthusiasts also sports\nboard purchases a lot of sports equipment each year and it is the right of junta to know where that equipment\nbeing used.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 69,
+    "fields": {
+        "user": 24,
+        "title": "Conduction of Inter-Department Leagues",
+        "agendaCategory": "Events for Junta",
+        "description": " Inter-Departmental Leagues to be conducted to increase the involvement of PG students in sports\nand also increase student faculty Interaction on campus.\nPlan of Action: Coordinating with department through department wise associations, approval for necessary\nbudget for referees and refreshment for participants.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 70,
+    "fields": {
+        "user": 24,
+        "title": "Appointment of Coaches for IITG Contingent",
+        "agendaCategory": "Performance of IITG Contingent",
+        "description": "Winning in InterIIT matches is important to everyone to ensure this it is necessary that IITG\ncontingent get the best training, which many teams lack presently.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 71,
+    "fields": {
+        "user": 24,
+        "title": "Special Diet for IITG Contingent After Spirit",
+        "agendaCategory": "Performance of IITG Contingent",
+        "description": "Proper nutrition of players is necessary for improvement of performance of institute in InterIITs.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 72,
+    "fields": {
+        "user": 24,
+        "title": "Organizing of Practice Matches for IITG Contingent",
+        "agendaCategory": "Performance of IITG Contingent",
+        "description": "Experience of playing competitive matches by teams is necessary for improvement of performance of\ninstitute in InterIITs.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 73,
+    "fields": {
+        "user": 24,
+        "title": "IIT Guwahati Contingent Website",
+        "agendaCategory": "Motivation and Appreciation on IITG Contingent",
+        "description": "Performance of IITG Contingent is a matter of pride to everyone, but there is still need to increase\nenthusiasm among students to become a part of IITG Contingent\nPossible Solution: Building of a website to showcase the InterIIT Contingents of IIT Guwahati.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 74,
+    "fields": {
+        "user": 21,
+        "title": "Alumni Mentorship Program",
+        "agendaCategory": "",
+        "description": "Inculcating AMP to the main IITG portal, so that there is easy access to this program for students\nand alumni mentors and they can access the portal as and when needed. Also, automating the total\nMentorship allotment system, with automatic email sending.\n",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 75,
+    "fields": {
+        "user": 21,
+        "title": "AlumX Series",
+        "agendaCategory": "",
+        "description": "Conduct a three-day lecture series by our most coveted alumni.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 76,
+    "fields": {
+        "user": 21,
+        "title": "Query Portal",
+        "agendaCategory": "",
+        "description": "Opening up of a query portal for students for taking advice from alumni.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 77,
+    "fields": {
+        "user": 21,
+        "title": "Student Alumni Corporate Experience",
+        "agendaCategory": "",
+        "description": "A page on SAIL website, where alumni can post their \u2018A Day in XYZ Company\u2019 videos and blogs. Plus,\nthis will also hold various job and internship openings which can be posted by alumni.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 78,
+    "fields": {
+        "user": 21,
+        "title": "Faculty-Alumni Research Network (FARN):",
+        "agendaCategory": "",
+        "description": "The alumni can bring up the R&D projects of their respective firms to be solved by the IITG faculty and\nStudents.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 79,
+    "fields": {
+        "user": 21,
+        "title": "25 th Anniversary IIT G Celebration",
+        "agendaCategory": "",
+        "description": "On the occasion of 25 th anniversary of IIT Guwahati, we plan to invite all the Alumni of IITG to\ncampus, and hold an event-cum-get together.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 80,
+    "fields": {
+        "user": 31,
+        "title": "Inter IIT Cultural evening",
+        "agendaCategory": "Campus Events",
+        "description": "An evening showcasing the culture of the north east.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 81,
+    "fields": {
+        "user": 31,
+        "title": "Manthan Cultural Extravaganza",
+        "agendaCategory": "Manthan",
+        "description": "Showcase the best works of Manthan on a single day after Manthan",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 82,
+    "fields": {
+        "user": 31,
+        "title": "Decoration of Sac",
+        "agendaCategory": "Beautification of campus",
+        "description": "Display the paintings made by Fine Arts and photographs of montage in the sac to create a healthy\nenvironment for cultural work",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 83,
+    "fields": {
+        "user": 31,
+        "title": "Campus Outreach",
+        "agendaCategory": "Club activities",
+        "description": "Conduction of competitions and interactions with Schoolkids in Akshara and KV schools.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 84,
+    "fields": {
+        "user": 31,
+        "title": "Student Faculty Interaction",
+        "agendaCategory": "Campus and Club events",
+        "description": "Organisation of events to encourage interaction between students and faculty\nPossible solution: covered in proposal\nPlan of Action: Urge Lumiere and Anchorenza and RadioG to work on projects(short films, w",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 85,
+    "fields": {
+        "user": 31,
+        "title": "Inter Club cooperation",
+        "agendaCategory": "Club Activities",
+        "description": "Push clubs to utilise the full skillset of the members of the cultural board by proposing more\ninter club project",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 86,
+    "fields": {
+        "user": 31,
+        "title": "Club Core teams",
+        "agendaCategory": "Club management and freshers incorporation",
+        "description": "Forming a team that represents the club to make clubs more approachable to freshers and sim-\nplify overall management in every club",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 87,
+    "fields": {
+        "user": 25,
+        "title": "Internships from the alumni of our institute",
+        "agendaCategory": "Academic Initiative",
+        "description": "An internship portal for students",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 88,
+    "fields": {
+        "user": 25,
+        "title": "Academic and Emotional support to backloggers",
+        "agendaCategory": "Academic Initiative",
+        "description": "Involvement of counselors and TA\u2019s to provide the same",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 89,
+    "fields": {
+        "user": 25,
+        "title": "Bringing students up-to-date on the various competitive exams.",
+        "agendaCategory": "Youth Empowerment",
+        "description": "Talks to be organized for students by seniors and alumni.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 90,
+    "fields": {
+        "user": 25,
+        "title": "Availability of counselling to students who are too shy or nervous to approach\nseniors or counselors.",
+        "agendaCategory": "SAATHI \u2013 Counselling",
+        "description": "Anonymous counselling portal",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 91,
+    "fields": {
+        "user": 25,
+        "title": "EQ101",
+        "agendaCategory": "Youth empowerment",
+        "description": "Building the emotional quotient and life skills of students",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 92,
+    "fields": {
+        "user": 25,
+        "title": "Personal guidance for individuals",
+        "agendaCategory": "Academic Initiative",
+        "description": "formation of groups where each and every student can be given attention.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 93,
+    "fields": {
+        "user": 25,
+        "title": "Resource for students (Research Scholars etc.) who work post 2 am",
+        "agendaCategory": "Library",
+        "description": "Availability of library and computer center for the same.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 94,
+    "fields": {
+        "user": 25,
+        "title": "Welfare through Social Service club",
+        "agendaCategory": "",
+        "description": "Awareness in case of emergency",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 95,
+    "fields": {
+        "user": 25,
+        "title": "Welfare through Youth Empowermen club",
+        "agendaCategory": "",
+        "description": "Women Empowerment",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 96,
+    "fields": {
+        "user": 25,
+        "title": "Welfare through Saathi  club",
+        "agendaCategory": "",
+        "description": "Students facing any kind of problems be it be academics, emotional or physical should be\ntaken care of.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 97,
+    "fields": {
+        "user": 25,
+        "title": " Hostel Affairs",
+        "agendaCategory": "Hostels",
+        "description": "Proper engagement of Hostel\u2019s welfare secretary in welfare board.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 98,
+    "fields": {
+        "user": 25,
+        "title": "Overall development",
+        "agendaCategory": "SA courses",
+        "description": "Students are interested in various other domains also",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 99,
+    "fields": {
+        "user": 25,
+        "title": "Agenda Heading: Generic Campus Welfar",
+        "agendaCategory": "Organized Cab Service during night",
+        "description": "Coordinating with cab companies to provide consistent support during nights at reasonable rates",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 100,
+    "fields": {
+        "user": 30,
+        "title": "Cleanliness in Main Audi, Mini Audi, Lecture halls and common sitting areas",
+        "agendaCategory": "Cleanliness",
+        "description": "Sweeping the sitting areas at least every day. The auditoriums and lecture halls need a change in the seats or if not possible, cleaning them by the vacuum cleaner needs to be done at least a month.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "There is need of considering or increasing wages of all workers",
+        "currentStatus": "Cleanliness in Main Audi, Mini Audi, Lecture halls and common sitting areas",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 101,
+    "fields": {
+        "user": 30,
+        "title": "Fogging should be done every month or once in two months to avoid mosquito breeding",
+        "agendaCategory": "Hygienic Environment",
+        "description": "Fogging is essential specially during monsoon",
+        "status": "Completed",
+        "representativeComments": "Done in various hostels and departments too",
+        "currentStatus": "Fogging should be done every month or once in two months to avoid mosquito breeding",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 102,
+    "fields": {
+        "user": 30,
+        "title": "A prepaid card for mess",
+        "agendaCategory": "Student benefit",
+        "description": "Card swiping and eat",
+        "status": "Broken",
+        "representativeComments": "Tried earlier too, leads mess contractor inccured huge losses",
+        "currentStatus": "A prepaid card for mess",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 103,
+    "fields": {
+        "user": 30,
+        "title": "More eateries in the campus at the subsidized rates",
+        "agendaCategory": "More options to eat",
+        "description": "tender will be releasing soon after meeting with establishment",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "Needs meetings and tender framing for the same",
+        "currentStatus": "More eateries in the campus at the subsidized rates",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 104,
+    "fields": {
+        "user": 30,
+        "title": "More funding for PhD students for various national and international conferences",
+        "agendaCategory": "Better opurtunities and for all",
+        "description": "better oppurtunity to learn n great level of exposure",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "More funding for PhD students for various national and international conferences",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 105,
+    "fields": {
+        "user": 32,
+        "title": "Introduce a Pool Club",
+        "agendaCategory": "Sports Board",
+        "description": "Pool tables are common in most hostels now and there must be a common platform for the students to showcase their talent in pool.",
+        "status": "Not-Started",
+        "representativeComments": "As the previous events manager of Sports Board, I say there is enough budget for a pool club to be introduced.",
+        "currentStatus": "To be introduced in Sports Board meeting.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 106,
+    "fields": {
+        "user": 32,
+        "title": "Animal Care Drive",
+        "agendaCategory": "Welfare Board",
+        "description": "Most Hostels and the Academic area have plenty of animals around, these animals do not get proper care and might be infected with diseases.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "\"Saathi club will help in undertaking Animal Care Drive\"",
+        "currentStatus": "To be discussed in Saathi clubmeeting",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 107,
+    "fields": {
+        "user": 32,
+        "title": "Introduce a Zero Hour in sports for beginners",
+        "agendaCategory": "Sports Board",
+        "description": "Student who has interest in a particular sport but due to unavoidable circumstances hasn\u2019t been able to receive proper coaching in that particular sport. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "To be introduced in Sports Board meeting.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 108,
+    "fields": {
+        "user": 32,
+        "title": "TV in food court and New SAC area.",
+        "agendaCategory": "Infrastructure",
+        "description": "CBS videos and videos or slideshows of pictures of different clubs aLong with the current events will be showcased",
+        "status": "Not-Evaluated-Subjective",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 109,
+    "fields": {
+        "user": 32,
+        "title": "cleaning and maintenance of area around the hockey field near Siang and Kapili ",
+        "agendaCategory": "Maintenance",
+        "description": "The area around the mentioned hockey field is covered with wild bushes and attracts a lot of insects and mosquitoes. The messes of Kapili hostel and Siang hostel are nearby this area, making this a hygiene issue.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "\"the area will be eventually cleaned as the 53rd inter IIT is  to be held at IIT Guwahati\"",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 110,
+    "fields": {
+        "user": 32,
+        "title": "A new cycle stand for Kapili",
+        "agendaCategory": "Infrastructure",
+        "description": "Kapili hostel has inadequate space for cycle parking",
+        "status": "Broken",
+        "representativeComments": "\"For cycle stand to be introduced, the fence wall must be taken down and that we don't want to do\"",
+        "currentStatus": "Passed in meeting.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 111,
+    "fields": {
+        "user": 32,
+        "title": "Smart card/RFID/biometrics to be used in mess",
+        "agendaCategory": "HAB",
+        "description": "Most students skip meals in mess for atleast 4-5 times in a month. A smart card will monitor the number of days a student has meals in the mess and will allow a refund of a particular number of days. And the MMC of respective hostel will now have proper stats which will be useful in the Long run.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "Electronics club is working on using RFID systems for multipurpose uses.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 112,
+    "fields": {
+        "user": 32,
+        "title": "Propose a solution for Optical Fiber breakdown",
+        "agendaCategory": "CCC",
+        "description": "Develop a new link of Optical Fiber from the damaged hostel to the hostel in which there is breakdown of Optical Fibre.",
+        "status": "Not-Evaluated-Subjective",
+        "representativeComments": "Divert spare optical fiber of some other hostel to the hostel in which the optical fiber wire has been cut. Approach CC and figure out a solution for technical difficulties.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 113,
+    "fields": {
+        "user": 15,
+        "title": "Increasing participation in GBMS through HMCs",
+        "agendaCategory": "Collaboration with HMC",
+        "description": "Creating Awareness about the working of Student Gymkhana and increasing active participation from the student community in General Body Meetings.  ",
+        "status": "Not-Started",
+        "representativeComments": "This would be done at the start of the next Semsester after the freshers induction programme.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 114,
+    "fields": {
+        "user": 15,
+        "title": "Foreign Exchange Programmes",
+        "agendaCategory": "SAB",
+        "description": "Collaboration with Student Academic Board to bring ample Foreign Exchange Opportunities to the Undergraduate Students ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 115,
+    "fields": {
+        "user": 15,
+        "title": "Maintenance and improvement of Sports Facilities",
+        "agendaCategory": "Sports Board",
+        "description": "Renovation and Proper Usage of Sport Facilities keeping in view the Inter IIT Sports meet which would be organized by IIT Guwahati, later this year.  ",
+        "status": "Not-Started",
+        "representativeComments": "The sports board is renovating the sports facilities for the inter iit to be organised in December.A proper plan for maintenance for upcoming future is to be drafted.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 116,
+    "fields": {
+        "user": 15,
+        "title": "Vehicle Tracking",
+        "agendaCategory": "Tech Board",
+        "description": "Incorporating Vehicle Tracking Technology into the Buses and Ambulances to reduce the various ambiguities associated with the Institute transport service. ",
+        "status": "Not-Started",
+        "representativeComments": "Being done by one of the Technical Board Club",
+        "currentStatus": "Under process.",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 117,
+    "fields": {
+        "user": 15,
+        "title": "Finance Secretary",
+        "agendaCategory": "Finance committee under Student Senate",
+        "description": "Appointment of Finance Secretary for Every Board to specifically look into the financial matters of their respective boards",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "To be discussed in the Finance Committee's meeting",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 118,
+    "fields": {
+        "user": 15,
+        "title": "Minor Registration online",
+        "agendaCategory": "SAB",
+        "description": " Making Minor Course Registration Online. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "Yet to be discussed",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 119,
+    "fields": {
+        "user": 15,
+        "title": "Increasing participation in GBMS through HMCs",
+        "agendaCategory": "Collaboration with HMC",
+        "description": "Creating Awareness about the working of Student Gymkhana and increasing active participation from the student community in General Body Meetings.  ",
+        "status": "Not-Started",
+        "representativeComments": "This would be done at the start of the next Semsester after the freshers induction programme.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 120,
+    "fields": {
+        "user": 34,
+        "title": "Refilling unit for consumable gases/liquids",
+        "agendaCategory": "Academic",
+        "description": "To establish a gas/liquid refilling unit inside the campus ",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 121,
+    "fields": {
+        "user": 34,
+        "title": "Online portals",
+        "agendaCategory": "Website",
+        "description": "To provide online portals for leave application, TA forms, no dues etc.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 122,
+    "fields": {
+        "user": 34,
+        "title": "Funding for conferences",
+        "agendaCategory": "External Relations",
+        "description": "To provide funding for conferences abroad at least once in a PhD tenure and increase the current fund for national conference",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 123,
+    "fields": {
+        "user": 34,
+        "title": "Engineering Section Moisquito Fogging at academic area",
+        "agendaCategory": "",
+        "description": "Fogging, atleast twice in a month to provide a better working environment ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 124,
+    "fields": {
+        "user": 37,
+        "title": "To enable students to Self - Issue books from the library.",
+        "agendaCategory": "Library Dept. and S&P Section",
+        "description": "Procurement and deployment of self-issue kiosks to enable uninterrupted issuing of\nbooks using ID cards and removing dependence on office timings.",
+        "status": "Completed",
+        "representativeComments": "This would not have been possible without our Librarian, and whole library staff, I thank them with humble heart.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 125,
+    "fields": {
+        "user": 37,
+        "title": "Cleaning of hostel boarders\u2019 rooms per month",
+        "agendaCategory": "HAB and Maintenance section",
+        "description": "The hostel boarders\u2019 rooms should be cleaned every month by the hostel\nmaintenance workers as per the choice of boarders.\n",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "",
+        "currentStatus": "The basic framework is already done by the previous HAB, Will discuss about improvement in the senate meeting",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 126,
+    "fields": {
+        "user": 37,
+        "title": "Appointment of certified nutritionist for mess.",
+        "agendaCategory": "HAB",
+        "description": "Appointment of a certified Nutritionist with the following duties:\na. To ensure the quality of ration and vegetables which are bought from the market and keep a\ncheck on hygiene.\nb. To help the Mess management committees of all the hostels to decide a menu such that the\nnutritional demands of the boarders are met, without compromising the taste of the food.\nc. To introduce new recipes and train the cooks to make them.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "Have started buliding groundwork, and research related to the same",
+        "unapprovedComment": "",
+        "unapprovedStatus": "Have started buliding groundwork, and research related to the same",
+        "approvedBy": "",
+        "StatusCategory": "Ongoing-Long-Term"
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 127,
+    "fields": {
+        "user": 37,
+        "title": "Rejuvenation of hostel technical rooms to be equipped with better facilities.",
+        "agendaCategory": "HAB, Students Affairs, S&P Section",
+        "description": "Hostel technical room renovation and equipping the rooms with latest technical tools\nand high performance computers with high utility software and increasing supplies of working\ntools to help students with Video Conferencing, Kriti projects, BTP, Stimulations, etc.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "Surveying of all the hostels will start during July-Aug, expect a proposal by September",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 128,
+    "fields": {
+        "user": 37,
+        "title": "Construction of an open air Amphitheatre.",
+        "agendaCategory": "Engineering section, Infrastructure",
+        "description": "action: The ideal location for construction is to be identified and a blueprint is to be\nsubmitted to the admin for approval of the same. The features to be included are also to be\ndrafted and the construction be started by co-ordination of Engineering Section/Construction contractor.",
+        "status": "Not-Evaluated-Subjective",
+        "representativeComments": "",
+        "currentStatus": "Solid groundowrk, research and talks need to be done for this work to be started and that too in proper direction. I expect to present this agenda during Oct-Nov",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 129,
+    "fields": {
+        "user": 37,
+        "title": "To work for making the campus and services compatible to the differently abled.",
+        "agendaCategory": "Establishment section",
+        "description": "action: I will coordinate with the establishment section to redraft the contract for\nthe Transport service providers to include the condition to construct ramps and install them\nin the buses.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "-",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 130,
+    "fields": {
+        "user": 37,
+        "title": "CCTV in mess working area",
+        "agendaCategory": "HAB and Maintenance Section",
+        "description": "Installation of CCTV cameras in the mess cooking area to ensure monitoring of proper\nworking practices and avoid hygiene and quality control.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "-",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 131,
+    "fields": {
+        "user": 17,
+        "title": "PhD degree certificates",
+        "agendaCategory": "Academic",
+        "description": "To provide degree certificates for PhD students multiple times in a year to facilitate admission in Post Doc and other future endeavours.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 132,
+    "fields": {
+        "user": 17,
+        "title": "Online portals",
+        "agendaCategory": "Academic",
+        "description": "To provide online portals for leave application, TA forms, no dues etc.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 133,
+    "fields": {
+        "user": 17,
+        "title": "Funding for conferences",
+        "agendaCategory": "Academic",
+        "description": "To provide funding for conferences abroad at least once in a PhD tenure",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 134,
+    "fields": {
+        "user": 17,
+        "title": "Printing and scanning facilities in department",
+        "agendaCategory": "Academic",
+        "description": "To provide printing and scanning facilities 24*7 in the departments for research scholars at least",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 135,
+    "fields": {
+        "user": 17,
+        "title": "Bus route and timings",
+        "agendaCategory": "Establishment",
+        "description": "Bus route and timings need to be revised",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 136,
+    "fields": {
+        "user": 17,
+        "title": "Canteen and juice centres in academic area",
+        "agendaCategory": "Establishment",
+        "description": "The menu and quality of the food in the core canteens and juice centres need revision",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 137,
+    "fields": {
+        "user": 17,
+        "title": "Feedback system",
+        "agendaCategory": "feedback",
+        "description": "Proper feedback to be launched for bus, canteens, food outlets, erickshaw service",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 138,
+    "fields": {
+        "user": 17,
+        "title": "RO water purifier",
+        "agendaCategory": "Hostels",
+        "description": "Proposal of centralized RO water purifier system for all hostels",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 139,
+    "fields": {
+        "user": 17,
+        "title": "Gents and ladies beauty parlour",
+        "agendaCategory": "Hostels",
+        "description": "Proposal for gents hair saloon and ladies beauty parlour at least in a hostel ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 140,
+    "fields": {
+        "user": 17,
+        "title": "Sanitary pad vending machines",
+        "agendaCategory": "Hostels",
+        "description": "Setting up of sanitary pad vending machines in girls hostel",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 141,
+    "fields": {
+        "user": 17,
+        "title": "Extension in timings of sports facilities",
+        "agendaCategory": "Sports",
+        "description": "To propose extension of timings in sports facilities specially for PG students",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 142,
+    "fields": {
+        "user": 17,
+        "title": "Juice centre in OLD SAC",
+        "agendaCategory": "Sports",
+        "description": "Juice centre in OLD SAC will benefit the players specially with inter IIT coming up",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 143,
+    "fields": {
+        "user": 27,
+        "title": "Dermatologist in OPD ",
+        "agendaCategory": "Hospital and Student Welfare",
+        "description": "I propose that hospital must have a dermatologist as many students in IITG suffer from skin related problems especially freshers as the climate in Assam is humid and many students cannot adapt to the new climate easily. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 144,
+    "fields": {
+        "user": 27,
+        "title": "Food for patients ",
+        "agendaCategory": "Hospital and Student Welfare",
+        "description": " I also propose that patients admitted in the hospital must get proper food for their fast recovery. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 145,
+    "fields": {
+        "user": 27,
+        "title": " X-Ray machines , Plastering service",
+        "agendaCategory": "Hospital and Student Welfare",
+        "description": "Also, our hospital lacks some services like X-ray machine, plastering services and which I think are basic services in case of sports/general emergency.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 146,
+    "fields": {
+        "user": 27,
+        "title": "Solar led lights in campus ",
+        "agendaCategory": "Campus infrastructure and amenities ",
+        "description": "I propose to replace all the street lights (many of which are not working) with more efficient and economical Solar Led Lights and I also propose to install more lights at various places like on road from Brahmaputra to KV and from New Sac to MS Hostel. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 147,
+    "fields": {
+        "user": 27,
+        "title": "More number of ERickshaws in the campus. ",
+        "agendaCategory": "Campus infrastructure and amenities ",
+        "description": " I also propose that frequency of E-Rickshaws must be increased and at least 2 Rickshaws per 2-3 hostels must be present any time in case of emergency, for physically disabled people and I also propose that E-Rickshaw to the hospital in the medical emergency must be free to reduce the burden on Ambulances. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 148,
+    "fields": {
+        "user": 27,
+        "title": " Live tracking system for IITG Buses",
+        "agendaCategory": "Campus infrastructure and amenities ",
+        "description": " I also propose to install GPS system in Buses for live tracking of the same as many students miss the buses because of unavailability of the same.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 149,
+    "fields": {
+        "user": 27,
+        "title": "Collaboration with some cab service providers to provide cabs from campus to city especially airport at the discounted price.  ",
+        "agendaCategory": "Campus infrastructure and amenities ",
+        "description": "I also propose that our institute must collaborate with some car rentals to provide cab services from campus to Airport and vice versa at discounted prices as at present there are no buses to airport and also many times cabs are not present and some students miss their flight because of this, so this will help all the students going to airport. \n \n ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 150,
+    "fields": {
+        "user": 27,
+        "title": "Ease in process of application, payment of transcript by making the process online ",
+        "agendaCategory": "Academic ",
+        "description": " I propose that transcript application process, fee payment should be made online aLong with the live status of the application. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 151,
+    "fields": {
+        "user": 27,
+        "title": "24*7 internet facility at least a week before exams. ",
+        "agendaCategory": "Academic ",
+        "description": " I propose that 24*7 internet service should be started at least a week before midsem and endsem. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 152,
+    "fields": {
+        "user": 27,
+        "title": "Organizing get-together for people pursuing same interests like UPSC, GATE, GRE, CAT, TOEFL etc. ",
+        "agendaCategory": "Academic ",
+        "description": "I propose that get together should be organized for students pursuing same interests like UPSC, GRE etc. to create an environment in the campus for different streams other than engineering",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 153,
+    "fields": {
+        "user": 27,
+        "title": "Extension in library book issue timings. ",
+        "agendaCategory": "Academic ",
+        "description": " Also that, timings for issuing books (which is currently till 5:30 P.M) should be extended because most of the students have classes/labs during that time and that books can be issued on holidays also. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 154,
+    "fields": {
+        "user": 27,
+        "title": "Introducing Kabaddi, Wrestling, Boxing, Martial arts in SA course. ",
+        "agendaCategory": "Sports",
+        "description": " I propose to introduce sports like Kabaddi, Wrestling, Boxing and Martial Arts in SA courses as these sports are not only world-renowned but also prepare the individual for self-defense and IIT should give an opportunity to those students who want to learn or pursue their career in these sports. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 155,
+    "fields": {
+        "user": 27,
+        "title": "Permanent Coaches for SA, NSO courses.",
+        "agendaCategory": "Sports",
+        "description": "Permanent Coaches should be appointed for even better performance in events like Spirit, Inter IIT etc. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 156,
+    "fields": {
+        "user": 27,
+        "title": "Centralized washing machines in each hostel. ",
+        "agendaCategory": "Hostel Affairs",
+        "description": "I propose that a centralized washing machine system should be introduced in each hostel as washing machines in hostels are for domestic use and they are unable to bear such heavy uses. ",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 157,
+    "fields": {
+        "user": 20,
+        "title": "Project Proposal Portal (PPP)",
+        "agendaCategory": "SWC",
+        "description": "Develop a portal for proposal and management of\nprojects.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 158,
+    "fields": {
+        "user": 20,
+        "title": "Discussion Area",
+        "agendaCategory": "Engineering Section/General Campus Needs",
+        "description": "Common discussion area for all the students.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 159,
+    "fields": {
+        "user": 20,
+        "title": "24x7 Availability of food in the campus",
+        "agendaCategory": "Establishment section/General Campus Needs",
+        "description": "Installation of snacks and tea/coffee vending machines across the campus.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 160,
+    "fields": {
+        "user": 20,
+        "title": "Health and Welfare.",
+        "agendaCategory": "Hospital",
+        "description": "Organize free health checkup camps.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 161,
+    "fields": {
+        "user": 20,
+        "title": "Health and Welfare.",
+        "agendaCategory": "Hospital",
+        "description": "Conduct Earthquake Mock Drills",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 162,
+    "fields": {
+        "user": 20,
+        "title": "Health and Welfare.",
+        "agendaCategory": "Hospital",
+        "description": "Installation of Jet spray in Toilets in Hospital.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 163,
+    "fields": {
+        "user": 20,
+        "title": "Competitive exam discussion forum.",
+        "agendaCategory": "Academic Affairs/SAIL",
+        "description": "Set up and promote a discussion forum.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 164,
+    "fields": {
+        "user": 20,
+        "title": "Tedx talks",
+        "agendaCategory": "Technical Board",
+        "description": "Promotion for the conduction of Tedx talks.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 165,
+    "fields": {
+        "user": 20,
+        "title": "Maintenance of PCs in CC",
+        "agendaCategory": "CC",
+        "description": "Increase number of working PCs in CC and to make sure that every PC has the same set of softwares.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 166,
+    "fields": {
+        "user": 20,
+        "title": "Street Light",
+        "agendaCategory": "Maintenance",
+        "description": "Street light maintenance and changing filament bulbs to LED.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 167,
+    "fields": {
+        "user": 20,
+        "title": "Ramp construction (Wheelchair)",
+        "agendaCategory": "Establishment section/Maintenance section",
+        "description": "Construct ramps for differently abled people in hostels",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 168,
+    "fields": {
+        "user": 20,
+        "title": "NSO",
+        "agendaCategory": "Sports Board",
+        "description": "Introduction of additional NSO programs for Chess.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 169,
+    "fields": {
+        "user": 20,
+        "title": "Blog series",
+        "agendaCategory": "Acadmic assistance",
+        "description": "Initiation of a blog series for intern, placement and semester exchange describing procedure for application and experiences of final year students\u2019 and alumni.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 170,
+    "fields": {
+        "user": 33,
+        "title": "Automatic mess bill calculation of HAB.",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "Automation of mess bill including calculation and communicating on Students portal.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "SWC is working on this project, this being one of our major priorities.",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 171,
+    "fields": {
+        "user": 33,
+        "title": "Automation of payment for various HAB utilities in the HAB portal like temporary room allocation, mess bill readjustments.",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "Adding a utility to existing HAB portal where the payment to and from HAB can be made\nonline.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "SWC is working on this project, this being one of our major priorities",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 172,
+    "fields": {
+        "user": 33,
+        "title": "Listing of all the committees and subcommittee and minutes of\ntheir work under HAB and Gymkhana on their respective sites.",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "1. SWC will give facility to upload all the relevant contracts on their respective web portal. 2.SWC will give facility to upload the list of all committees and sub committees and their scope of work, meeting minutes and their work progress.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 173,
+    "fields": {
+        "user": 33,
+        "title": "New SWC website",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "1. To showcase work and activities of SWC.\n2. To make SWC and its working more transparent to the general user.\n3. To showcase the list of present and past associated members.\n4. Experiences of the past internships will be showcased\n5. Feedback from the IITG Junta to enhance the working of SWC.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 174,
+    "fields": {
+        "user": 33,
+        "title": "Creating new website for the security section and helping in\nautomation of security",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "Security plays the key role in the life of IITG community and yet they do not get the\nenough support and there is a no means of real time communication to them. Creation of a new website for security section and also help them using\ntechnology at IITG gates.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 175,
+    "fields": {
+        "user": 33,
+        "title": "Giving support to the campus community for the web\ndevelopment and the hosting facility",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "Due to the lack of coordination between developers and the other stakeholders, they\nhave to outsource the web development and deployment task.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 176,
+    "fields": {
+        "user": 33,
+        "title": "Giving web support to the campus start-ups",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "During incubation period funding is the main issue, so they don\u2019t have ample amount for\nweb development. On the other hand web is a very crucial for their expansion.",
+        "status": "Ongoing-Short-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 177,
+    "fields": {
+        "user": 33,
+        "title": "Website for Inter IIT Sports Meet and Silver jubilee of IITG",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "As IITG will be hosting Inter IIT sports meet on its Silver Jubilee, will host a website for all\nthe events and updates.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 178,
+    "fields": {
+        "user": 33,
+        "title": "Listing the referential website for each of the IIT courses",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "1. For each of the running courses of IITG, Will take a survey of external website from the\ncampus students and alumnus.\n2. Will rank the external website for each courses according to survey and an editorial\nteam.\n3. Will display this list on SWC website.\n4. Will also provide the mechanism to add the external link for a given courses or add the\nfeedback about the external resources.\n5. In this way, this list will be dynamic and automatically updated.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 179,
+    "fields": {
+        "user": 33,
+        "title": "Automation of Sports Board",
+        "agendaCategory": "WEB DEVELOPMENT:",
+        "description": "1. Online inventory of all the sports club on the website.\n2. List and experiences of all the Inter IIT players.\n3. Feedback of all the sportsman.\n4. Gallery of all the achievements will be displayed on website.\n5. Details of expenditure of Sports Board Budget will be displayed on its website for each\nsemester.",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 180,
+    "fields": {
+        "user": 33,
+        "title": "Formation of new team for Campus Wiki",
+        "agendaCategory": "Reconstructing and expansion of SWC team",
+        "description": "Campus Wiki is a platform to showcase all the facilities and utilities of IIT Campus.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 181,
+    "fields": {
+        "user": 33,
+        "title": "Campus Information System team development",
+        "agendaCategory": "Reconstructing and expansion of SWC team",
+        "description": "1. Will form a strong dedicated team.\n2. Will create a local search engine on all the campus minutes, contracts and every document\nrelated matters.\n3. Will create a live G-Sec meter where all the executives will be accountable to their agendas\nand they will get sufficient time and motivation for completion of their promised tasks.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 182,
+    "fields": {
+        "user": 33,
+        "title": "Creating new POR\u2019s for WebOpp Team",
+        "agendaCategory": "Reconstructing and expansion of SWC team",
+        "description": "",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 183,
+    "fields": {
+        "user": 33,
+        "title": "Finalizing constitution and structure of SWC and its alias.",
+        "agendaCategory": "Reconstructing and expansion of SWC team",
+        "description": "",
+        "status": "Not-Started",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 184,
+    "fields": {
+        "user": 33,
+        "title": "Setting up of a new lab for conducting all SWC work",
+        "agendaCategory": "Miscellaneous",
+        "description": "Will setup a dedicated and creative lab for various SWC activities.",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.agenda",
+    "pk": 185,
+    "fields": {
+        "user": 33,
+        "title": "Conducting workshops and lectures for IITG students",
+        "agendaCategory": "Miscellaneous",
+        "description": "1. Fresher\u2019s have lot of interest in web development activities but not everyone can get their\ndesired branch so SWC will conduct various workshops and lectures to motivate them and\ngroom them to acquire required skill set and experience.\n2. Will buy few online lectures and courses and will train them through online and offline courses.\n3. Will conduct workshops like:\n\nPython Workshop\nDjango Workshop\na. Basic Of Django\nb. Coding ART\nc. Development to Deployment\nd. Database Essentials : Optimal Database design\ne. Design of Website and Filtering the User Requirements\nf. Optimization issues : Space vs time",
+        "status": "Ongoing-Long-Term",
+        "representativeComments": "",
+        "currentStatus": "",
+        "unapprovedComment": "",
+        "unapprovedStatus": "",
+        "approvedBy": "",
+        "StatusCategory": ""
+    }
+}
+]

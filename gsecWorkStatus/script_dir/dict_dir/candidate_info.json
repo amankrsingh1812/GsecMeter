@@ -1,0 +1,50 @@
+{
+  "vp": {
+    "name": "Nikhil Nagraj",
+    "description": "Vice-President, Gymkhana Council 2017-18",
+    "image": "nikhil.jpg",
+    "youtube_url": "https://youtu.be/7JSfzZxKw_I",
+    "agenda_pdf": "Nikhil.pdf",
+    "extra_pdf": ""
+  },
+  "sports": {
+    "name": "Vishal Goyal",
+    "description": "General Secretary, Sports Board, SGC 2017-18",
+    "image": "vishal.png",
+    "youtube_url": "",
+    "agenda_pdf": "Vishal.pdf",
+    "extra_pdf": ""
+  },
+  "hab": {
+    "name": "Mohit Mishra",
+    "description": "General Secretary, Hostel Affairs Board, SGC 2017-18",
+    "image": "mohit.png",
+    "youtube_url": "",
+    "agenda_pdf": "Mohit.pdf",
+    "extra_pdf": ""
+  },
+  "cultural": {
+    "name": "Daksh",
+    "description": "General Secretary, Cultural Board, SGC 2017-18",
+    "image": "daksh.png",
+    "youtube_url": "",
+    "agenda_pdf": "Daksh.pdf",
+    "extra_pdf": ""
+  },
+  "welfare": {
+    "name": "Ravi Chandra",
+    "description": "General Secretary, Welfare Board, SGC 2017-18",
+    "image": "ravi_chandra.png",
+    "youtube_url": "",
+    "agenda_pdf": "Ravi.pdf",
+    "extra_pdf": ""
+  },
+  "technical": {
+    "name": "Vineeth Pachava",
+    "description": "General Secretary, Technical Board, SGC 2017-18",
+    "image": "vineeth.png",
+    "youtube_url": "",
+    "agenda_pdf": "Vineet.pdf",
+    "extra_pdf": ""
+  }
+}

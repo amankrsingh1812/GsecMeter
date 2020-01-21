@@ -1,0 +1,289 @@
+{% extends 'gsecWorkStatus/base.html' %}
+{% block info_agenda %}
+    <div id="header" style="background-color:#104a91">
+          <div id="intro" class="container" >
+
+
+            <h1 class="text-center text-capitalize" >{{ info.user.last_name }}</h1>
+
+
+{#        <a><button class="btn btn-outline-success" type="button">Login</button></a>#}
+
+
+
+
+
+            <h4 class="text-center text-capitalize" align="center">{{ info.post_description}}</h4>
+
+         </div></div>
+      </div>
+       <section id="about" class="section">
+
+                  <!-- Profile Picture [Square] -->
+
+                  <div id="profile" class="center-block">
+
+{#                      <h1>{{ info.image.url }}</h1>#}
+                      <img  src="{{ info.image.url }}">
+
+{#                      <h1>{% static 'gsecWorkStatus/images/' %}{{info.image}}</h1>#}
+                  </div>
+
+
+                  <!-- Social Links -->
+                  <div id="intro-div" class="card content-wrapper">
+                     <ul class="text-center list-inline">
+                         <li><a href="{{ info.pdf.url }}" target="_blank"> <u class="" style=" font-size:48px;color: #104a91 " > AGENDA</u> </a> <a href="{{ info.youtube }}" target="_blank"><i class="fa fa-youtube-play" style=" color: red; font-size: 38px;padding: 10px;"></i></a><a href="{{ info.pdf.url }}" target="_blank"> <i class="fa fa-file-pdf-o" style="color: darkred;font-size: 40px;"></i></a></li>
+                     </ul>
+                     <!-- Some Intro About You -->
+					 <!--<div id="piechart_3d" style="width: 900px; height: 500px;"></div>-->
+					 <!--
+                     <p class="text-center">
+                     </p>
+					 -->
+
+                      <div align="center" class="fbbox" >{{pie_chart.as_html}}</div>
+                  <div align="center" class="fbbox" >{{chart.as_html}}</div>
+                      <div align="center" class="mobilechart">
+                          <table>
+
+                              {% for x in chartdata %}
+
+                              <tr>
+
+
+                                {% for ele in x %}
+                                 {% if ele != "status" and ele != "No of task" %}
+                                    <td>
+                                    {{ ele }}%</td>{% endif %}
+                                 {% if ele == "status" %}
+                                     <th>
+                                    Agenda Category</th>
+                                 {% endif %}
+                                 {% if ele == "No of task" %}
+                                     <th>
+                                    Status</th>
+                                 {% endif %}
+
+                                  {% endfor %}
+                                  <br>
+
+                              </tr>
+
+
+                              {% endfor %}
+                          </table>
+                      </div>
+
+                  </div>
+
+
+      </section>
+
+{#<h1>{{ user }}</h1>#}
+
+
+      <!--==========================================
+         EXPERIENCE
+         ===========================================-->
+      <section id="experience" class="section">
+         <h4 class="text-uppercase text-center">Agendas</h4>
+         <div class="container">
+            <div class="row">
+               <div class="col col-md-12 col-sm-12 col-xs-12">
+                  <!-- Timeline -->
+                   <div class="timeline center-block">
+                     <ul>
+
+						{% for status in statuslist %}
+{#                        {% for agenda in agendas %}#}
+
+						 <li class="card" data-aos="fade-up">
+                           <i class="title-icon fa fa-circle"></i>
+                           <div class="timeline-content">
+                              <!-- Heading -->
+                              <div class="timeline-header" style="background-color: #081D40">
+
+                                 <h3 class="text-capitalize" style="background-color: #081D40;">{{status}}</h3>
+                              </div>
+
+
+								   {% for agenda in agendas %}
+{#                                       <h3>{{ agenda.status }} <br>{{ status  }}</h3>#}
+                                       {% if agenda.status == status %}
+
+                                    <table>
+                                        <tr>
+
+                                    <div id="wrap" class="row">
+                                                <div class="col-lg-1">
+
+                                            {% if user.is_authenticated %}
+                                                {% if user.username == info.user.username  %}
+                                                    <a href="{% url 'candidate:comment' agenda.id %}"><span  class="fa fa-edit" style="font-size: 2em;color: #FFB620;"></span></a>
+                                                {% else %}
+
+                                                    {% if status == "Not-Started" %}
+                                                        <span style=" color:#ff6600">&#11044;</span>
+                                                    {% elif status == "Ongoing-Long-Term" %}
+                                                        <span style=" color:#660066">&#11044;</span>
+                                                    {% elif status == "Ongoing-Short-Term" %}
+                                                        <span style=" color:#ff9900">&#11044;</span>
+                                                    {% elif status == "Not-Evaluated" %}
+                                                        <span style=" color: #3366cc;">&#11044;</span>
+                                                    {% elif status == "Broken" %}
+                                                        <span style=" color:#dc3912">&#11044;</span>
+                                                    {% elif status == 'Not-Evaluated-Subjective' %}
+                                                        <span style=" color:#0099c6">&#11044;</span>
+                                                        {% elif status == 'Completed' %}
+                                                        <span style=" color:#109618">&#11044;</span>
+                                                    {% endif %}
+                                                {% endif %}
+                                               {% else %}
+
+                                                {% if status == "Not-Started" %}
+                                                    <span style=" color:#ff6600">&#11044;</span>
+                                                {% elif status == "Ongoing-Long-Term" %}
+                                                    <span style=" color:#660066">&#11044;</span>
+                                                {% elif status == "Ongoing-Short-Term" %}
+                                                    <span style=" color:#ff9900">&#11044;</span>
+                                                {% elif status == "Not-Evaluated" %}
+                                                    <span style=" color: #3366cc;">&#11044;</span>
+                                                {% elif status == "Broken" %}
+                                                    <span style=" color:#dc3912">&#11044;</span>
+                                                {% elif status == 'Not-Evaluated-Subjective' %}
+                                                    <span style=" color:#0099c6">&#11044;</span>
+                                                    {% elif status == 'Completed' %}
+                                                    <span style=" color:#109618">&#11044;</span>
+                                                {% endif %}
+{#                                                <span style="color:green">&#11044;</span>#}
+                                           {% endif %}
+
+
+                                                </div>
+                                                <div  class="col-lg-5">
+                                                <div id="right_col" >
+                                                   <span data-toggle="popover" data-trigger="hover" data-content="{{agenda.description}}" title="Description">  {{agenda.title}} </span><br>
+
+                                                       <script>
+                                                        $(document).ready(function(){
+                                                            $('[data-toggle="popover"]').popover({placement:'top'});
+                                                        });
+                                                        </script>
+                                                </div>
+                                                </div>
+                                                <div class="col-lg-2">
+                                                   <span id="right_col">
+                                                   <button data-toggle="popover" data-trigger="hover" data-content="{{ agenda.representativeComments }}" title="Representative Comments" class="btn btn-info active btn-sm" >R.C.</button>
+                                                   <script>
+                                                    $(document).ready(function(){
+                                                    $('[data-toggle="popover"]').popover({placement:'top'});
+                                                         });
+                                                   </script></span>
+                                                </div>
+                                                <div class="col-lg-1"></div>
+                                                <div class="col-lg-2">
+                                                    {% if user.is_authenticated %}
+                                                        <div id="vote_button{{agenda.id}}" data-trigger="tooltip" title="Click to vote!" style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;">
+		                                            {% else %}
+
+                                                            <a href="{% url 'authentication:home' %}"><button  style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;"></button></a>
+                                                    {% endif %}
+                                                            <!-- Div for number of votes -->
+		<div id="vote_count{{agenda.id}}"  style=" padding: 8px 0pt 0pt 30px;">&nbsp;</div>
+	</button>
+	<!-- Div for vote recorded message -->
+<!--	<div id="vote_already{{agenda.id}}" style="display: none;"></div>-->
+<!--	&lt;!&ndash; Div for already voted message &ndash;&gt;-->
+<!--	<div id="vote_recorded{{agenda.id}}" style="display: none;"></div>-->
+	<script src= "https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"	type="text/javascript"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+	$(document).ready(function()
+	{
+	    console.log({{ agenda.id }} );
+		// Display number of votes for this item on page load.
+		var item_id = {{ agenda.id }};	// This is the item_id for which the number of votes are to be displayed.
+		var ajax_data1 = "query=votecount&item_id=" + item_id;
+		jQuery.ajax({
+			type: "GET",
+			url: "vote",
+			data: ajax_data1,
+			dataType: "html",
+			success: function(html){
+				jQuery("#vote_count{{agenda.id}}").html(html);
+		   }
+		});
+	});
+	$("#vote_button{{agenda.id}}").click(function()
+	{
+		var item_id = {{ agenda.id }};	// This is the item_id for which the number of votes are to be displayed.
+		var user_id = 1;	// This is the user_id who is voting.
+		var ajax_data = "query=vote&item_id=" + item_id + "&user_id=" + user_id;
+		$.ajax({
+			type: "GET",
+			url: "vote",
+			data: ajax_data,
+			success: function(votecount){
+				if(votecount == -1){
+					// The user has already voted.
+					$("#vote_recorded{{agenda.id}}").css({ display:'none' });
+					alert("You already voted!")
+<!--					$("#vote_already{{agenda.id}}").css({ display:'' });-->
+				}
+				else
+				{
+					// Vote recorded, display the updated count.
+					$("#vote_already{{agenda.id}}").css({ display:'none' });
+					$("#vote_count{{agenda.id}}").html(votecount);
+					alert("Thanks for your vote!")
+<!--					$("#vote_recorded{{agenda.id}}").css({ display:'' });-->
+				}
+			}
+		});
+	});
+	//]]>
+	</script>
+<!--                                                    <span id="right_col">-->
+<!--                                                   <button data-toggle="popover" data-trigger="hover" data-content="{{ agenda.currentStatus }}" title="Current Status" class="btn btn-danger active btn-sm" style="background-color: #EEEEEE;color: #222222;">C.S.</button>-->
+<!--                                                   <script>-->
+<!--                                                        $(document).ready(function(){-->
+<!--                                                            $('[data-toggle="popover"]').popover({placement:'top'});-->
+<!--                                                        });-->
+<!--                                                    </script></span>-->
+
+                                                </div>
+
+
+                                                    <div class="clearfloat"></div>
+
+                                           </div>
+
+
+		                                </tr>
+                                        <br>
+
+
+
+		                            </table>
+                                       {% endif %}
+
+								   {% endfor %}
+                           </div>
+                        </li>
+
+						{% endfor %}
+
+                     </ul>
+                  </div>
+
+                  <!-- End of Timeline -->
+               </div>
+
+               <center><div class="fb-comments" data-href="http://swc.iitg.ac.in/gsec/name/{{ pname }}/" mobile="data-mobile" data-numposts="5"></div></center>
+	       
+            </div>
+         </div>
+      </section>
+
+{% endblock %}

@@ -1,0 +1,104 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 74,
+    "fields": {
+      "user": 21.0,
+      "title": "Alumni Mentorship Program",
+      "agendaCategory": "",
+      "description": "Inculcating AMP to the main IITG portal, so that there is easy access to this program for students\nand alumni mentors and they can access the portal as and when needed. Also, automating the total\nMentorship allotment system, with automatic email sending.\n",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 75,
+    "fields": {
+      "user": 21.0,
+      "title": "AlumX Series",
+      "agendaCategory": "",
+      "description": "Conduct a three-day lecture series by our most coveted alumni.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 76,
+    "fields": {
+      "user": 21.0,
+      "title": "Query Portal",
+      "agendaCategory": "",
+      "description": "Opening up of a query portal for students for taking advice from alumni.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 77,
+    "fields": {
+      "user": 21.0,
+      "title": "Student Alumni Corporate Experience",
+      "agendaCategory": "",
+      "description": "A page on SAIL website, where alumni can post their \u2018A Day in XYZ Company\u2019 videos and blogs. Plus,\nthis will also hold various job and internship openings which can be posted by alumni.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 78,
+    "fields": {
+      "user": 21.0,
+      "title": "Faculty-Alumni Research Network (FARN):",
+      "agendaCategory": "",
+      "description": "The alumni can bring up the R&D projects of their respective firms to be solved by the IITG faculty and\nStudents.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 79,
+    "fields": {
+      "user": 21.0,
+      "title": "25 th Anniversary IIT G Celebration",
+      "agendaCategory": "",
+      "description": "On the occasion of 25 th anniversary of IIT Guwahati, we plan to invite all the Alumni of IITG to\ncampus, and hold an event-cum-get together.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

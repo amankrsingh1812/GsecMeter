@@ -1,0 +1,580 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 299,
+    "fields": {
+      "user": 43.0,
+      "title": "The Mentor \u2013 Mentee Program",
+      "agendaCategory": "Saathi Counselling Club",
+      "description": "The existing program will be adjusted to begin during the stay of parents in the initial week of the academic semester to promote the interaction of mentors with parents .This would create a sense of responsibility in the mentors and push for a better mentor-mentee relationship.\n",
+      "status": "Completed",
+      "representativeComments": "Counselling session with parents introduced. Individual counselling introduced in 3 hostels during the parental stay period.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 300,
+    "fields": {
+      "user": 43.0,
+      "title": "Improving Functionality Of Saathi Club\n",
+      "agendaCategory": "Saathi Counselling Club",
+      "description": "Improve functioning by including a broad range of services such as psychological assessment, individual therapy and group therapy.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "\"Introduced in high priority cases.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 301,
+    "fields": {
+      "user": 43.0,
+      "title": "Soft Skills workshop with Saathi Club",
+      "agendaCategory": "Saathi Counselling Club",
+      "description": "Assist Saathi Club in organizing regular sessions by professionals for soft skills such as assertiveness, problem solving, anger management, self-awareness and relationships.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "Expect updates from the Welfare Board in mid-term break.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 302,
+    "fields": {
+      "user": 43.0,
+      "title": "Earthquake and Fire Drills",
+      "agendaCategory": "Social Service Club",
+      "description": "Inclusion of earthquake and fire drills in the first few classes of SA courses for the freshmen.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "\"Will coordinate with the new secy to get the drills done at the start of the next semester.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 303,
+    "fields": {
+      "user": 43.0,
+      "title": "Horticulture in Hostels ",
+      "agendaCategory": "Social Service Club",
+      "description": "Allowing for the growing of plants via a horticulture setup in hostels. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 304,
+    "fields": {
+      "user": 43.0,
+      "title": "Plantation Drives",
+      "agendaCategory": "Social Service Club",
+      "description": "Organising Plantation Drives within the campus.",
+      "status": "Completed",
+      "representativeComments": "Done one in odd semester. Even semester drive planned on April 14/15.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 305,
+    "fields": {
+      "user": 43.0,
+      "title": "Zero Illiteracy zone (ZIZ)",
+      "agendaCategory": "Social Service Club",
+      "description": "Would work with NSS and continue this good work and expand its reach further.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 306,
+    "fields": {
+      "user": 43.0,
+      "title": "Spread Awareness About Seasonal Diseases",
+      "agendaCategory": "Red Ribbon club",
+      "description": "Expand the domain of the club to spread awareness on seasonal diseases through social media, mails and campaigns.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 307,
+    "fields": {
+      "user": 43.0,
+      "title": "Spread Awareness About HIV and Other Chronic Diseases",
+      "agendaCategory": "Red Ribbon club",
+      "description": "Spread awareness about various chronic diseases along with HIV for students to know and take necessary precautions.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "Coming up on April 14/15.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 308,
+    "fields": {
+      "user": 43.0,
+      "title": "Sessions for Preparation of Competitive Examinations",
+      "agendaCategory": "Youth empowerment club",
+      "description": "Conduct talks for giving updates and new scenarios in the preparation of Civils (UPSC) and other competitive examinations.\n",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "\"The social media groups are functioning very well at the moment.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 309,
+    "fields": {
+      "user": 43.0,
+      "title": "Fitness Awareness Debates",
+      "agendaCategory": "Youth empowerment club",
+      "description": "Conduct debates on general fitness awareness for students\u2019 well-being.\n",
+      "status": "Completed",
+      "representativeComments": "One done under the YES! Camp. Another coming up in April first week.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 310,
+    "fields": {
+      "user": 43.0,
+      "title": "HSS projects through Project Management Portal",
+      "agendaCategory": "Youth empowerment club",
+      "description": "With the help of project management portal, students would now be eligible for taking up projects from the department of HSS. This would nourish the thinking of a student.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "To be launched this Summer.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 311,
+    "fields": {
+      "user": 43.0,
+      "title": "Talks About Women Safety",
+      "agendaCategory": "Rights and Responsibility club",
+      "description": "Organize a talk in girls\u2019 hostels regarding women safety and harassment laws and focus on facilities provided by the Internal Complaint Committee.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 312,
+    "fields": {
+      "user": 43.0,
+      "title": "AAP KI SABHA",
+      "agendaCategory": "Rights and Responsibility club",
+      "description": "Senate would take up important agendas that concern a lot of students and put them in front of the concerned authorities and have a good open debate. These discussions would be taken up till SAC meeting.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "One Sabha was called for Academic Curriculum change.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 313,
+    "fields": {
+      "user": 43.0,
+      "title": "Alumni-Intern Portal",
+      "agendaCategory": "Academic Initiatives club",
+      "description": "A platform where alumni can recruit interns for their projects. A student can register and upload his CV and if one\u2019s candidature is strong, they would be taken up for further projects by our Alumni.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Django mismatch with CC leading to delays. Proposal underway for new cloud servers from the next financial year.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 314,
+    "fields": {
+      "user": 43.0,
+      "title": "GATE/GRE/UPSC/CAT Blog",
+      "agendaCategory": "Academic Initiatives club",
+      "description": "This blog will help create opportunities for group discussions and sharing of resource material.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 315,
+    "fields": {
+      "user": 43.0,
+      "title": "Public Discussions",
+      "agendaCategory": "Academic Initiatives club",
+      "description": "Collaborate with CCD in order to conduct regular aptitude tests and training sessions on coding skills, group discussions and personal interviews. Host departmental and hostel level meets to pass on information about the placement and intern season to the next batch.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "\"CCD took in only suggestions. Couldn\u2019t prepare a shared plan with them.\"",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 316,
+    "fields": {
+      "user": 43.0,
+      "title": "PG Specific Orientation",
+      "agendaCategory": "Academic Initiatives club",
+      "description": "A PG specific orientation can help the incoming batch a lot as it can touch on PG centric topics such as foreign exchange program and also about the facilities they can utilize in the campus.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 317,
+    "fields": {
+      "user": 43.0,
+      "title": "International Student Representative for Welfare Board",
+      "agendaCategory": "International Students Welfare",
+      "description": "Would appoint a nominee and a team under him/her for the welfare of international students residing in the campus. This would include many activities such as international day, a presentation for letting them know about their rights and the responsibilities that they have and can take up.",
+      "status": "Completed",
+      "representativeComments": " Representatives appointed.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 318,
+    "fields": {
+      "user": 43.0,
+      "title": "\u201cHand me down\u201d initiative",
+      "agendaCategory": "Other Campus related works",
+      "description": "An online platform will be set up where the students can donate their belongings for the benefit of freshmen.",
+      "status": "Completed",
+      "representativeComments": "Executed in the previous tenure and plan in place for conduction in the next semester.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 319,
+    "fields": {
+      "user": 43.0,
+      "title": "Faculty student Interaction",
+      "agendaCategory": "Other Campus related works",
+      "description": "Organizing few events like Intra-Departmental sports events in all departments to improve the interaction between faculty and the students.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 320,
+    "fields": {
+      "user": 43.0,
+      "title": "Student Handbook",
+      "agendaCategory": "Other Campus related works",
+      "description": "A freshmen guide containing the following but not limited to Important Facilities, Important Telephone Numbers ,Important Authorities to be contacted, Academic Requirements , Attendance Requirements , Student Activities , Institute Library Hostel Rules , Alumni sponsored Scholarships/ Loan Scholarships, Medical Insurance ,Academic Calendar, Semester Time Table ,Internal Complaints Committee , Services and Facilities In and Around IITG, Mentor- Mentee Program, IIT Wi-Fi Set-up , IIT Guwahati Proxy setting for Hostel LAN.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 321,
+    "fields": {
+      "user": 43.0,
+      "title": "Anti-Ragging",
+      "agendaCategory": "Other Campus related works",
+      "description": "Reinforce strong rules for avoiding unwanted acts. Any interaction between fresher\u2019s and seniors where the seniors are friendly, welcoming and non-aggressive is encouraged. Seniors may solicit participation in clubs and other activities by announcing promotional events at well designated times and places. However, no fresher should be forced to attend. Participation by fresher\u2019s can only be voluntary.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 322,
+    "fields": {
+      "user": 43.0,
+      "title": "G-SEC meter",
+      "agendaCategory": "Other Campus related works",
+      "description": "A new initiative taken by the SWC body this year to make every candidate responsible and accountable. There would be a few additions such as a discussion forum wherein a student can propose a point that is causing him some sort of difficulty and if it is feasible this would be taken up by the student senate and the website would live track the updates regarding that agenda.An interactive discussion forum wherein a student can propose any idea and the best feasible one would be implemented right away.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 323,
+    "fields": {
+      "user": 43.0,
+      "title": "Emergency helpline number for women",
+      "agendaCategory": "Other Campus related works",
+      "description": "Considering the security or emergency condition this initiative would be set up at the hostel desk for immediate contact.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 324,
+    "fields": {
+      "user": 43.0,
+      "title": "Green Cycle Initiative Follow Up and Scale Up",
+      "agendaCategory": "Other Campus related works",
+      "description": "Follow up and scaling up of green cycle initiative with the help of SAIL and Student Senate.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 325,
+    "fields": {
+      "user": 43.0,
+      "title": "Scholarship Information Repository",
+      "agendaCategory": "Other Campus related works",
+      "description": "An online repository of the various scholarships that are floated throughout the year and spread awareness about them for the benefit of the student community.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 326,
+    "fields": {
+      "user": 43.0,
+      "title": "Dynamic Conference Calender",
+      "agendaCategory": "Other Campus related works",
+      "description": "Initiate a Dynamic Conference Calendar at the start of the semester in order to keep track of all the conferences to be conducted throughout the semester.",
+      "status": "Broken",
+      "representativeComments": "The number of people responsible for events creates this a logistical nightmare.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 327,
+    "fields": {
+      "user": 43.0,
+      "title": "Travel Grant Funds Increment",
+      "agendaCategory": "Other Campus related works",
+      "description": "Collaborate with SAIL and Academic section to increase the corpus fund to facilitate more number of students(both UG &PG) travel grants in order to enhance the research community in the campus",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 328,
+    "fields": {
+      "user": 43.0,
+      "title": "Collaboration with Other Hospitals To Improve the Overall Medical Facility",
+      "agendaCategory": "Hospital",
+      "description": "To tie up with other hospitals within the city with a memorandum of understanding to refer the students for better medical facilities and this will be covered under their medical insurance.",
+      "status": "Broken",
+      "representativeComments": "Can\u2019t tinker with the current insurer\u2019s network.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 329,
+    "fields": {
+      "user": 43.0,
+      "title": "Disposal Of Bio-Waste",
+      "agendaCategory": "Hospital",
+      "description": "Ensuring the proper disposal of bio-medical waste.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 330,
+    "fields": {
+      "user": 43.0,
+      "title": "Digitalizing the Hospital- Appointment",
+      "agendaCategory": "Hospital",
+      "description": "The online portal as of now is ready for containing the medical records of the Students and also lets the students to make appointments with the concerned doctors. As of now, there is no proper infrastructure to launch and maintain the portal. This would be tackled by taking up appropriate measures.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 331,
+    "fields": {
+      "user": 43.0,
+      "title": "Feedback System For Hospital",
+      "agendaCategory": "Hospital",
+      "description": "Proposing the development of an online feedback system for the IIT Guwahati Hospital.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "Absence of proper follow up is dragging it behind schedule.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 332,
+    "fields": {
+      "user": 43.0,
+      "title": "Online Medical Records",
+      "agendaCategory": "Hospital",
+      "description": "Maintaining and updating of medical records online.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

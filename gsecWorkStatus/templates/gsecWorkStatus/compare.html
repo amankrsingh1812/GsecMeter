@@ -1,0 +1,126 @@
+{% extends 'gsecWorkStatus/base.html' %}
+{%block info_agenda%}
+{#    <div style="padding: 0px; border: solid 1px; max-width:90px" align="center"><button class="btn btn-primary" style="">VP</button></div>#}
+<style>
+ @media only screen and (max-width: 600px) {
+    .smallscrn{
+        width: auto;
+    }
+ }
+@media only screen and (min-width: 600px) {
+
+    #styledbutton .mobilebtn{
+        width: 50%;
+    }
+    #styledbutton .largebtn{
+                width: 60%;
+    }
+ }
+</style>
+    <div id="styledbutton">
+    <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+
+    <div align="center"><h4 style="font-family: 'Tibetan Machine Uni'">Compare Current GenSec Progress</h4><button type="submit" class="btn btn-primary" name="designation" value="2019-20">Compare Current GenSec</button></form></div>
+    </div>
+    <h4 align="center" style="font-family: 'Tibetan Machine Uni'">Current Genral Seceratry's progress w.r.t Previous Year</h4>
+    <div  style="padding-top: 4em; margin: 1em; ">
+
+
+<div align="center" id="styledbutton" >
+    <div class="btn-group btn-group-justified mobilebtn smallscrn">
+      <div class="btn-group" style="margin:  20px; ">
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation"  value="Vice-President">VP</button></form>
+      </div>
+     <div class="btn-group" >
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="Hostel Affairs Board">HAB</button></form>
+     </div></div> <br>
+    <div class="btn-group btn-group-justified mobilebtn smallscrn">
+    <div class="btn-group">
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="Cultural Board">Cultural</button></form>
+      </div>
+        <div class="btn-group">
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="Welfare Board">Welfare</button></form>
+        </div></div><br>
+    <div class="btn-group btn-group-justified mobilebtn smallscrn">
+        <div class="btn-group" >
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="Technical Board">Technical</button></form>
+      </div>
+        <div class="btn-group">
+          <form action="{% url 'candidate:comparepast' %}"  method="post" >{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="Sports Board">Sports</button></form>
+        </div></div> <br>
+{#    </div>#}
+
+
+    <div class="btn-group btn-group-justified mobilebtn smallscrn" >
+      <div class="btn-group">
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary"  name="designation" value="Student Alumni Interaction Linkage">Sail</button></form>
+      </div>
+     <div class="btn-group">
+          <form action="{% url 'candidate:comparepast' %}" method="post">{% csrf_token %}
+        <button type="submit" class="btn btn-primary" name="designation" value="SWC">SWC</button></form>
+     </div></div> <br>
+
+{#    </div>#}
+ 
+    </div>
+{#            <select name="compare1">#}
+{##}
+{#                {% for person in members  %}#}
+{#                    {% if person.post_description != "PG SENATOR 2018-19" and person.post_description != "UG Senator 2018-19" and person.post_description != "Girl Senator 2018-19" %}#}
+{#                    <option>{{ person.post_description }}</option>#}
+{#                    {% endif %}#}
+{#                {% endfor %}#}
+{#            </select>#}
+{#             #}
+{#            <select name="compare2">#}
+{#                             {% for person in members  %}#}
+{#                    {% if person.post_description != "PG SENATOR 2018-19" and person.post_description != "UG Senator 2018-19" and person.post_description != "Girl Senator 2018-19" %}#}
+{#                    <option>{{ person.post_description }}</option>#}
+{#                    {% endif %}#}
+{#                {% endfor %}#}
+{##}
+{#            </select>#}
+{#         #}
+{#        <div align="center"> <button type="submit" class="btn btn-primary" style="background-color: purple">Compare</button></div>#}
+{#        </form>#}
+{##}
+{#    </div>#}
+{#    <h3 align="center" style="font-family: 'Tibetan Machine Uni'">Compare Senators</h3>#}
+{##}
+{#    <div  style="padding-top: 4em; margin: 1em; ">#}
+{##}
+{#        <form action="{% url 'candidate:comparesenator' %}" method="post" >#}
+{#        {% csrf_token %}#}
+{##}
+{#            <select name="senator1">#}
+{##}
+{#                {% for person in senators  %}#}
+{##}
+{#                    <option>{{ person.username }}</option>#}
+{##}
+{#                {% endfor %}#}
+{#            </select>#}
+{#             #}
+{#            <select name="senator2">#}
+{#             {% for person in senators  %}#}
+{##}
+{#                    <option>{{ person.username }}</option>#}
+{##}
+{#                {% endfor %}#}
+{##}
+{#            </select>#}
+{#         #}
+{#        <div align="center"> <button type="submit" class="btn btn-primary" style="background-color: purple">Compare</button></div>#}
+{#        </form>#}
+{##}
+{#    </div>#}
+
+{% endblock %}
+

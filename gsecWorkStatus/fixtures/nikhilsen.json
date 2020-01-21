@@ -1,0 +1,121 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 394,
+    "fields": {
+      "user": 23.0,
+      "title": "Bus service from campus to airport during vacations",
+      "agendaCategory": "Welfare",
+      "description": "Start bus service from campus to airport for catching flights",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 395,
+    "fields": {
+      "user": 23.0,
+      "title": "Establishment of a committee for adherence to meal plans directed by a nutritionist",
+      "agendaCategory": "Food",
+      "description": "Nutritionist consulted meal plans in hostel messes",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 396,
+    "fields": {
+      "user": 23.0,
+      "title": "Veterinary doctor assistance in campus",
+      "agendaCategory": "Welfare",
+      "description": "Vet doctor for all campus animals",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 397,
+    "fields": {
+      "user": 23.0,
+      "title": "Official interaction between freshers and seniors inside first 3 months",
+      "agendaCategory": "Academic",
+      "description": "Official interaction for guiding and helping freshers",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 398,
+    "fields": {
+      "user": 23.0,
+      "title": "Online portal for hoc members to upload bills",
+      "agendaCategory": "HAB",
+      "description": "Transparency in hostel matters",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 399,
+    "fields": {
+      "user": 23.0,
+      "title": "Increasing the frequency of mosquito repellant sprays",
+      "agendaCategory": "Maintenance",
+      "description": "To prevent mosquito bites and related diseases ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 400,
+    "fields": {
+      "user": 23.0,
+      "title": "Drinking water in food court",
+      "agendaCategory": "Welfare",
+      "description": "Provide drinking water fountain or tank inside food court",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

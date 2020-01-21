@@ -1,0 +1,274 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 170,
+    "fields": {
+      "user": 33.0,
+      "title": "Automatic mess bill calculation of HAB.",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "Automation of mess bill including calculation and communicating on Students portal.",
+      "status": "Ongoing-Short-Term",
+      "representativeComments": "SWC is working on this project, this being one of our major priorities.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 171,
+    "fields": {
+      "user": 33.0,
+      "title": "Automation of payment for various HAB utilities in the HAB portal like temporary room allocation, mess bill readjustments.",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "Adding a utility to existing HAB portal where the payment to and from HAB can be made\nonline.",
+      "status": "Ongoing-Short-Term",
+      "representativeComments": "SWC is working on this project, this being one of our major priorities",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 172,
+    "fields": {
+      "user": 33.0,
+      "title": "Listing of all the committees and subcommittee and minutes of\ntheir work under HAB and Gymkhana on their respective sites.",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "1. SWC will give facility to upload all the relevant contracts on their respective web portal. 2.SWC will give facility to upload the list of all committees and sub committees and their scope of work, meeting minutes and their work progress.",
+      "status": "Ongoing-Short-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 173,
+    "fields": {
+      "user": 33.0,
+      "title": "New SWC website",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "1. To showcase work and activities of SWC.\n2. To make SWC and its working more transparent to the general user.\n3. To showcase the list of present and past associated members.\n4. Experiences of the past internships will be showcased\n5. Feedback from the IITG Junta to enhance the working of SWC.",
+      "status": "Ongoing-Short-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 174,
+    "fields": {
+      "user": 33.0,
+      "title": "Creating new website for the security section and helping in\nautomation of security",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "Security plays the key role in the life of IITG community and yet they do not get the\nenough support and there is a no means of real time communication to them. Creation of a new website for security section and also help them using\ntechnology at IITG gates.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 175,
+    "fields": {
+      "user": 33.0,
+      "title": "Giving support to the campus community for the web\ndevelopment and the hosting facility",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "Due to the lack of coordination between developers and the other stakeholders, they\nhave to outsource the web development and deployment task.",
+      "status": "Ongoing-Long-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 176,
+    "fields": {
+      "user": 33.0,
+      "title": "Giving web support to the campus start-ups",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "During incubation period funding is the main issue, so they don\u2019t have ample amount for\nweb development. On the other hand web is a very crucial for their expansion.",
+      "status": "Ongoing-Short-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 177,
+    "fields": {
+      "user": 33.0,
+      "title": "Website for Inter IIT Sports Meet and Silver jubilee of IITG",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "As IITG will be hosting Inter IIT sports meet on its Silver Jubilee, will host a website for all\nthe events and updates.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 178,
+    "fields": {
+      "user": 33.0,
+      "title": "Listing the referential website for each of the IIT courses",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "1. For each of the running courses of IITG, Will take a survey of external website from the\ncampus students and alumnus.\n2. Will rank the external website for each courses according to survey and an editorial\nteam.\n3. Will display this list on SWC website.\n4. Will also provide the mechanism to add the external link for a given courses or add the\nfeedback about the external resources.\n5. In this way, this list will be dynamic and automatically updated.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 179,
+    "fields": {
+      "user": 33.0,
+      "title": "Automation of Sports Board",
+      "agendaCategory": "WEB DEVELOPMENT:",
+      "description": "1. Online inventory of all the sports club on the website.\n2. List and experiences of all the Inter IIT players.\n3. Feedback of all the sportsman.\n4. Gallery of all the achievements will be displayed on website.\n5. Details of expenditure of Sports Board Budget will be displayed on its website for each\nsemester.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 180,
+    "fields": {
+      "user": 33.0,
+      "title": "Formation of new team for Campus Wiki",
+      "agendaCategory": "Reconstructing and expansion of SWC team",
+      "description": "Campus Wiki is a platform to showcase all the facilities and utilities of IIT Campus.",
+      "status": "Ongoing-Long-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 181,
+    "fields": {
+      "user": 33.0,
+      "title": "Campus Information System team development",
+      "agendaCategory": "Reconstructing and expansion of SWC team",
+      "description": "1. Will form a strong dedicated team.\n2. Will create a local search engine on all the campus minutes, contracts and every document\nrelated matters.\n3. Will create a live G-Sec meter where all the executives will be accountable to their agendas\nand they will get sufficient time and motivation for completion of their promised tasks.",
+      "status": "Ongoing-Long-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 182,
+    "fields": {
+      "user": 33.0,
+      "title": "Creating new POR\u2019s for WebOpp Team",
+      "agendaCategory": "Reconstructing and expansion of SWC team",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 183,
+    "fields": {
+      "user": 33.0,
+      "title": "Finalizing constitution and structure of SWC and its alias.",
+      "agendaCategory": "Reconstructing and expansion of SWC team",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 184,
+    "fields": {
+      "user": 33.0,
+      "title": "Setting up of a new lab for conducting all SWC work",
+      "agendaCategory": "Miscellaneous",
+      "description": "Will setup a dedicated and creative lab for various SWC activities.",
+      "status": "Ongoing-Long-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 185,
+    "fields": {
+      "user": 33.0,
+      "title": "Conducting workshops and lectures for IITG students",
+      "agendaCategory": "Miscellaneous",
+      "description": "1. Fresher\u2019s have lot of interest in web development activities but not everyone can get their\ndesired branch so SWC will conduct various workshops and lectures to motivate them and\ngroom them to acquire required skill set and experience.\n2. Will buy few online lectures and courses and will train them through online and offline courses.\n3. Will conduct workshops like:\n\nPython Workshop\nDjango Workshop\na. Basic Of Django\nb. Coding ART\nc. Development to Deployment\nd. Database Essentials : Optimal Database design\ne. Design of Website and Filtering the User Requirements\nf. Optimization issues : Space vs time",
+      "status": "Ongoing-Long-Term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

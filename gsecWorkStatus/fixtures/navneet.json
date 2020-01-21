@@ -1,0 +1,70 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 427,
+    "fields": {
+      "user": 36.0,
+      "title": " Same hostel to students of same course.",
+      "agendaCategory": "HAB ",
+      "description": " To allot all students of same course in same hostel. Because the idea to allot them in different hostels was to share knowledge of different branch and different courses but I don\u2019t think it is working out, instead there are many drawbacks to it if I personally don\u2019t know many students of my class and during/after class hours we don\u2019t get much time to talk or discuss about some topic and being in different hostel this has created a interaction gap between us",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 428,
+    "fields": {
+      "user": 36.0,
+      "title": " Optical Shop ",
+      "agendaCategory": "Maintenance Section ",
+      "description": " To open an optical shop in the campus as many students needs that facility on urgent basis and every time it is not possible to go to city. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 429,
+    "fields": {
+      "user": 36.0,
+      "title": " Maintenance ",
+      "agendaCategory": " HMC ",
+      "description": "Many times I had maintenance issues like tubelight ,fan or washing machine. And I complained through complaint section in utilities but it took a time of month to get it repaired and  I don\u2019t think these basic complaint should take that much time to get resolved.  ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 430,
+    "fields": {
+      "user": 36.0,
+      "title": "Router in every hostel corridor ",
+      "agendaCategory": "HMC",
+      "description": "-Install routers in corridors of every hostel.  As Institute is just providing 2 or 3 routers to every hostel.  ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

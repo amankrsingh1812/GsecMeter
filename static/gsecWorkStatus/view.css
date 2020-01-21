@@ -1,0 +1,322 @@
+#vibcontainer {
+  margin-top: 2px;
+  margin-left: 0px;
+  position: relative;
+  background: #45453f;
+}
+
+.vibration {
+  width: 14px;
+  height: 14px;
+  border: 1px solid #008000;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #008000;
+  z-index: 10;
+  position: absolute;
+}
+
+.dot {
+  border: 10px solid #008000;
+  background: transparent;
+  -webkit-border-radius: 70px;
+  -moz-border-radius: 70px;
+  border-radius: 70px;
+  height: 75px;
+  width: 75px;
+  -webkit-animation: vibration 3s ease-out;
+  -moz-animation: vibration 3s ease-out;
+  animation: vibration 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  position: absolute;
+  top: -31px;
+  left: -31px;
+  z-index: 1;
+  opacity: 0;
+}
+
+@-moz-keyframes vibration {
+ 0% {
+    -moz-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -moz-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -moz-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -moz-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -moz-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+
+@-webkit-keyframes "vibration" {
+ 0% {
+    -webkit-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -webkit-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -webkit-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -webkit-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -webkit-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+.vibration_red {
+  width: 14px;
+  height: 14px;
+  border: 1px solid red;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background-color: red;
+  z-index: 10;
+  position: absolute;
+  margin-top: 2px;
+}
+
+.dot_red {
+  border: 10px solid red;
+  background: transparent;
+  -webkit-border-radius: 70px;
+  -moz-border-radius: 70px;
+  border-radius: 70px;
+  height: 75px;
+  width: 75px;
+  -webkit-animation: vibration_red 3s ease-out;
+  -moz-animation: vibration_red 3s ease-out;
+  animation: vibration_red 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  position: absolute;
+  top: -29px;
+  left: -31px;
+  z-index: 1;
+  opacity: 0;
+}
+
+@-moz-keyframes vibration_red {
+ 0% {
+    -moz-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -moz-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -moz-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -moz-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -moz-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+
+@-webkit-keyframes "vibration_red" {
+ 0% {
+    -webkit-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -webkit-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -webkit-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -webkit-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -webkit-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+.vibration_progress {
+  width: 14px;
+  height: 14px;
+  border: 1px solid #FEC31F;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #FEC31F;
+  z-index: 10;
+  position: absolute;
+  margin-top: 2px;
+}
+
+.dot_progress {
+  border: 10px solid #FEC31F;
+  background: transparent;
+  -webkit-border-radius: 70px;
+  -moz-border-radius: 70px;
+  border-radius: 70px;
+  height: 75px;
+  width: 75px;
+  -webkit-animation: vibration_progress 3s ease-out;
+  -moz-animation: vibration_progress 3s ease-out;
+  animation: vibration_progress 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  position: absolute;
+  top: -29px;
+  left: -31px;
+  z-index: 1;
+  opacity: 0;
+}
+
+@-moz-keyframes vibration_progress {
+ 0% {
+    -moz-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -moz-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -moz-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -moz-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -moz-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+
+@-webkit-keyframes "vibration_progress" {
+ 0% {
+    -webkit-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -webkit-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -webkit-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -webkit-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -webkit-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+.vibration_tostart {
+  width: 14px;
+  height: 14px;
+  border: 1px solid #B1B1B1;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #B1B1B1;
+  z-index: 10;
+  position: absolute;
+  margin-top: 2px;
+}
+
+.dot_tostart {
+  border: 10px solid #B1B1B1;
+  background: transparent;
+  -webkit-border-radius: 70px;
+  -moz-border-radius: 70px;
+  border-radius: 70px;
+  height: 75px;
+  width: 75px;
+  -webkit-animation: vibration_tostart 3s ease-out;
+  -moz-animation: vibration_tostart 3s ease-out;
+  animation: vibration_tostart 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  position: absolute;
+  top: -29px;
+  left: -31px;
+  z-index: 1;
+  opacity: 0;
+}
+
+@-moz-keyframes vibration_tostart {
+ 0% {
+    -moz-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -moz-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -moz-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -moz-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -moz-transform: scale(1);
+    opacity: 0.0;
+ }
+}
+
+@-webkit-keyframes "vibration_tostart" {
+ 0% {
+    -webkit-transform: scale(0);
+    opacity: 0.0;
+ }
+ 25% {
+    -webkit-transform: scale(0);
+    opacity: 0.1;
+ }
+ 50% {
+    -webkit-transform: scale(0.1);
+    opacity: 0.3;
+ }
+ 75% {
+    -webkit-transform: scale(0.5);
+    opacity: 0.5;
+ }
+ 100% {
+    -webkit-transform: scale(1);
+    opacity: 0.0;
+ }
+}

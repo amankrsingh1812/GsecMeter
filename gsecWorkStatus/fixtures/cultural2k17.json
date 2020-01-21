@@ -1,0 +1,223 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 286,
+    "fields": {
+      "user": 40.0,
+      "title": "Creation of short tutorial videos and messages",
+      "agendaCategory": "Club Activities",
+      "description": "This would make the clubs more accessible to the people and also help the clubs add to their team in large numbers",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We are doing it starting with Music Club, Lumiere and Dance Club as for now",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 287,
+    "fields": {
+      "user": 40.0,
+      "title": "Create a Design cum Media team",
+      "agendaCategory": "Club Avtivities",
+      "description": "Create a Design cum Media team in charge of managing and maintaining the publicity of every club on various social media platforms as well as YouTube. This will increase the exposure of our clubs in our campus, and thus generate interest in both the participants as well as the spectators.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We tried making PSC active from this year and we have a team under the Events Manager having a designer and a person to make content but it wasn\u2019t done efficiently so had to drop it.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 288,
+    "fields": {
+      "user": 40.0,
+      "title": "Themed functions",
+      "agendaCategory": "Club Activities",
+      "description": "Over the course of my tenure, the theme of the Cultural Board will be: exhibiting the physical and cultural beauty of our campus and student life by means of various competitions, events and a series of blog posts",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "We are planning a few more events along with the ongoing EBSB to inculcate this theme",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 289,
+    "fields": {
+      "user": 40.0,
+      "title": "Fine arts and Montage collab",
+      "agendaCategory": "Club Activities",
+      "description": "Introducing a Fine Arts showcase and merging it with the annual Photography exhibition to ensure promotion of both the arts with better reach",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 290,
+    "fields": {
+      "user": 40.0,
+      "title": "Hostel collab",
+      "agendaCategory": "Manthan",
+      "description": "Collaboration with the General Secretaries of hostels to motivate the interested people to join the clubs and hence, increasing quality participation in Manthan as well as increasing the one-on-one interaction of the clubs with the people",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "We kept meetings with General Secretaries and even took suggestions from them as for what type of events will help increase participation from the freshers.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 291,
+    "fields": {
+      "user": 40.0,
+      "title": "Judge appointing",
+      "agendaCategory": "Manthan",
+      "description": "The Judges of the various events will be announced well before the respective event is due to take place, and also ensure that the judge has prior experience in judging the same/similar event",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We even postponed some events just because we couldn\u2019t find eligible judges but not a single event had judges with questionable credibility.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 292,
+    "fields": {
+      "user": 40.0,
+      "title": "Event reviews",
+      "agendaCategory": "Manthan",
+      "description": "Event Reviews will be conducted after the completion of the event to better understand the experience of the participants and/or spectators",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We planned on doing it after the first half but due to Inter IIT Cultural Meet Selections we couldn\u2019t do it. It will be done now collectively for all the events of Manthan.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 293,
+    "fields": {
+      "user": 40.0,
+      "title": "Club member recognition",
+      "agendaCategory": "New SAC",
+      "description": "Throughout the course of the year, the members of the Cultural Clubs take part in many activities to explore their art and culture. A separate plaque in the club rooms listing the club members\u2019 name will be installed so as to provide recognition to the club members. This, in turn, provides an incentive to the people who are involved in cultural activities but are not active in the club",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "Will be done(not the plaque but we will be recognising them) by the end of tenure.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 294,
+    "fields": {
+      "user": 40.0,
+      "title": "Hall of Fame",
+      "agendaCategory": "New SAC",
+      "description": "At the end of the even semester, the artist who has most masterfully expressed his/her art, and in doing so, has inspired others towards that art, will have his/her name immortalized on a plaque in the New SAC",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "Will be done(not the plaque but we will be recognising them) by the end of tenure.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 295,
+    "fields": {
+      "user": 40.0,
+      "title": "Club integration",
+      "agendaCategory": "Alcheringa",
+      "description": "Undertaking measures to Integrate club workshops with Alcheringa to increase participation",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We worked closely with the events team this time for this but not all workshops were conducted with the clubs.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 296,
+    "fields": {
+      "user": 40.0,
+      "title": "Early orientation",
+      "agendaCategory": "Alcheringa",
+      "description": "Facilitating an early orientation for Alcheringa to acquaint students to its various teams and events, thus giving them a chance to learn about the fest",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "We had an orientation for all the freshers in the odd sem only telling them about the various modules and events. Even room-wise orientations too will be conducted by the various heads.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 297,
+    "fields": {
+      "user": 40.0,
+      "title": "Reach expansion",
+      "agendaCategory": "Advaya",
+      "description": "Will coordinate with post-graduate students to ensure that the Festival is celebrated on a grander scale and ensure a bigger audience",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "We had appointed captains for each department and centre and formed an organsing team for Advaya. All the captains and heads were PG students and most of the events saw increased participation from PG students.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 298,
+    "fields": {
+      "user": 40.0,
+      "title": "UG + PG collab",
+      "agendaCategory": "Advaya",
+      "description": "Helping Advaya upgrade into both UG and PG inter-departmental festival",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "We had the biggest inter-departmental fest this time under the name of Advaya seeing participation from both UG and PG students.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

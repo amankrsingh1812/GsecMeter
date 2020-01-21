@@ -1,0 +1,30 @@
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>Your agenda is added</title>
+</head>
+<body>
+
+{% if some_flag %}
+    <div class="container">
+    <div class="alert alert-success alert-dismissible fade in">
+       <a href="/gsec/" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>Success!</strong> Your is under verification.Once verified it will be added in your Homepage.
+    </div>
+    </div>
+{% endif %}
+{% if flag %}
+    <div class="container">
+    <div class="alert alert-danger alert-dismissible fade in">
+       <a href="/gsec/" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>Failed! </strong>Enter Fields Properly
+    </div>
+    </div>
+{% endif %}
+</body>
+</html>

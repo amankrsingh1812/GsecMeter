@@ -1,0 +1,34 @@
+{% extends 'gsecWorkStatus/base.html' %}
+
+{% block info_agenda %}
+    <div align="center" >
+    {% if chartcompleted != '' %}
+    <span style="margin:2em; margin-bottom:5em; "  align="center  ">{{ chartcompleted.as_html }}</span>
+{#        <span style="float: left"> akdka</span>#}
+    {% endif %}
+    {% if chartbroken != '' %}
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartbroken.as_html }}</span>
+    {% endif %}
+    {% if chartongoinlong != '' %}
+
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartongoinlong.as_html }}</span>
+    {% endif %}
+    {% if chartongoinshort != '' %}
+
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartongoinshort.as_html }}</span>
+    {% endif %}
+    {% if chartnotstarted != '' %}
+
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartnotstarted.as_html }}</span>
+    {% endif %}
+    {% if chartnotevaluated != '' %}
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartnotevaluated.as_html }}</span>
+    {% endif %}
+    {% if chartsubjective != '' %}
+    <span style="margin:2em; margin-bottom:5em;"  align="center  ">{{ chartsubjective.as_html }}</span>
+    {% endif %}
+
+
+    </div>
+
+{% endblock %}

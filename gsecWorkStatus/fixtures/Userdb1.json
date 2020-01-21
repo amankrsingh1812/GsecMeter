@@ -1,0 +1,13 @@
+[
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 1,
+    "fields": {
+        "user": 38,
+        "post_description": "abcdefg",
+        "image": "sarath_MbTXxbD.jpg",
+        "youtube": "https://abc.com",
+        "pdf": "undertaking.pdf"
+    }
+}
+]

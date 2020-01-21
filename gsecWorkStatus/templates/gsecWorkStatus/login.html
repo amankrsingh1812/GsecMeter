@@ -1,0 +1,27 @@
+{% extends 'gsecWorkStatus/base.html' %}
+{% block info_agenda %}
+<div align="center" style="margin-bottom: 300px;">
+    <div class="row" style="margin-top: 5em;">
+        <div class="col-lg-4 "></div>
+        <div class="col-lg-4  " >
+
+        <div style="position: center; border: solid 1px; padding: 1em; box-shadow: 2px 2px 2px 2px gray; ">
+
+            <form method="post" >
+                <h3 style="font-family: 'Tibetan Machine Uni'">LOGIN</h3>
+                {% if failed_login == "yes" %}
+                    <p style="color: red;" align="left">invalid login details</p>
+                {% endif %}
+                {% csrf_token %}
+                <input type="text" name="username" placeholder="username" ><br><br>
+                <input type="password" name="password" placeholder="password"><br><br>
+                <button type="submit" value="Login" class="btn btn-primary" style="background-color: #081D40;color: white; border-color: #9C27B0">Login</button><br>
+
+            </form>
+        </div>
+        </div>
+        <div class="col-lg-4 "></div>
+    </div>
+</div>
+
+{%endblock%}

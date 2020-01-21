@@ -1,0 +1,104 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 388,
+    "fields": {
+      "user": 28.0,
+      "title": "Girls Gym",
+      "agendaCategory": "sports board ",
+      "description": "to resume rennovation of girls gym. Aerobics and gymnastics classes to be conducted weekly, based on feedback",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 389,
+    "fields": {
+      "user": 28.0,
+      "title": "Books reissue",
+      "agendaCategory": "library(techinical board)",
+      "description": "online portal for reissuing of books",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 390,
+    "fields": {
+      "user": 28.0,
+      "title": "cleaning of lakes",
+      "agendaCategory": "Maintenance section",
+      "description": "a tender to be given for regular cleaning of lakes",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 391,
+    "fields": {
+      "user": 28.0,
+      "title": "vending machines",
+      "agendaCategory": "HAB",
+      "description": "setting up of tea and coffee vending machines in every hostel.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 392,
+    "fields": {
+      "user": 28.0,
+      "title": "spectacle shop",
+      "agendaCategory": "HAB",
+      "description": "follow up establishment of spectacle shop in campus.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 393,
+    "fields": {
+      "user": 28.0,
+      "title": "undergraduate research",
+      "agendaCategory": "academic ",
+      "description": "undergraduate research award to be introduced. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

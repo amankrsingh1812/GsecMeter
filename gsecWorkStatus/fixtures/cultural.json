@@ -1,0 +1,121 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 80,
+    "fields": {
+      "user": 31.0,
+      "title": "Inter IIT Cultural evening",
+      "agendaCategory": "Campus Events",
+      "description": "An evening showcasing the culture of the north east.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 81,
+    "fields": {
+      "user": 31.0,
+      "title": "Manthan Cultural Extravaganza",
+      "agendaCategory": "Manthan",
+      "description": "Showcase the best works of Manthan on a single day after Manthan",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 82,
+    "fields": {
+      "user": 31.0,
+      "title": "Decoration of Sac",
+      "agendaCategory": "Beautification of campus",
+      "description": "Display the paintings made by Fine Arts and photographs of montage in the sac to create a healthy\nenvironment for cultural work",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 83,
+    "fields": {
+      "user": 31.0,
+      "title": "Campus Outreach",
+      "agendaCategory": "Club activities",
+      "description": "Conduction of competitions and interactions with Schoolkids in Akshara and KV schools.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 84,
+    "fields": {
+      "user": 31.0,
+      "title": "Student Faculty Interaction",
+      "agendaCategory": "Campus and Club events",
+      "description": "Organisation of events to encourage interaction between students and faculty\nPossible solution: covered in proposal\nPlan of Action: Urge Lumiere and Anchorenza and RadioG to work on projects(short films, w",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 85,
+    "fields": {
+      "user": 31.0,
+      "title": "Inter Club cooperation",
+      "agendaCategory": "Club Activities",
+      "description": "Push clubs to utilise the full skillset of the members of the cultural board by proposing more\ninter club project",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 86,
+    "fields": {
+      "user": 31.0,
+      "title": "Club Core teams",
+      "agendaCategory": "Club management and freshers incorporation",
+      "description": "Forming a team that represents the club to make clubs more approachable to freshers and sim-\nplify overall management in every club",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

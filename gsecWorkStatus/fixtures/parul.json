@@ -1,0 +1,104 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 376,
+    "fields": {
+      "user": 26.0,
+      "title": "feminine sanitation",
+      "agendaCategory": "welfare board ",
+      "description": "installation of pad vending machines inside academic area.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 377,
+    "fields": {
+      "user": 26.0,
+      "title": "course feedback",
+      "agendaCategory": "Academic section",
+      "description": "course feedback to be taken during semester along with when the semester ends.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 378,
+    "fields": {
+      "user": 26.0,
+      "title": "library",
+      "agendaCategory": "library adminstration",
+      "description": "provision of bsaci needs in library during exams, like setting up of vending meachines for tea and coffee.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 379,
+    "fields": {
+      "user": 26.0,
+      "title": "aerobics and gymnastics",
+      "agendaCategory": "sports board",
+      "description": "introduction of aerobics and gymanstics in gym.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 380,
+    "fields": {
+      "user": 26.0,
+      "title": "fellowship portal",
+      "agendaCategory": "techincak board",
+      "description": "a online portal for interships and placements to be made available by ccd.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 381,
+    "fields": {
+      "user": 26.0,
+      "title": "undergraduate research",
+      "agendaCategory": "academic ",
+      "description": "undergraduate research award to be introduced. ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

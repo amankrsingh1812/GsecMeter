@@ -1,0 +1,288 @@
+[
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 4,
+    "fields": {
+        "user": 7,
+        "post_description": "Vice-President, Gymkhana Council 2017-18",
+        "image": "",
+        "youtube": "",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 9,
+    "fields": {
+        "user": 13,
+        "post_description": "General Secretary, Technical Board 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=sWW2TUQR8CQ",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 10,
+    "fields": {
+        "user": 14,
+        "post_description": "Vice-President Students\u2019 Gymkhana Council 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 11,
+    "fields": {
+        "user": 15,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 12,
+    "fields": {
+        "user": 16,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 13,
+    "fields": {
+        "user": 17,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 14,
+    "fields": {
+        "user": 18,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 15,
+    "fields": {
+        "user": 19,
+        "post_description": "Girl Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 16,
+    "fields": {
+        "user": 20,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 17,
+    "fields": {
+        "user": 21,
+        "post_description": "General Secretary, Student Alumni Interaction Linkage",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 18,
+    "fields": {
+        "user": 22,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 19,
+    "fields": {
+        "user": 23,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 20,
+    "fields": {
+        "user": 24,
+        "post_description": "General Secretary, Sports Board 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 21,
+    "fields": {
+        "user": 25,
+        "post_description": "Welfare Board 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 22,
+    "fields": {
+        "user": 26,
+        "post_description": "Girl Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 23,
+    "fields": {
+        "user": 27,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 24,
+    "fields": {
+        "user": 28,
+        "post_description": "Girl Senator 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 25,
+    "fields": {
+        "user": 29,
+        "post_description": "General Secretary, Hostel Affairs Board 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 26,
+    "fields": {
+        "user": 30,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 27,
+    "fields": {
+        "user": 31,
+        "post_description": "General Secretary, Cultural Board 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 28,
+    "fields": {
+        "user": 32,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 29,
+    "fields": {
+        "user": 33,
+        "post_description": "General Secretary, SWC",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=NtGgj5zhM84&index=1&list=PLhQ8pLZROhays5wlUOlpmYSebBnenpuWZ&pbjreload=10",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 30,
+    "fields": {
+        "user": 34,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 31,
+    "fields": {
+        "user": 35,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://www.youtube.com/watch?v=aatr_2MstrI",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 32,
+    "fields": {
+        "user": 36,
+        "post_description": "PG SENATOR 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+},
+{
+    "model": "gsecWorkStatus.userprofileinfo",
+    "pk": 33,
+    "fields": {
+        "user": 37,
+        "post_description": "UG Senator 2018-19",
+        "image": "",
+        "youtube": "https://abc.com",
+        "pdf": ""
+    }
+}
+]

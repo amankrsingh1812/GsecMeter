@@ -1,0 +1,835 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 1,
+    "fields": {
+      "user": 7.0,
+      "title": "24x7 Printing Facilities",
+      "agendaCategory": "Campus Junta",
+      "description": "A 24x7 network based printing facility would be a boon to the campus students. It is a requirement when important documents which are completed late night are to be printed, and that too from the comfort of individual rooms",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "Current project under coding club.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 2,
+    "fields": {
+      "user": 7.0,
+      "title": "Laundry and Washing System",
+      "agendaCategory": "Campus Junta",
+      "description": "A centralised laundry system for each hostel, so that much of a student\u2019s time which is wasted standing in the line/waiting for a washing machine, can be utilised for better purposes. It can also be implemented as a single system for the whole campus.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "Not looking likely as a pan institute trial exercise in short-term.",
+      "currentStatus": "Trial to be started in April.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 3,
+    "fields": {
+      "user": 7.0,
+      "title": "Internet from 12 noon - 2 pm",
+      "agendaCategory": "Campus Junta",
+      "description": "Since many students have a lab after this slot, this lunch time period can help them prepare for the lab. It can also be used to analyse topics in detail after classes. A complete prohibition of internet for the whole of the working hours creates a lot of inconvenience.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 4,
+    "fields": {
+      "user": 7.0,
+      "title": "Open Cafe",
+      "agendaCategory": "Campus Junta",
+      "description": "An Open Cafeteria to be constructed for encouraging faculty and student interaction, inter-departmental gatherings. It would give students an impetus to get out of the room and socialize.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "A Shirucafe proposal is in the channels.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 5,
+    "fields": {
+      "user": 7.0,
+      "title": "E-Toilets/Portable Toilets",
+      "agendaCategory": "Campus Junta",
+      "description": "Placing portable, automatic cleaning toilets at remote locations throughout the campus especially\nat the entry gates.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 6,
+    "fields": {
+      "user": 7.0,
+      "title": "Life Skills Courses",
+      "agendaCategory": "Campus Junta",
+      "description": "Along with the expansion of the new Life Skill courses, organize group discussions, personal interviews and counselling sessions, in collaboration with hostel HMC and Welfare Board, assisting in complete development of the students. It is necessary in today's world to possess soft skills",
+      "status": "Not-Evaluated",
+      "representativeComments": "This point contains a variety of sub-points and the VP mentions them in a collective sense of execution. Collaboration with other programs complicates its verification as an original agenda point.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 7,
+    "fields": {
+      "user": 7.0,
+      "title": "Public Benches/Picnic Spots",
+      "agendaCategory": "Campus Junta",
+      "description": "Placing benches under shade at various scenic spots to sit, relax and hang out with their friends and relish the beauty of the campus.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 8,
+    "fields": {
+      "user": 7.0,
+      "title": "Spectacle Shop",
+      "agendaCategory": "Campus Junta",
+      "description": "Getting a spectacle shop on the campus. Many students have impaired vision for most practical purposes and not having a shop for replacing damaged spectacles makes it quite inconvenient for not only students, but all campus residents.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "Senator Divyata Jaiswal is in talks with commercial owners.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 9,
+    "fields": {
+      "user": 7.0,
+      "title": "Vending Machines",
+      "agendaCategory": "Campus Junta",
+      "description": "Placing vending machines at various places on the campus in order to assist people in obtaining snacks and soft drinks at various hours of the day.\n",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "Senator Rohit K Reddy working on a model to bring them into the campus. In talks with vendors.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 10,
+    "fields": {
+      "user": 7.0,
+      "title": "More Electives for 2nd Year Students",
+      "agendaCategory": "Academic Life",
+      "description": "As a redesign of the curriculum is going on, initiatives to introduce more elective courses from the second year onwards shall be proposed so that the students are able to gain a holistic perspective about their future options.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "Academic Overhaul is currently under progress",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 11,
+    "fields": {
+      "user": 7.0,
+      "title": "E-Books packages for Freshers",
+      "agendaCategory": "Academic Life",
+      "description": "Providing incoming freshers with a package containing e-books for all their courses in the first year so as to enable them to study without any hassles.",
+      "status": "Completed",
+      "representativeComments": "The reach was below par.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 12,
+    "fields": {
+      "user": 7.0,
+      "title": "Database for Lab Facilities",
+      "agendaCategory": "Academic Life",
+      "description": "Compiling a database including all the facilities available in various labs across all the departments. This shall act as a one stop portal to figure out the availability of different instruments/research facilities throughout the institute.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 13,
+    "fields": {
+      "user": 7.0,
+      "title": "Sports Scholarships",
+      "agendaCategory": "Academic Life",
+      "description": "Providing exemplary sportsmen scholarships so as to encourage them to pursue sports and also reduce any financial difficulties that they might face.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "Cash incentives for Inter IIT Medalist.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 14,
+    "fields": {
+      "user": 7.0,
+      "title": "Scholarship Calculator",
+      "agendaCategory": "Academic Life",
+      "description": "Allowing students to look into the various scholarships they can tap into and allowing them to calculate the best amount of scholarship they can get.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "Coding club project completed. Launching soon.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 15,
+    "fields": {
+      "user": 7.0,
+      "title": "New SA Courses",
+      "agendaCategory": "Academic Life",
+      "description": "Introduce new SA courses for western musical instruments like guitar, keyboard etc.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 16,
+    "fields": {
+      "user": 7.0,
+      "title": "On time maintenance for Hostels",
+      "agendaCategory": "Hostel Life",
+      "description": "By creation of a separate maintenance cell for hostels, we will ensure on time maintenance of hostel facilities. Immediate redressal of issues such as faulty washing machines, water purifiers, coolers, internet ports and electrical appliances in rooms, and basic infrastructure.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 17,
+    "fields": {
+      "user": 7.0,
+      "title": "Iron Stations in Hostels",
+      "agendaCategory": "Hostel Life",
+      "description": "Since ironing and heater facilities are not allowed in hostel rooms, iron stations can be set in all hostels to allow students to iron their clothes. This facility can be used by making an entry at the guard's desk.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "A few hostels have started an ironing center. About to be taken up in the rest.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 18,
+    "fields": {
+      "user": 7.0,
+      "title": "RFID for Club Rooms",
+      "agendaCategory": "New SAC",
+      "description": "By using RFID enabled electromagnetic locks for club room access, we can streamline and make the process of utilising the New SAC rooms easier.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 19,
+    "fields": {
+      "user": 7.0,
+      "title": "Dairy",
+      "agendaCategory": "New SAC",
+      "description": "Although the proposal for a dairy has been approved, I will ensure that this process is completed at the earliest.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "Purabi dairy center ready in food court. Vendor to come in.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 20,
+    "fields": {
+      "user": 7.0,
+      "title": "Dihing Basketball Court",
+      "agendaCategory": "Campus Infrastructure",
+      "description": "Ensure proper maintenance and lights in the Dihing basketball court.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 21,
+    "fields": {
+      "user": 7.0,
+      "title": "Solar-Powered Street Lights",
+      "agendaCategory": "Campus Infrastructure",
+      "description": "In order to reduce electricity consumption and ensure proper lighting of roads making it safer for people to travel, solar powered street lights shall be introduced on campus.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 22,
+    "fields": {
+      "user": 7.0,
+      "title": "2nd Floor of New SAC",
+      "agendaCategory": "Campus Infrastructure",
+      "description": "Providing rooms to clubs, which do not currently have rooms, and also creation of a place where people can both work and refresh themselves when they are burnt out.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "Proposal copy not available with Gymkhana",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 23,
+    "fields": {
+      "user": 7.0,
+      "title": "Portals for P2P Learning",
+      "agendaCategory": "Cultural Activities",
+      "description": "Creation of online portal for peer to peer learning ,to enable people who know an art to teach the people who want to learn it, by providing meritorious benefits to both the participants.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 24,
+    "fields": {
+      "user": 7.0,
+      "title": "Performances by Indian and NE Artists",
+      "agendaCategory": "Cultural Activities",
+      "description": "Organising performances by Indian and North Eastern artists under the aegis of the cultural board independent of the other fests on campus.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 25,
+    "fields": {
+      "user": 7.0,
+      "title": "New Music Room",
+      "agendaCategory": "Cultural Activities",
+      "description": "Creation of a new music room in order to facilitate the participation of students in music related activities. Currently the lack of a music room impedes practice during events.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 26,
+    "fields": {
+      "user": 7.0,
+      "title": "Expansion and Transparency of CBS",
+      "agendaCategory": "Cultural Activities",
+      "description": "Ensuring accountability and transparency in the running of CBS as it is an organization which is becoming a popular medium for content sharing. Expand CBS for general campus usage as it currently is not telecasting events that can and should be telecasted.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 27,
+    "fields": {
+      "user": 7.0,
+      "title": "Books/Kindles for New SAC",
+      "agendaCategory": "Cultural Activities",
+      "description": "Ensure that New SAC has a collection of novels and non-academic books or kindles so that people who can read, discuss and ideate over a cup of coffee.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "To be proposed in the new financial budget.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 28,
+    "fields": {
+      "user": 7.0,
+      "title": "Women Specific Events like Pinkathon",
+      "agendaCategory": "Sports Activities",
+      "description": "Incorporating women specific events like Pinkathon etc, so as to raise women related awareness across the campus.\n",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 29,
+    "fields": {
+      "user": 7.0,
+      "title": "NSO for Chess",
+      "agendaCategory": "Sports Activities",
+      "description": "Since chess is a game of both mental and physical fitness and also with the recent formation of the chess club, NSO for chess should be included.\n",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 30,
+    "fields": {
+      "user": 7.0,
+      "title": "Juice Centre in Old SAC",
+      "agendaCategory": "Sports Activities",
+      "description": "Since players are hitting it hard in the sports arenas, it becomes vital if some source of refreshment is available close at hand. So we would insure the presence of a juice centre in Old SAC.\n",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "The upcoming food truck service will have a stop there. It will have the required beverages.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 31,
+    "fields": {
+      "user": 7.0,
+      "title": "Sports Medal",
+      "agendaCategory": "Sports Activities",
+      "description": "Awarding 'Sportsman of the Year' and 'Sportsman of the Batch' trophies to imbibe sporting culture\namong the people.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 32,
+    "fields": {
+      "user": 7.0,
+      "title": "Portal for issuing computing capabilities",
+      "agendaCategory": "Technical Facilities",
+      "description": "Providing students with a user-friendly portal for some extra juice (computing capabilities) if needed for high-end processing and running heavy memory-engaging programs.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 33,
+    "fields": {
+      "user": 7.0,
+      "title": "Ideation Room",
+      "agendaCategory": "Technical Facilities",
+      "description": "Creating an ideation room in the concept of 4i labs, allowing budding start-ups/innovators a workplace to incubate and ideate.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 34,
+    "fields": {
+      "user": 7.0,
+      "title": "Ambulance Usage",
+      "agendaCategory": "Student Welfare",
+      "description": "It has been seen that during times of emergency, many a times the ambulances are not available due to being out in the city or fetching other patients. By providing a few more ambulances and ensuring their proper usage, we plan to reduce this menace.",
+      "status": "Completed",
+      "representativeComments": "An addition ambulance started functioning this year.",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 35,
+    "fields": {
+      "user": 7.0,
+      "title": "Mosquito and Disease Control",
+      "agendaCategory": "Student Welfare",
+      "description": "Ensuring green areas are treated properly in order to minimize mosquitoes and other vectors spreading diseases. The number of mosquitoes in the campus is alarming which is nothing short of a health hazard. Raising the health standards is an immediate must.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 36,
+    "fields": {
+      "user": 7.0,
+      "title": "Lost and Found Corner",
+      "agendaCategory": "Student Welfare",
+      "description": "Setting up a lost and found corner in the Admin building or New SAC, for easy location and finding of lost items The corner would provide a more organised and structured way for the campus residents to deal with lost and found items.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "Security already equipped to handle it.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 37,
+    "fields": {
+      "user": 7.0,
+      "title": "Career Counselling",
+      "agendaCategory": "Student Welfare",
+      "description": "Students at the institute have great aspirations for their careers. But they also have many questions and queries that have to be answered. Providing students with career counselling, helping the students decide what's best for them will be a great help for them.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "Current team has Namrata ma'am working as a career counsellor too.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 38,
+    "fields": {
+      "user": 7.0,
+      "title": "Lounge Rooms in/near the academic complex",
+      "agendaCategory": "Student Welfare",
+      "description": "Creating lounge rooms for students actively involved in research work, so that they could take a chill pill for some time and then come back full of energy.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "Benches inside and outside cores installed to let people \u2018take a chill pill\u2019.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 39,
+    "fields": {
+      "user": 7.0,
+      "title": "Finance Committee",
+      "agendaCategory": "Empowering Senate and Gymkhana",
+      "description": "Setting up a committee to look after the finances of the student senate expenditure and ensuring no defaulting of bills. The finance committee shall also be educated in all the norms followed by the finance and accounts section so as to smoothen the process of exchange of money between clubs and administration.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "Cult Secy and four senators comprise the committee to meet the stated objectives.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 40,
+    "fields": {
+      "user": 7.0,
+      "title": "Chair Senate",
+      "agendaCategory": "Empowering Senate and Gymkhana",
+      "description": "A member would be appointed to head the Senate council to take updates, scrutinize and guide the working Senate. This would streamline the working and improve efficiency of functioning of the senate leading to better end results.",
+      "status": "Ongoing-Short-term",
+      "representativeComments": "",
+      "currentStatus": "Senate committee report to be submitted in the April meeting.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 41,
+    "fields": {
+      "user": 7.0,
+      "title": "Define Security\u2019s role on campus",
+      "agendaCategory": "Security and Safety",
+      "description": "Creating a proper set of rules to ensure appropriate conduct of security officers on campus. Their strength if channelled in the right manner can keep the campus safe without sacrificing the freedom/privacy of students.",
+      "status": "Not-Evaluated",
+      "representativeComments": "",
+      "currentStatus": "Individual issues of moral policing have gone down.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 42,
+    "fields": {
+      "user": 7.0,
+      "title": "Cycle and Laptop Insurance",
+      "agendaCategory": "Security and Safety",
+      "description": "Cycles and laptops are the two most valuable assets of an IITG students and especially cycles are really prone to theft. Hence, students would be insured in case of theft of cycles.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 43,
+    "fields": {
+      "user": 7.0,
+      "title": "Exchange Students and Cultures",
+      "agendaCategory": "International Affairs",
+      "description": "Teaming up with welfare board, we would let the international exchange students learn more about their rights and responsibilities in and around the campus. There will be sessions organised for the international students to share their stories, their food and their culture with the students of IITG and vice versa.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "Included representatives in SAB and Student\u2019s Senate.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 44,
+    "fields": {
+      "user": 7.0,
+      "title": "SAIL-IGAIN",
+      "agendaCategory": "International Affairs",
+      "description": "IGAIN (IIT Guwahati Alumni Investment Network), for mentoring/investment in budding start-ups through an alumni crowdsourcing network.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 45,
+    "fields": {
+      "user": 7.0,
+      "title": "PhD students Orientation",
+      "agendaCategory": "PG/PhD Welfare",
+      "description": "Since many Ph.D. students admitted during both semesters (summer and winter) are usually unaware of facilities being provided or features across various laboratories, the various exchange opportunities available a special orientation session shall be held for them.",
+      "status": "Completed",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 46,
+    "fields": {
+      "user": 7.0,
+      "title": "Best TA Award",
+      "agendaCategory": "PG/PhD Welfare",
+      "description": "Awarding three TAs per department for exemplary work, based on student feedback. Thereby creating incentives for good teaching by the TAs.",
+      "status": "Broken",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 47,
+    "fields": {
+      "user": 7.0,
+      "title": "Internet 24x7 for PhD students",
+      "agendaCategory": "PG/PhD Welfare",
+      "description": "Since PhDs and Research Scholars have need for more information, they need access to Internet, 24x7, so that they can have access to required research material all the time.",
+      "status": "Ongoing-Long-term",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 48,
+    "fields": {
+      "user": 7.0,
+      "title": "Conference Calendar",
+      "agendaCategory": "PG/PhD Welfare",
+      "description": "Compiling a calendar with the various conferences to be held throughout the year, allowing research students to plan their semester in advance.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 49,
+    "fields": {
+      "user": 7.0,
+      "title": "Online Payment of bills for residents of MSH",
+      "agendaCategory": "PG/PhD Welfare",
+      "description": "Setting up an online portal for payment of appropriate bills by the residents of MSH.",
+      "status": "Not-Started",
+      "representativeComments": "It is still offline",
+      "currentStatus": "Electricity. bills are now submitted online.",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

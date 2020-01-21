@@ -1,0 +1,104 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 382,
+    "fields": {
+      "user": 19.0,
+      "title": "FOSS(Free and Open source software) Girls in IITG",
+      "agendaCategory": "Academic",
+      "description": "",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 383,
+    "fields": {
+      "user": 19.0,
+      "title": "Online portal to show the events, competitions and lectures happening inside campus.",
+      "agendaCategory": "Technical board",
+      "description": "Portal to show all the daily campus events",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 384,
+    "fields": {
+      "user": 19.0,
+      "title": "Proposal for a new girls hostel to be built or the new hostel being built to be made into a girls hostel.",
+      "agendaCategory": "HAB",
+      "description": "New girls hostel to ",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 385,
+    "fields": {
+      "user": 19.0,
+      "title": "A portal to list out all the 2nd year internship opportunities and the last date to apply.",
+      "agendaCategory": "Academic",
+      "description": "Ease out the stressful process of application to internships by listing all kinds of internship opportunities",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 386,
+    "fields": {
+      "user": 19.0,
+      "title": "Organising events for girls to encourage their participation in sports, competitions to foster their involvement.",
+      "agendaCategory": "Fostering women participation",
+      "description": "Women centric events to encourage women participation in campus life",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 387,
+    "fields": {
+      "user": 19.0,
+      "title": "Funding B.Tech students for going on internships/research projects abroad.",
+      "agendaCategory": "AER",
+      "description": "Enabling more and more students to go for internships abroad by helping them with partial expenses and increasing the amount of STAF fund",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]

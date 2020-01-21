@@ -1,0 +1,223 @@
+[
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 87,
+    "fields": {
+      "user": 25.0,
+      "title": "Internships from the alumni of our institute",
+      "agendaCategory": "Academic Initiative",
+      "description": "An internship portal for students",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 88,
+    "fields": {
+      "user": 25.0,
+      "title": "Academic and Emotional support to backloggers",
+      "agendaCategory": "Academic Initiative",
+      "description": "Involvement of counselors and TA\u2019s to provide the same",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 89,
+    "fields": {
+      "user": 25.0,
+      "title": "Bringing students up-to-date on the various competitive exams.",
+      "agendaCategory": "Youth Empowerment",
+      "description": "Talks to be organized for students by seniors and alumni.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 90,
+    "fields": {
+      "user": 25.0,
+      "title": "Availability of counselling to students who are too shy or nervous to approach\nseniors or counselors.",
+      "agendaCategory": "SAATHI \u2013 Counselling",
+      "description": "Anonymous counselling portal",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 91,
+    "fields": {
+      "user": 25.0,
+      "title": "EQ101",
+      "agendaCategory": "Youth empowerment",
+      "description": "Building the emotional quotient and life skills of students",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 92,
+    "fields": {
+      "user": 25.0,
+      "title": "Personal guidance for individuals",
+      "agendaCategory": "Academic Initiative",
+      "description": "formation of groups where each and every student can be given attention.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 93,
+    "fields": {
+      "user": 25.0,
+      "title": "Resource for students (Research Scholars etc.) who work post 2 am",
+      "agendaCategory": "Library",
+      "description": "Availability of library and computer center for the same.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 94,
+    "fields": {
+      "user": 25.0,
+      "title": "Welfare through Social Service club",
+      "agendaCategory": "",
+      "description": "Awareness in case of emergency",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 95,
+    "fields": {
+      "user": 25.0,
+      "title": "Welfare through Youth Empowermen club",
+      "agendaCategory": "",
+      "description": "Women Empowerment",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 96,
+    "fields": {
+      "user": 25.0,
+      "title": "Welfare through Saathi  club",
+      "agendaCategory": "",
+      "description": "Students facing any kind of problems be it be academics, emotional or physical should be\ntaken care of.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 97,
+    "fields": {
+      "user": 25.0,
+      "title": " Hostel Affairs",
+      "agendaCategory": "Hostels",
+      "description": "Proper engagement of Hostel\u2019s welfare secretary in welfare board.",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 98,
+    "fields": {
+      "user": 25.0,
+      "title": "Overall development",
+      "agendaCategory": "SA courses",
+      "description": "Students are interested in various other domains also",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  },
+  {
+    "model": "gsecWorkStatus.agenda",
+    "pk": 99,
+    "fields": {
+      "user": 25.0,
+      "title": "Agenda Heading: Generic Campus Welfar",
+      "agendaCategory": "Organized Cab Service during night",
+      "description": "Coordinating with cab companies to provide consistent support during nights at reasonable rates",
+      "status": "Not-Started",
+      "representativeComments": "",
+      "currentStatus": "",
+      "unapprovedComment": "",
+      "unapprovedStatus": "",
+      "approvedBy": "",
+      "StatusCategory": ""
+    }
+  }
+]
