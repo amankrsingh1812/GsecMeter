@@ -83,7 +83,18 @@ def create_Agenda1(request):
 #     else:
 #         return redirect(redirect_url)
 
-
+@login_required(login_url='authentication:home')
+def jugaad(request,pname):
+    user_id = request.user.id
+    item_id = pname
+    redirect_uri = request.build_absolute_uri('')
+    v = votes.objects.filter(item_id=item_id, user_id=user_id)
+    if (len(v) > 0):
+        return redirect(redirect_uri)
+    m = votes(item_id=item_id, user_id=user_id)
+    m.save()
+    v = votes.objects.filter(item_id=item_id)
+    return redirect(redirect_uri)
 def vote(request,pname):
     if request.method == 'GET':
 

@@ -9,6 +9,10 @@ from authentication.authhelper import get_token_from_code
 # The helper to get data from outlook like roll number, email, name
 from authentication.outlookservice import get_me
 
+from django.contrib.auth.models import User
+
+from django.contrib.auth import authenticate, login, logout
+
 def home(request):
 
   # Redirecting to gettoken view after authenticating
@@ -18,7 +22,7 @@ def home(request):
   # Building the sig in url
   sign_in_url = get_signin_url(redirect_uri)
 
-  return HttpResponse('<a href="' + sign_in_url + '">Click here to sign in and test outlook OAuth2</a>')
+  return redirect(sign_in_url)
 
 
 # Add import statement to include new function
@@ -27,6 +31,7 @@ def gettoken(request):
 
   #################################
   # Set redirect after saving token
+
   redirect_url = None
   ################################
 
@@ -46,8 +51,28 @@ def gettoken(request):
 
     #####################
     # Get user from token
-    user = get_me(access_token)
+    
+    outUser = get_me(access_token)
+    username = 'trial'
+    password = outUser['surname']
+    mail = outUser['mail']
 
-    return HttpResponse("Token: %s<br>Name: %s<br>Roll Number: %s<br> Mail: %s" % (access_token, user['displayName'], user['surname'], user['mail']))
+    try:
+      user = User.objects.get(username=username)
+      # login(request, user)
+      print("user found")
+    except User.DoesNotExist:
+      user = User.objects.create_user(username, mail, password)
+      user.save()
+      print("new user created")
+    print("next")
+    user = authenticate(username=username, password=password)
+    if user is not None:
+      login(request, user)
+      return redirect("candidate:vp")
+    else:
+      print("%%%%%%%%%%%%%%%%%%%%%%%%%%")
+      return HttpResponse("Token: %s<br>Name: %s<br>Roll Number: %s<br> Mail: %s" % (access_token, outUser['displayName'], outUser['surname'], outUser['mail']))
+   
   else: 
     return redirect(redirect_url)

@@ -6,8 +6,8 @@ import requests
 
 
 # Client ID and secret
-client_id = '2597b493-ebd9-4260-927d-f08b1865cb77'
-client_secret = ';@_}{!&!]@?#|{N^|;^Ft[2&^V?(&.U!|][:^]|:%**[/+$*}u>!B]$'
+client_id = '34e741da-7c55-4c81-90a8-8a99893adb87'
+client_secret = 'oR9yddZ33-4[:q=qAT[75/8TYo?bC0:?'
 
 # Constant strings for OAuth2 flow
 # The OAuth authority

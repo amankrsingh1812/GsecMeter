@@ -1,4 +1,5 @@
 from django.conf.urls import url
+from django.urls import path
 from authentication import views
 
 app_name = 'authentication'
@@ -8,5 +9,5 @@ urlpatterns = [
     # Explicit home ('/authentication/home/')
     url(r'^home/$', views.home, name='home'),
     # Redirect to get token ('/authentication/gettoken/')
-    url(r'^gettoken/$', views.gettoken, name='gettoken'),
+    path('gettoken', views.gettoken, name='gettoken'),
 ]

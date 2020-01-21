@@ -14,6 +14,7 @@ urlpatterns = [
     # url(r'^cultural/$', views.cultural, name='cultural'),
     url(r'^addagendaforgs/$', views.create_Agenda1, name='createagenda'),
     url(r'^home/$', views.home, name='vp'),
+    url(r'^jugaad/(?P<pname>[\w\-]+)/$', views.jugaad, name='jugaad'),
     url(r'name/(?P<pname>[\w\-]+)/vote/$', views.vote, name='vote'),
     url(r'name/(?P<pname>[\w\-]+)/$',views.vp,name='gs'),
     url(r'^$', views.home, name='index'),

@@ -25,7 +25,7 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     url(r'^gsec/admin/', admin.site.urls),
-    url(r'^authentication/', include('authentication.urls', namespace='authentication')),
+    url(r'^gsec/authentication/', include('authentication.urls', namespace='authentication')),
     url(r'^gsec/', include('gsecWorkStatus.urls')),
 ]
 
