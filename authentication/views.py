@@ -53,7 +53,7 @@ def gettoken(request):
     # Get user from token
     
     outUser = get_me(access_token)
-    username = 'trial'
+    username = outUser['surname']
     password = outUser['surname']
     mail = outUser['mail']
 

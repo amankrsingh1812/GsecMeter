@@ -101,7 +101,7 @@ def vote(request,pname):
         if (request.GET['query'] == 'vote'):
             def nvote(request):
                 item_id = request.GET['item_id']
-                user_id = request.GET['user_id']
+                user_id = request.user.id
                 v = votes.objects.filter(item_id=item_id, user_id=user_id)
                 if (len(v) > 0):
                     return HttpResponse(-1)
@@ -120,6 +120,34 @@ def vote(request,pname):
         # likedpost = Post.obejcts.get(pk=post_id)  # getting the liked posts
         # m = Like(post=likedpost)  # Creating Like Object
         # m.save()  # saving it to store in database
+        return HttpResponse("0")  # Sending an success response
+    else:
+        return HttpResponse("Request method is not a GET")
+
+def voteh(request):
+    if request.method == 'GET':
+        if (request.GET['query'] == 'vote'):
+            def nvote(request):
+                item_id = request.GET['item_id']
+                user_id = request.user.id
+                v = votes.objects.filter(item_id=item_id, user_id=user_id)
+                if (len(v) > 0):
+                    return HttpResponse(-1)
+                m = votes(item_id=item_id, user_id=user_id)
+                m.save()
+                v = votes.objects.filter(item_id=item_id)
+                return HttpResponse(len(v))
+            return nvote(request)
+        elif request.GET['query'] == 'votecount':
+            item_id = request.GET['item_id']
+            total_votes = 0
+            v = votes.objects.filter(item_id=item_id)
+            return HttpResponse(len(v))
+                # return HttpResponse(len(v))
+            # post_id = request.GET['post_id']
+            # likedpost = Post.obejcts.get(pk=post_id)  # getting the liked posts
+            # m = Like(post=likedpost)  # Creating Like Object
+            # m.save()  # saving it to store in database
         return HttpResponse("0")  # Sending an success response
     else:
         return HttpResponse("Request method is not a GET")
@@ -777,8 +805,11 @@ def updatestatus(request,pk1):
 
 @login_required
 def user_logout(request):
+    if request.user.first_name == "GS":
+        logout(request)
+        return HttpResponseRedirect(reverse('candidate:login'))
     logout(request)
-    return HttpResponseRedirect(reverse('candidate:login'))
+    return redirect('candidate:vp')
 
 
 class UpdateAgenda(UpdateView):

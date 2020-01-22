@@ -16,6 +16,7 @@ urlpatterns = [
     url(r'^home/$', views.home, name='vp'),
     url(r'^jugaad/(?P<pname>[\w\-]+)/$', views.jugaad, name='jugaad'),
     url(r'name/(?P<pname>[\w\-]+)/vote/$', views.vote, name='vote'),
+    url(r'^home/vote/$', views.voteh, name='voteh'),
     url(r'name/(?P<pname>[\w\-]+)/$',views.vp,name='gs'),
     url(r'^$', views.home, name='index'),
     # url(r'^technical/$', views.technical, name='technical'),
@@ -36,7 +37,6 @@ urlpatterns = [
     url(r'^change_password/$',views.change_password,name='changepswd'),
     url(r'^compare/$',views.compare,name='compare'),
     url(r'^comparesenator/$',views.comparesenator,name='comparesenator'),
-    url(r'^comparepast/$',views.comparepast,name='comparepast'
-                                                 ''),
+    url(r'^comparepast/$',views.comparepast,name='comparepast'),
 
 ]

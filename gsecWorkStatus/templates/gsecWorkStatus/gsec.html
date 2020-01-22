@@ -183,16 +183,8 @@
                                                 </div>
                                                 <div class="col-lg-1"></div>
                                                 <div class="col-lg-2">
-                                                    {# {% if user.is_authenticated %} #}
-                                                       <a href="{% url 'candidate:jugaad' agenda.id %}"> <div id="vote_button{{agenda.id}}" data-trigger="tooltip" title="Click to vote!" style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;">
-                                                          </div></a>
-                                                        
-		                                            {# {% else %} #}
-
-                                                           {#  <a href="{% url 'authentication:home' %}"><button  style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;border: none;"></button></a> #}
-                                                    {# {% endif %} #}
-                                                            <!-- Div for number of votes -->
-		<div id="vote_count{{agenda.id}}"  style=" padding: 8px 0pt 0pt 30px;">&nbsp;</div>
+                                                       <div id="vote_button{{agenda.id}}" data-trigger="tooltip" title="Click to vote!" style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;">
+                                                           <div id="vote_count{{agenda.id}}"  style=" padding: 8px 0pt 0pt 30px;">&nbsp;</div></div>
 	
 	<!-- Div for vote recorded message -->
 <!--	<div id="vote_already{{agenda.id}}" style="display: none;"></div>-->
@@ -203,7 +195,7 @@
 	//<![CDATA[
 	$(document).ready(function()
 	{
-	    console.log({{ agenda.id }} );
+	    console.log( {{ agenda.id }} );
 		// Display number of votes for this item on page load.
 		var item_id = {{ agenda.id }};	// This is the item_id for which the number of votes are to be displayed.
 		var ajax_data1 = "query=votecount&item_id=" + item_id;
@@ -217,34 +209,43 @@
 		   }
 		});
 	});
-// 	$("#vote_button{{agenda.id}}").click(function()
-// 	{
-// 		var item_id = {{ agenda.id }};	// This is the item_id for which the number of votes are to be displayed.
-// 		var user_id = 1;	// This is the user_id who is voting.
-// 		var ajax_data = "query=vote&item_id=" + item_id + "&user_id=" + user_id;
-// 		$.ajax({
-// 			type: "GET",
-// 			url: "vote",
-// 			data: ajax_data,
-// 			success: function(votecount){
-// 				if(votecount == -1){
-// 					// The user has already voted.
-// 					$("#vote_recorded{{agenda.id}}").css({ display:'none' });
-// 					alert("You already voted!")
-// <!--					$("#vote_already{{agenda.id}}").css({ display:'' });-->
-// 				}
-// 				else
-// 				{
-// 					// Vote recorded, display the updated count.
-// 					$("#vote_already{{agenda.id}}").css({ display:'none' });
-// 					$("#vote_count{{agenda.id}}").html(votecount);
-// 					alert("Thanks for your vote!")
-// <!--					$("#vote_recorded{{agenda.id}}").css({ display:'' });-->
-// 				}
-// 			}
-// 		});
-// 	});
-	//]]>
+	$("#vote_button{{agenda.id}}").click(function()
+	{
+	    {% if user.is_authenticated %}
+		{var item_id = {{ agenda.id }};	// This is the item_id for which the number of votes are to be displayed.
+		var user_id = 1;	// This is the user_id who is voting.
+		var ajax_data = "query=vote&item_id=" + item_id + "&user_id=" + user_id;
+		$.ajax({
+			type: "GET",
+			url: "vote",
+			data: ajax_data,
+			success: function(votecount){
+				if(votecount == -1){
+					// The user has already voted.
+					$("#vote_recorded{{agenda.id}}").css({ display:'none' });
+					alert("You already voted!")
+<!--					$("#vote_already{{agenda.id}}").css({ display:'' });-->
+				}
+				else
+				{
+					// Vote recorded, display the updated count.
+					$("#vote_already{{agenda.id}}").css({ display:'none' });
+					$("#vote_count{{agenda.id}}").html(votecount);
+					alert("Thanks for your vote!")
+<!--					$("#vote_recorded{{agenda.id}}").css({ display:'' });-->
+				}
+			}
+		});
+		}
+		{% else %}
+		{
+		    alert("Please Login and then try to vote!")
+		    window.location= "{% url 'authentication:home' %}" ;
+
+		}
+		{% endif %}
+	});
+	// ]]>
 	</script>
 <!--                                                    <span id="right_col">-->
 <!--                                                   <button data-toggle="popover" data-trigger="hover" data-content="{{ agenda.currentStatus }}" title="Current Status" class="btn btn-danger active btn-sm" style="background-color: #EEEEEE;color: #222222;">C.S.</button>-->
