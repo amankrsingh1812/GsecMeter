@@ -116,7 +116,7 @@
                                         <tr>
 
                                     <div id="wrap" class="row">
-                                                <div class="col-lg-1">
+                                                <div class="col-lg-1 col-xs-1 jugaad-col1">
 
                                             {% if user.is_authenticated %}
                                                 {% if user.username == info.user.username  %}
@@ -161,8 +161,8 @@
 
 
                                                 </div>
-                                                <div  class="col-lg-5">
-                                                <div id="right_col" >
+                                                <div  class="col-lg-6 col-xs-11 jugaad-col2">
+                                                <div id="right_col1" >
                                                    <span data-toggle="popover" data-trigger="hover" data-content="{{agenda.description}}" title="Description">  {{agenda.title}} </span><br>
 
                                                        <script>
@@ -172,19 +172,33 @@
                                                         </script>
                                                 </div>
                                                 </div>
-                                                <div class="col-lg-2">
-                                                   <span id="right_col">
+                    
+                                                <div class="col-lg-5 col-xs-12">
+                                                  <div class="jugaad-col3">
+                                                    
+                                          
+                                                   <div id="right_col">
                                                    <button data-toggle="popover" data-trigger="hover" data-content="{{ agenda.representativeComments }}" title="Representative Comments" class="btn btn-info active btn-sm" >R.C.</button>
-                                                   <script>
+                                                   
+                                                    <script>
                                                     $(document).ready(function(){
                                                     $('[data-toggle="popover"]').popover({placement:'top'});
                                                          });
-                                                   </script></span>
+                                                   </script>
+                                                  </div>
+
+                                                  <div id="vote_button{{agenda.id}}" data-trigger="tooltip" title="Click to vote!" style="background: url('../../../media/likenew.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 30px; width: 50px; margin-left: 10px">
+                                                           <div id="vote_count{{agenda.id}}"  style="
+                                                        
+                                                           padding: 8px 0pt 0pt 30px;">&nbsp;
+                                                  </div>
+
+                                                  </div>
                                                 </div>
-                                                <div class="col-lg-1"></div>
-                                                <div class="col-lg-2">
+                                               <!--  <div class="col-lg-1"></div> -->
+                                               <!--  <div class="col-lg-2">
                                                        <div id="vote_button{{agenda.id}}" data-trigger="tooltip" title="Click to vote!" style=" background: url('../../../media/vote.png') no-repeat scroll 0 0 transparent; cursor: pointer; height: 25px; width: 95px;">
-                                                           <div id="vote_count{{agenda.id}}"  style=" padding: 8px 0pt 0pt 30px;">&nbsp;</div></div>
+                                                           <div id="vote_count{{agenda.id}}"  style=" padding: 8px 0pt 0pt 30px;">&nbsp;</div></div> -->
 	
 	<!-- Div for vote recorded message -->
 <!--	<div id="vote_already{{agenda.id}}" style="display: none;"></div>-->
