@@ -10,6 +10,7 @@ A website where campus students can see the agendas of the elected representativ
 
 ## To run
 
+ Before running add client_id and client_secret in ```IIT_Outlook_Oauth-master/authentication/authhelper.py``` 
  ```
  git clone https://github.com/amankrsingh1812/GsecMeter.git
  cd GsecMeter/
